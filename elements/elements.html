@@ -18010,4 +18010,31 @@ TRANSLATING/MUTATING
     })();
   </script>
 </dom-module>
+<dom-module id="erasure-content" assetpath="erasure-content/">
+  <template>
+    <style>
+      :host {
+        display: block;
+      }
+    </style>
+    <div>Hello from <span>{{foo}}</span></div>
+  </template>
+  <script>
+  (function() {
+    'use strict';
+
+    Polymer({
+      is: 'erasure-content',
+
+      properties: {
+        foo: {
+          type: String,
+          value: 'erasure-content',
+          notify: true
+        }
+      }
+    });
+  })();
+  </script>
+</dom-module>
 </div></body></html>
