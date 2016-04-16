@@ -3,21 +3,3 @@ dist
 bower_components
 .tmp
 .publish/
-target
-.sass-cache
-.settings
-.classpath
-.metadata
-.project
-.idea
-.DS_Store
-*.iml
-dependency-reduced-pom.xml
-npm-debug.log
-nb-configuration.xml
-nbactions--p release.xml
-nbactions-publicRelease.xml
-nbproject
-zensie-application/nbactions.xml
-zensie-application/nbactions-dropwizard.xml
-aws.json
