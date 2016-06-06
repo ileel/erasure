@@ -1,18 +1,41 @@
-{"title":"",
-"blocks":[
-  {
-    "title":"",
-    "subtitle":"",
-    "content":"example to <span id=\"remove\">change</span>"
-  },
-  {
-    "title":"",
-    "subtitle":"",
-    "content":"example to change"
-  },
-  {
-    "title":"",
-    "subtitle":"",
-    "content":"<span id=\"remove\">example</span> to change</span>"
-  }
-]}
+{
+  "title": "",
+  "blocks": [
+    {
+      "title": "",
+      "subtitle": "",
+      "content": [
+        {
+          "order": 1,
+          "paragraph": "example to change"
+        },
+        {
+          "paragraph": "example to change"
+        },
+        {
+          "order": 2,
+          "paragraph": "example to change"
+        }
+      ]
+    },
+    {
+      "title": "",
+      "subtitle": "",
+      "content": [
+        {
+          "paragraph": "example to change"
+        }
+      ]
+    },
+    {
+      "title": "",
+      "subtitle": "",
+      "content": [
+        {
+          "paragraph": "example to change"
+          "quote": "example to change"
+        }
+      ]
+    }
+  ]
+}
