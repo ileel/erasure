@@ -1,41 +1,563 @@
 {
-  "title": "",
+  "title": "THE POETICS AND POLITICS OF ERASURE",
   "blocks": [
     {
-      "title": "",
-      "subtitle": "",
+      "order": 1,
+      "title": "INTRODUCTION",
+      "content": [
+        
+          {"paragraph": "This thesis is a collection of lectures, scores and short essays on the poetics and politics of erasure written over the course of a two-year master study at the ArtScience Interfaculty in the Royal Academy of Art, the Hague, Netherlands.  "
+        },
+        {
+          "paragraph": "My motivation for researching the topic of erasure initially came from an interest in aesthetics of failure, a suspicion of the increased dependence on memory storage technology, and a frustration with the escalation of society’s archive fever. I began with an approach of media archeology, investigating the history of recording beginning with the written word, tracing it to the internet, and continuing with investigations in digital forgetting, archival power relations and identity politics. It became apparent that, although necessary, the need to record everything can have destructive effects on the ways that we learn, teach and understand the world and each other. We see this in hierarchies of knowledge, in the way that history is written and taught by dominant people, in who and what is deemed worthy of being recorded and preserved for future generations. From this point, I began looking towards erasure and forgetting, not necessarily to decelerate or counter the effects of recording, but to provide alternative and parallel modes of creating, learning and thinking. "
+        },
+         {
+          "paragraph": "In this introduction I will first lay out a framework for the kinds of erasure I will discuss throughout the thesis. I will then illustrate how a disproportionate investment in recording technology can have oppressive and violent effects, and what is at stake if we do not look towards alternative models of knowledge acquisition and dissemination. I will also explore the aesthetic and political possibilities that erasure can offer in the forms of erasing/forgetting, translating/mutating, and recontexualizing/(re)mythologizing, before outlining how these forms are present in digital cultural applications. This paper has no pretense of offering concrete answers. Rather, it is an exploration of various possible models of doing and thinking through erasure."
+        }],
+          "order": 2,
+          "title": "KATAMARI DAMACY: A FRAMEWORK FOR ERASURE",
+      "content": [
+        { 
+       
+          "paragraph": "In a 1997 interview, John Cage said “In contemporary civilization where everything is standardized and where everything is repeated, the whole point is to forget in the space between an object and its duplication. If we didn't have this power of forgetfulness, if art today didn't help us to forget, we would be submerged, drowned under those avalanches of rigorously identical objects.” While I agree with the sentiment of this statement, I would like to take it further and posit that forgetting can also involve being submerged and drowned under an avalanche, and that identical objects are not always so identical. In the internet age where information is abundant, infinite memes circulate, and languages mutate at an accelerating pace; concepts of refresh and bit rot are embedded in our daily lives.  "
+        },
+         {
+          
+          "paragraph": "What happens as a result can be visually demonstrated in the Playstation 2 game Katamari Damacy (released 2004). The plot of the game begins after the King of All Cosmos has accidentally destroyed all the stars in the universe. In order to reconstruct the sky, he sends his son, the prince, to Earth to collect everything. He does this by rolling an adhesive ball (the katamari) around various locations on Earth to attract objects of increasing size (from pins to dinosaurs to entire islands) until the ball is big enough to become a star. This game can easily be construed as an accelerationist narrative of our future. Accelerationism is “the insistence that the only radical political response to capitalism is not to protest, disrupt, or critique, nor to await its demise at the hands of its own contradictions, but to accelerate its uprooting, alienating, decoding, abstractive tendencies.” It is the idea that in order to effectively achieve any social change, characteristics of the current system of capitalism need to be accelerated and pushed beyond its limits."
+        },
+         {
+          
+          "paragraph": "I find accelerationism to be flawed in many regards, particularly in its binary view that our only options for a post-capitalist society are reduced to either the continued acceleration of current techno-social advancement or risking a “slow fragmentation towards primitivism, perpetual crisis and planetary ecological collapse”. However, I also believe it is a useful framework to branch off from to navigate the contradictions we face in our neoliberal and digital present; and to understand and rethink erasure as a generative process, resource, and weapon."
+        },
+         {
+         
+          "paragraph": "Let us apply this approach to an analysis of Katamari Damacy. The king, in a drinking binge destroys the cosmos (mindless consumption leading to economic, social and ecological collapse). In an effort to amend this catastrophic mistake, the next generation collects all data and material regardless of form (democratization of knowledge). The katamari constantly picks things up and occasionally knocks them off (additive and subtractive processes) as it bumps into larger objects, becoming an ever shifting and growing, honking, screaming, rumbling mass of giant octopi, skyscrapers, and islands (hybrid and mutating collectivity) until it is large enough to form a new star to add to a reconstructed universe (a new state, but not a complete tabula rasa). Throughout this introduction, I will elaborate upon this model, unpacking the aesthetics and politics of its various forms of erasure."
+        }],
+      "order": 3,
+      "title": "ARCHIVAL POWER",
+      "content": [
+        {
+          
+          "paragraph": "“To make forgetful animals into human beings, a blind force strikes that dismembers and inscribes their bodies in the real, until pain itself brings forth a memory” In this statement by Friedrich Kittler on the development of storage technology, we find a distinction between humans and animals made in the form of the written word and in memory. What sets apart human from animal, superior from inferior, is the use of storage technologies, the first being the written word. With the introduction of the typewriter and ultimately all recording technologies, humans became “an inscription surface.” Those that wield the power to write have the power to address. Since history is written by winners, colonists, and oppressors, the terms used by them to describe and ultimately shape the bodies and histories of the oppressed are the terms that prevail. They are the terms that we use to shape and understand the world and each other. As Judith Butler writes, “we are beings that require language to be”, so it is also through language that we come to be subjectified, dehumanized, or eliminated. We see this in slurs, in the way characteristics of certain demographics are systematically assigned negative connotations. In privileging the written word, a medium less volatile and less contested, not only did we allow our bodies, identities, and histories to be identified in dominant terms, we also ensnared ourselves in a looped process of knowledge legitimizing and delegitimizing. It is a dual process consisting of repeatedly propagating myths of a dominant culture, while stigmatizing, debasing or erasing ‘othered’ cultures."
+        },
+        {
+          
+          "paragraph": "Power is then located in the process of selecting repeatable molds, deciding what cultural elements are exportable for the future, what memories from the past can enter mainstream culture, what identities should be made into a standard by which all else should be measured in the present. As Jacquali Attali states, “power is no longer content to enact its legitimacy; it records and reproduces the societies it rules, stockpiling memory, retaining history or time, distributing speech and manipulating information.” This process of stockpiling memory is superimposed on models of learning, knowing, and being, operating in a loop of knowledge transfer that standardizes and institutionalizes superior knowledges while silencing and discarding those deemed inferior. We see this power exercised in educational and cultural institutions: biased curricula (privileging white male authors, history textbook controversies, genocide denials), academic journals that remain financially and linguistically inaccessible to many, standardized repertoire, the privatization of knowledge (the gravity of which Aaron Swartz’s suicide drew attention to), national/colonial archives, and museums. The solution cannot be a simple unwriting, total forgetting, or a return to purely oral traditions. However, it is clear in these examples that archival methods need to be reworked, or in the very least, need to make room for alternatives."
+        }
+      ],
+      "order": 4,
+      "title": "(AN)ARCHIVES: SHADOW LIBRARIES, PIRATE ARCHIVES, PEER TO PEER ",
+      "quote": "“The fever, the destruction, at the heart of the archive” -Derrida",
+      "content": [
+        {
+          
+          "paragraph": "In internet archival practices and content distribution, we find two main models of power over information control. One view of this revolves around issues of net neutrality while the other argues for the subversive potential of digitally accumulating information. In the former argument, users are increasingly aware of the algorithmic interference that corporations such as Google Inc. and Facebook, Inc. use to “curate” information. Based on tracked user activity and the motives of a company, content deemed more relevant or more likely to elicit a positive response becomes more prevalent in search results, news feeds and advertisements, while other information deemed irrelevant, threatening or offensive, is lost. "
+        },
+        {
+          
+          "paragraph": "One prominent example is what happened to #Ferguson feeds on Facebook in August 2015. After the shooting of unarmed black teenager Michael Brown in Ferguson, Missouri, live streamed images and reports of the ensuing protests were trending on Twitter. Facebook, on the other hand, remained comparatively silent on the protests, instead extensively covering ice bucket challenge videos. Users realized that the difference was a result of Facebook’s news feed algorithm, which aims to get users to interact more with their newsfeed in order to generate advertising revenue. This is a significant problem considering the fact that users increasingly use both Twitter and Facebook as news sources. Through supposedly objective algorithms, corporations are able to extend and capitalize upon the process of privileging some information while censoring others. Sean Lowry poses this problem bluntly: “if it isn’t ‘Googleable’ it doesn’t exist."
+        },
+       {
+          
+          "paragraph": "On the other side of the argument, the accumulation and dissemination of information in the digital age can be seen as a disturbance of historical hierarchies; an “infinite reset to zero that transcends canonical cultural constructions and finds new means with which to construct individually circumscribable fictions.” As more information is recorded and disseminated collectively on digital formats and platforms (with varying degrees of legality), we find that the purported stability of knowledge begins to give way and reveal itself in all its volatility. We see this in user submitted content on platforms such as Wikipedia, which is constantly reviewed, deleted, edited and shaped not by a small elite group of experts, but by increasingly diverse communities of scholars; we see this in alternative unfiltered news sources such as Twitter and Reddit which have proven to be more efficient than traditional news outlets; we observe this in shadow libraries such as LibGen and aaaaarg, which continue to fight knowledge privatization, creating communities of people with multitude interests and gradually shifting elitist hierarchies of standardized curricula. With over 1 billion websites active to date, and millions of blog posts created each day, information accumulates, spreads and mutates at an accelerated pace."
+        },
+       {
+          
+          "paragraph": "While possibly overly optimistic, the idea opens up possibilities of constructing multitude parallel and intersecting systems that allow various paths of knowledge to exist simultaneously. Internet artist Oliver Laric elaborates upon this idea in his video essay Versions (2009, 2010, 2012) in which he connects the proliferation of memes to the religious transgression of idolatry, and to Hugh Everett’s many-worlds interpretation, which Laric summarizes that “all manifestations from physical to virtual act as performances of an idea. No particular version has the monopoly on authenticity. So the jurisdictional claim loses control and consequently loses relevance” The many versions of the event, object or image, are “quantum superposition[s] of possibly infinite many, increasingly divergent, non-communicating parallel universes or quantum worlds,” all of which are equally real."
+        }
+      ],
+        
+      "subtitle": "ERASURE/FORGETTING",
       "content": [
         {
           "order": 1,
-          "paragraph": "example to change"
-        },
-        {
-          "paragraph": "example to change"
+          "paragraph": "In Jack Halberstam’s The Queer Art of Failure, forgetting is “associated with radical action and a revolutionary relation to the new.” This kind of forgetting is not tantamount to anarchist agendas of “ripping it up and starting again” nor the bloody cultural revolutions of communism. These forms of “creative destruction” are traps of capitalist thought, condemned to repeat themselves purely in imitation of capitalist machines. Rather, forgetting means not only forgetting what you have been taught, but how you have been taught. To forget means to allow yourself to get lost. It is an active refusal to internalize a hierarchical system of superior-versus-inferior knowledges. It is the forgetting and refusing of the names and identities that are forced upon us; to constantly refresh our relationships to the histories, myths, and semiotics that code our bodies."
         },
         {
           "order": 2,
-          "paragraph": "example to change"
+          "paragraph": "Forgetting is inherent in the process of remembering. Each time a memory (or a
+digital file, for that matter) is recalled, bits of data are altered or lost. Each time you read this essay online, bits of it are lost. What happens in this process is a generative erasure. This is demonstrated by pieces such as Only Edison Could Speak To The Dead, the first chapter of this paper; Yasunao Tone’s Solo for Wounded CD (1997); Christian Marclay’s self explanatory Record without a cover (1985); and William Basinski’s Disintegration Loops (2002-2003), where music on magnetic tape disintegrates in the process of being digitized."
+        },
+       {
+          "order": 3,
+          "paragraph": "On the subject of erasure, it would be remiss not to mention Malevich’s seminal Black Square (1915) or Rauschenberg’s Erased De Kooning (1953), which long recognized the generative potential of the palimpsest. However, enough has been written on these erasures, so instead I would like to mention recent works that use erasure in more directly political statements including Sean Lowry’s UNAUSTRALIA (2014), an overpainted wall painting of the map of Australia; Augustina Woodgate’s 2012 work The Times Atlas of The World (Dust Diptych), consisting of the dust of a sanded atlas, and Globe (2014), a sanded globe."
+        },
+       {
+          "order": 4,
+          "paragraph": "Works that directly address memory, trauma and forgetting include the work of Mike Kelley, who often works with themes of childhood memories, Repressed Memory Syndrome, fabricating news articles, reconstructing existing places and creating various versions of blueprints. Educational Complex (1995), for example, is a model of all the schools that Kelley attended reassembled in one space. The piece is not only a record of Kelley’s institutional past, but also a map of his forgetting. Kelley stated that these were areas he did not remember, due to possible trauma he may have experienced and associated with them. The resulting piece manifests as a sort of anti-ars memoriae, in which reconstructing architecture functions not as an aid to remember, but to map the degradation of memory. In each of these pieces, new forms are carved out of originals and new information is created as existing data is digitally, physically, or mentally eroded."
         }
       ]
     },
-    {
+        {
+      "subtitle": "TRANSLATING/MUTATING",
+      "quote": "“What are the many versions if not diverse perspectives of a moveable event? If not a long experimental assortment of omissions and emphases?”  -Oliver Laric, Versions (2012)"
+      "content": [
+        {
+          "order": 1,
+          "paragraph": "Collective memory depends on individual interpretations and representations, most simply demonstrated in the game telephone, where a sentence is passed down a line from person to person. As everyone knows, the fun part of the game is hearing the resulting sentence after being processed through human filters full of errors, omissions and substitutions. Christine Schorkhuber and Alfred Grubbauer’s Stille Post (2008) applies further translation to this approach, feeding one text down three lines of non-professional translators. The original German text was about color and was subsequently translated from one language to another by various multilingual speakers before being translated back to German again. One resulting text was about love, another about legal papers, and one about religion. Similarly, Sophie Calle’s Take Care of Yourself (2007), revolving around a break up email she received from a lover, which she subsequently sent to women of varying professional backgrounds to interpret and respond to in a manner informed by their professions. From a forensic psychologist, who concluded that the writer was a “twisted manipulator” to a copy editor who marked syntactical and grammatical errors, an etiquette consultant who scrutinized the lover’s manners, to a markswoman who shot at the letter, Calle commissioned 107 interpretations and renderings of the offending letter. Translation in both of these pieces are mutations of an original. Each iteration extends meaning in omnidirectional trajectories, collectively accumulating and transforming the original, so that it becomes its various permutations."
+        },
+        {
+          "order": 2,
+          "paragraph": "Collective memories can also be a result of amalgamations of versions of an original. A direct example is Brian Joseph Davis’ Yesterduh (2006), a mix of 60 tracks of people singing The Beatles’ Yesterday from memory and without rehearsal. For the most part, the singers are unsure of the lyrics beyond the chorus. The layers of slightly unsynchronized and awkward hesitations, silences, humming, pitch deviations, and improvised lyrics and syllables make audible the coinciding lapses in memory and surges of confidence. The result is a dynamic and texturally complex choral arrangement of the most covered song of all time; full of accidental canons, awkward solos, microtonal harmonies, moments of ghostly chants and scats, and messy tuttis.   These processes also describe the cultural phenomenon of memes, a horizontal transfer of a cultural unit, which undergoes mutations upon mutations from and to myriad nodes."
+        },
+       {
+          "order": 3,
+          "paragraph": "No artist translates or interprets as wildly or at such extreme rates as the internet multitude, for which every public image and moment is an opportunity to freeze history, sample, remix, and spawn alternate realities. Oliver Laric’s Versions (Missile Variations) displays select versions of “a military hoax by the Iranian Revolutionary Guards in 2008 who released a crudely Photoshopped image showing four missile launches instead of one, sparking a photoshop battle on the internet. Resulting images include four missiles rerouted towards the ground, one missile returning to hit another missile launcher, and the entire image filled with missiles launching and raining down upon each other. Laric and the artists mentioned in this section all remind us that meaning is provisional, and far from being pale imitations; versions and remixes mutate an original, create infinitely plural meanings, and refute the idea of one absolute truth."
+        }
+
+      ]
+    },
+        {
+      "subtitle": "RE-CONTEXTUALIZING/RE-MYTHOLOGIZING ",
+      "content": [
+        {
+          "order": 1,
+          "paragraph": "What happens after a culture or history is erased? After collective trauma, forced assimilation and cultural amnesia, what comes after to fill the void? In this section, I will pair and discuss artists who use similar methodologies to work through traumatic histories and decolonize institutions, bodies and spaces by re-mythologizing the past and reimagining futures; artists who repurpose, cut, paste, and reinvent historical narratives and cultural codes."
+        },
+        {
+          "order": 2,
+          "paragraph": "Hito Steyerl writes that “the future only happens if history doesn’t occupy and invade the present.” Re-working and playing with history is a way of pressing the refresh button and refusing this occupation of history that comprises of dominant narratives and canons of knowledge. This is achieved in works such as Kenyatta A.C. Hinkle’s The Uninvited and Destiny Deacon’s Eva Johnson, 1994, which re-appropriate colonial-era imagery to reclaim power in the present. Hinkle does this by collaging and embellishing on 19th-20th century ethnographic photography of West African people, transforming them into mythical figures. Deacon takes a more tongue-in-cheek approach in her photograph which is a reconstruction of J.M. Crossland’s Portrait of Nannultera, a young Poonindie cricketer (1854), a painting of a young aboriginal boy raising a cricket bat. 140 years later, Deacon photographs her friend Eva dressed in the same clothes, in the same position, but with an axe raised above her head."
+        },
+       {
+          "order": 3,
+          "paragraph": "Mary Sibande and Marisa Williamson go further in this process, creating characters whose lives become progressively fantastic, narrowing the gap between past and present, stretching and exceeding the realms of reality. Based in South Africa, where the impact of apartheid continues to echo in today’s political climate, Sibande creates scenes starring Sophie the maid, who indulges in fantasies to escape her bleak reality. Sophie always wears a maid’s costume inspired by victorian era dresses, but each appearance that Sophie makes calls for different versions of her dress which act as class signifiers. While conducting an imaginary orchestra, her dress fans out and suspends behind her in a grand red-carpet-like tail. Riding a rearing horse in a victorious pose, the horse’s reign is made of the same material as Sophie’s dress. Waiting at a bus stop, a chandelier happens to appear, and lacey pouf sleeves extend from her shoulders. As Sophie fantasizes, she prompts her viewers to consider the representations of class, race and gender."
+        },
+       {
+          "order": 4,
+          "paragraph": "Williamson creates performances, images and videos as Sally Hemings, slave and mistress to US president Thomas Jefferson. The first work involving this character is a performance titled What Would Sally Do? (2013) which takes place on Jefferson’s plantation and Sally’s home, Monticello. Dressed in a servant’s outfit, Sally jogs, does push ups, eats KFC, and dances while singing karaoke outside the building. The superimposition of Heming’s biography, her dress, and the relatively mundane activities she takes part in, is jarringly anachronistic. Amongst the absurdity, one sobering moment stands out in which Sally reads the section of the Declaration of Independence written by her master:"
+        },
+       {
+          "order": 5,
+          "quote": "“We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the Pursuit of Happiness. That to secure these rights, Governments are instituted among Men, deriving their just powers from the consent of the governed.”"
+        },
+       {
+          "order": 6,
+          "paragraph": "The effect is haunting and hits hard. By resurrecting Hemings in contemporary scenes on the physical site that her memory remains tethered to, Williamson blurs temporal lines, reminding us that history does not merely remain in the past. It informs and permeates our present, particularly for those of us who are regularly reminded of our minoritized identities. At the same time, this interaction between past and present flows in both directions, and one can see how Williamson is able to gradually pry Heming’s history and identity away from the site of her oppression in a way that is humanizing. For Williamson, retelling Hemings’ story is part of her “feminist and anti-colonial efforts to reclaim and self-narrativise that which feels, even now, to be appropriated by victors.”"
+       },
+       {
+          "order": 7,
+          "paragraph": "Through Williamson’s work, Sally’s life continues in various projects; chatting with Monica Lewinsky about their respective scandalous relationships; returning to Paris 226 years after her initial departure to reflect upon her decision to leave the possibility of freedom in Paris to return to Monticello as a slave; and hosting the talk show Hemings and Hawings (2015), with Monica Lewinsky, Whoopi, Goldberg, Oprah Winfrey, and Marilyn Monroe. Throughout these projects, Williamson, through Sally, both complicates and unpacks power relations in pleasure, desire, double standards, representation, gender, race, and privilege."
+        
+        },
+        {
+          "order": 8,
+          "paragraph": "Throughout this thesis, I ask: How do we prevent the past from invading and occupying the present? Can our pasts, presents and futures intermingle and shift so that there is never one absolute truth but manifold narratives that intersect, depart, and fold in upon themselves? What structures and methods can we look to that will allow space for individuals and collectives alike the right to self narrativization and therefore self determination? Can these methods offer paths to more fluid identities, and multiple ways for people to relate to each other that simultaneously diverge, collide, and intertwine?"
+        
+        },
+        {
+          "order": 9,
+          "paragraph": "The following chapters are made up of scores and short lectures on the aforementioned themes of generative erasure. These texts serve as supplementary explorations of the ideas I have previously laid out. “Only Edison Could Speak to the Dead”, is a score for a performance involving a vinyl record and a record sleeve lined with sandpaper. The performer alternates between playing/scratching the record and delivering quotes on recording, forgetting and neuroplasticity. Over time, the destruction of the record reveals itself to be a composition that culminates in pure noise. “Histories of Forgetting” was delivered as part of a guided tour of an exhibition at the Royal Academy of Art in the Hague. The text ties history with mythology, prompting a reading of the past and how it resonates in the present. “On Erasure, Loss and Dust” is a performative lecture that connects lossy compression and (psycho)acoustic phenomena such as echo, masking, and speech jamming with the dissolution and reconfiguration of identities. I discuss how these elements relate to the breakdown of borders in favor of noise, and of the individual in favor of the collective. Finally, “Month of Digital Forgetting” is a reflection on my month of abstaining from various recording technologies. Through these texts, I hope to navigate the various modes of generative erasure and unpack the politics and poetics of forgetting."
+        }
+
+      ]
+    },
+        {
       "title": "",
       "subtitle": "",
       "content": [
         {
-          "paragraph": "example to change"
-        }
-      ]
-    },
-    {
-      "title": "",
-      "subtitle": "",
-      "content": [
-        {
+          "order": 9,
           "paragraph": "example to change"
           "quote": "example to change"
-        }
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
       ]
-    }
+    },
+    {
+      "title": "",
+      "subtitle": "",
+      "content": [
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+      ]
+    },
+    {
+      "title": "",
+      "subtitle": "",
+      "content": [
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+      ]
+    },
+    {
+      "title": "",
+      "subtitle": "",
+      "content": [
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+      ]
+    },
+    {
+      "title": "",
+      "subtitle": "",
+      "content": [
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+      ]
+    },
+    {
+      "title": "",
+      "subtitle": "",
+      "content": [
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+      ]
+    },
+    {
+      "title": "",
+      "subtitle": "",
+      "content": [
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+      ]
+    },
+    {
+      "title": "",
+      "subtitle": "",
+      "content": [
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+        {
+          "order": 9,
+          "paragraph": "example to change"
+          "quote": "example to change"
+        },
+      ]
+    },
   ]
 }
