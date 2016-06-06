@@ -25,6 +25,21 @@
           font-size: 24px!important;
         }
       }
+
+      @-webkit-keyframes blackWhite {
+        0% { background-color: white; }
+        50% { background-color: white; }
+        51% { background-color: black; }
+        100% { background-color: black; }
+      }
+
+      .blanco {
+        height: 100px;
+        background-color: black;
+        -webkit-animation-name: blackWhite;
+        -webkit-animation-iteration-count: infinite;
+        -webkit-animation-duration: 2s;
+      }
     </style>
   </template>
 </dom-module>

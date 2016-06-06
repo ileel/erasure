@@ -16,14 +16,15 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
       :host {
         display: block;
       }
+
     </style>
     <template is="dom-if" if="{{_hasTitle(sectionContent.title)}}">
       <h2>{{sectionContent.title}}</h2>
     </template>
 
     <template is="dom-repeat" items="[[sectionContent.content]]">
-        <p>[[item.paragraph]]</p>
-      </template>
+      <p inner-h-t-m-l="[[curate(item.paragraph)]]"></p>
+    </template>
   </template>
   <script>
     (function () {
@@ -46,7 +47,31 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
          * @private
          */
         _hasTitle: function hasTitle(title) {
-          return '' ==! title;
+          return '' == !title;
+        },
+        curate: function curate(paragraph) {
+          function randomArrayMax(numMax) {
+            var randomArray = [];
+            var maxRes = ((numMax * 10) / 100);
+            for (var i = 0; i < maxRes; i++) {
+              randomArray[i] = Math.floor(Math.random() * numMax) + 1;
+            }
+            console.log('Arrays for this section: ' + JSON.stringify(randomArray));
+            return randomArray;
+          }
+
+          var split = paragraph.split(' ');
+          var enrichedTagStart = '<span class="blanco">';
+          var enrichedTagEnd = '</span>';
+          //count the words and randomizes the injection of the tags
+          randomArrayMax(split.length)
+              .map(function (order) {
+                var orig = split[order];
+                split[order] = enrichedTagStart + orig + enrichedTagEnd;
+              });
+
+          //return the enriched string
+          return split.join(' ');
         }
 
       });
