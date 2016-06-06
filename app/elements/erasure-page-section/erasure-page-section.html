@@ -9,46 +9,43 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
 -->
 
 <link rel="import" href="../../bower_components/polymer/polymer.html">
-<link rel='import' href='../../bower_components/iron-ajax/iron-ajax.html'>
 
-
-<dom-module id="erasure-content">
+<dom-module id="erasure-page-section">
   <template>
     <style>
       :host {
         display: block;
       }
     </style>
-    <iron-ajax
-        auto
-        url="text.json"
-        handle-as="json"
-        last-response="{{loadedText}}"
-        debounce-duration="300"></iron-ajax>
-
-    <template is="dom-if" if="{{_hasTitle(loadedText.title)}}">
-      <h1>[[loadedText.title]]</h1>
+    <template is="dom-if" if="{{_hasTitle(sectionContent.title)}}">
+      <h2>{{sectionContent.title}}</h2>
     </template>
 
-    <template is="dom-repeat" items="[[loadedText.blocks]]">
-      <erasure-page-section section-content="[[item]]"></erasure-page-section>
-    </template>
+    <template is="dom-repeat" items="[[sectionContent.content]]">
+        <p>[[item.paragraph]]</p>
+      </template>
   </template>
   <script>
-    (function erasureContent() {
+    (function () {
       'use strict';
 
       Polymer({
-        is: 'erasure-content',
+        is: 'erasure-page-section',
 
         properties: {
-          location: {
+          sectionContent: {
             type: Object,
-            value: 'test' //default JSON file when no location mocked
+            notify: true
           }
         },
+
+        /**
+         *
+         * @param title
+         * @returns {boolean} true if is a valid title
+         * @private
+         */
         _hasTitle: function hasTitle(title) {
-          console.log("has title " + title);
           return '' ==! title;
         }
 
