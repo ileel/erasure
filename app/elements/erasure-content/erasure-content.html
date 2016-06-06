@@ -9,6 +9,8 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
 -->
 
 <link rel="import" href="../../bower_components/polymer/polymer.html">
+<link rel='import' href='../../bower_components/iron-ajax/iron-ajax.html'>
+
 
 <dom-module id="erasure-content">
   <template>
@@ -17,23 +19,32 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         display: block;
       }
     </style>
-    <div>Hello from <span>{{foo}}</span></div>
+    <iron-ajax
+        auto
+        url=".json"
+        handle-as="json"
+        last-response="{{loadedText}}"
+        debounce-duration="300"></iron-ajax>
+
+    <template is="dom-repeat" items="[[loadedText.blocks]]">
+      <erasure-page-section content="[[item]]"></erasure-page-section>
+    </template>
   </template>
   <script>
-  (function() {
-    'use strict';
+    (function () {
+      'use strict';
 
-    Polymer({
-      is: 'erasure-content',
+      Polymer({
+        is: 'erasure-content',
 
-      properties: {
-        foo: {
-          type: String,
-          value: 'erasure-content',
-          notify: true
+        properties: {
+          location: {
+            type: Object,
+            value: 'test' //default JSON file when no location mocked
+          }
         }
-      }
-    });
-  })();
+
+      });
+    })();
   </script>
 </dom-module>
