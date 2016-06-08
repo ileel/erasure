@@ -35,7 +35,7 @@
         },{
     
       "order": 3,
-      "title": "ARCHIVAL POWER",
+      "subtitle": "ARCHIVAL POWER",
       "content": [
         {
           
@@ -476,29 +476,316 @@ the collective trauma of slavery as the founding moment of modernity.”"
         }]
 }],
       "blocks": [
-      {"order": 11, 
+      {"order": 12, 
       "title": "V AFTERFOREWORD",
       "content": [
 
         {
-          "paragraph": ""
+          "paragraph": "We can see how various erasures can function not as a mere reversal of accelerated states, but alternative processes that facilitate alternative methods for thinking, knowing and being."
         },
         {
-          "paragraph": ""
-        },
-        {
-          "paragraph": ""
-        },
-        {
-          "paragraph": ""
-        },
-        {
-          "paragraph": ""
-        },
-        {
-          "paragraph": ""
+          "paragraph": "As we continue existing in increasingly decentered worlds that emerge, shift and dissipate from erasures, mutations and re-contextualizations; how do we navigate the dynamics and frictions of our realities? How do we situate ourselves in ever-present, shifting temporalities that expand and contract from incessant interactions between the past and present? How do we navigate the overload of information and proliferation of meaning so that we experience it less as an avalanche that we drown in, but more of a katamari that we use to collect and absorb everything to form our own katamari worlds?"
         }
-      ]}
-      ]
-        
-}]
+      ],
+
+       "blocks": [
+      {"order": 13, 
+      "title": "BIBLIOGRAPHY",
+      "list": [
+
+        {
+          "element": "Attali, Jacques. Noise: The Political Economy of Music. University of Minnesota Press 1977. Print."
+        },
+        {
+          "element": "Barthel, Michael et. al. “The Evolving Role of News on Twitter and Facebook.” Pew Research Center. Jul 14, 2015. Web. 9 May. 2015."
+        },
+        {
+          "element": "Badani, Pat. The Aesthetics of Erasure. Journal of the New Media Caucus V.11 N.01 2015. Web. 16 May. 2015."
+        },
+        {
+          "element": "Bijsterveld, Karin and Jose van Dijck. Sound Souvenirs: Audio Technologies, Memory and Cultural Practices. Amsterdam: Amsterdam UP, 2009. Print."
+        },
+        {
+          "element": "Buckley, Brad and John Conomos. Erasure The Spectre of Cultural Memory. Libri 2015. Print."
+        },
+        {
+          "element": "Butler, Judith. “Excitable Speech: A Politics of the Performative.” Psychology Press. 1997. Print."
+        },
+        {
+          "element": "Wendy Hui Kyong Chun, “The Enduring Ephemeral, or the Future is a Memory,” Critical Inquiry 35 (Autumn 2008): 148-171. Print."
+        },
+        {
+          "element": "DeMarinis, Paul. “Erased Dots and Rotten Dashes, or How to Wire Your Head for a Preservation”. Huhtamo and Parikka. 211-238. Print."
+        },
+        {
+          "element": "Doran, John. “Time Becomes A Loop: William Basinski Interviewed”. The Quietus.
+  Nov 15, 2012. Web. 16 April. 2016."
+        },
+        {
+          "element": "Eshun, Kodwo. “Further Considerations On Afrofuturism.” The New Centennial Review, V.3 N.02. 2003. 287-302. Print."
+        },
+        {
+          "element": "Groom, Amelia. “There’s Nothing to See Here: Erasing The Monochrome.” e-flux journal #37, Sep 2012. Web. 11 May. 2015."
+        },
+        {
+          "element": "Grossman, Joan. “Utopias of Oblivion: Pixelated Memory in Digital Space.” Eds. Buckley and Conomos. Libri Publishing, 2015. pp 87-96. Print."
+        },
+        {
+          "element": "Groys, Boris. “Becoming Revolutionary: On Kazimir Malevich.“ e-flux journal #47, Sep    2013.   Web. 10 May. 2015."
+        },
+        {
+          "element": "Halberstam, Judith. The Queer Art of Failure. Durham: Duke UP, 2011. Print."
+        },
+        {
+          "element": "Huhtamo, Erkki and Jussi Parikka. Media Archaeology. Berkeley and Los Angeles: University of California Press 2011. Print."
+        },
+        {
+          "element": "Joseph, Branden W. “John Cage and the Architecture of Silence”. October Vol. 81 (Summer, 1997). 80-104. MIT Press. Print."
+        },
+        {
+          "element": "Kittler, Friederich. Gramophone, Film, Typewriter. trans. Geoffrey Winthrop-Young and Michael Wutz.Stanford: Stanford UP, 1999. Print."
+        },
+        {
+          "element": "La Belle, Brandon. Background Noise: Perspectives on Sound Art, New York: Continuum 2006. Print."
+        },
+        {
+          "element": "Lerew, Todd. “Sound and The Confluence of Bodies.” Experimental Music Yearbook Issue 2015. Web. 21 January. 2016. "
+        },
+        {
+          "element": "Lowry, Sean. “Ghosted Forms.” Eds. Buckley and Conomos. Libri Publishing, 2015. 199-218. Print."
+        },
+        {
+          "element": "Mackay, Robin, and Armen Avanessian, eds. #ACCELERATE: The Accelerationist Reader. Falmouth: Urbanomic, 2014. Print."
+        },
+        {
+          "element": "Matias, Nathan. “Uncovering Algorithms: Looking Inside The Facebook News Feed.” MIT Center for Civic Media. Jul 22, 2014. Web. Apr 23, 2016."
+        },
+        {
+          "element": "Mayer-Schönberger, Viktor. Delete: The Virtue of Forgetting in the Digital Age. Princeton University Press. 2009. Print."
+        },
+        {
+          "element": "RadioLab. “Memory and Forgetting.“ Discovery Dialogues. Radiolab, n.d. Web.
+"
+        },
+        {
+          "element": "Reynolds, Simon. “Retromania”. CalArts, Valencia. 20 Oct. 2011. Lecture."
+        },
+        {
+          "element": "Scheirl, Hans. “The Dada Manifesto of the Cyborgembrio.” The eight technologies of otherness. Ed. Susan Golding. New York 2005. Print."
+        },
+        {
+          "element": "Schilleman, Matthew. “The Refresh: Digital Destruction and Mystic Writing”. Badani"
+        },
+        {
+          "element": "Schuppli, Susan. “Tape 342”. Forensics. Cabinet Issue 43. 2011. 86-89. Print."
+        },
+        {
+          "element": "Sheldrake, Rupert. The Presence of the Past: Morphic Resonance and the Habits of Nature. 4th ed. South Paris: Park Street, 2012. Print."
+        },
+        {
+          "element": "Sterne, Jonathan. The Audible Past. Durham and London: Duke UP, 2003. Print."
+        },
+        {
+          "element": "Sterne, Jonathan. “The Preservation Paradox in Digital Audio”. Bijsterveld, Dijck. 55-65. Print."
+        },
+        {
+          "element": "Steyerl, Hito. A Tank On a Pedestal: Museums in an age of planetary civil war. E-flux, 2016. Web. Mar 15 2016."
+        },
+        {
+          "element": "Stevens, Michael. “Where Do Deleted Files Go?“ YouTube, 20 July 2013. Web. 27 January. 2016."
+        },
+        {
+          "element": "Sturken, Marita, August 2004, “The Aesthetics of Absence”, American Ethnologist, Vol. 31 No. 3. Print."
+        },
+        {
+          "element": "Tong, Ben. “The Parrot Lecture.“ CalArts, Valencia. 27 Apr. 2012. Lecture."
+        },
+        {
+          "element": "Tufekci, Zeynep. “What Happens to #Ferguson Affects Ferguson: Net Neutrality, Algorithmic Filtering and Ferguson.” The Message. 14, August. 2014. Web. 14 August. 2014"
+        },
+        {
+          "element": "US National Archives, “Out of the Dark: Bringing Films to Light at The National Archives”. YouTube, June 6 2012. Web."
+        },
+        {
+          "element": "Williams, Alex, and Nick Srnicek. “#ACCELERATE MANIFESTO for an Accelerationist Politics.” Critical Legal Thinking. 14 May 2013. Web. 2 May. 2016."
+        },
+        {
+          "element": "World Newsmedia Network, “Global Social Media Trends,” (UK: European Publishers Council, 2015), 4. May 9, 2016 "
+        },
+        {
+          "element": "Zimmer, Niklas. “Percival Kirby’s Wax Cylinders- Elegy on archiving a deaf spot.” Social  Dynamics: A journal of African studies. 13 Feb 2015. Web."
+        }],
+
+"blocks": [
+      {"order": 14, 
+      "title": "FURTHER READING/VIEWING/LISTENING",
+      "content": [
+        {"paragraph" 
+        "subtitle": "ERASING/CENSORING/FORGETTING",
+        "list": [
+
+        {
+          "element": "Basinski, William. Disintegration Loops. 2002. "
+        },
+        {
+          "element": "Borsuk, Amaranth et. al. The Deletionist. http://thedeletionist.com/. 2013. Javascript bookmarklet."
+        },
+        {
+          "element": "Broodthaers, Marcel. La Pluie. Centre Pompidou. 2010. Performance"
+        },
+        {
+          "element": "Chung, Jay. Nothing Is More Practical Than Idealism. 2001. Film."
+        },
+        {
+          "element": "Didkovsky, Nick. Zero Waste. 2012."
+        },
+        {
+          "element": "Dong, Song. Waste Not. 2005. Installation."
+        },
+        {
+          "element": "Dong, Song. Writing Diary With Water. 1995. Performance."
+        },
+        {
+          "element": "Fludd, Robert. Et sic ad infinitum! 1619. Illustration."
+        },
+        {
+          "element": "Foer, Jonathan Safran. Tree of Codes. London: Visual Editions 2010. Print."
+        },
+        {
+          "element": "Kelley, Mike. Educational Complex. 1995."
+        },
+        {
+          "element": "Kleon, Austin. Newspaper Blackout Poems. New York: Harper 2010. Print."
+        },
+        {
+          "element": "Lamouroux, Vincent. Projection. Sunset Blvd. Los Angeles. 2016. Installation."
+        },
+        {
+          "element": "Lee, Mingwei. Guernica in Sand. 2007. Sand installation."
+        },
+        {
+          "element": "Li, Ji and Cory Forsyth. Wordless Web. 2012. Javascript bookmarklet."
+        },
+        {
+          "element": "Lowry, Sean. Silent Republic. 2012. Wall painting."
+        },
+        {
+          "element": "Lucier, Alvin. I Am Sitting In a Room. 1981. "
+        },
+        {
+          "element": "Maguire, Ryan. Ghost in the mp3. 2014. "
+        },
+         {
+          "element": "Malevich, Kazimir. Black Square. 1915. Painting."
+        },
+         {
+          "element": "Marclay, Christian. Record Without a Cover. Recycled Records, 1985. Vinyl, LP."
+        },
+         {
+          "element": "Neustein, Joshua. Erasures. 1971-1973. Film."
+        },
+         {
+          "element": "Norris, TJ. No Sign. 2008-2013. Photography."
+        },
+         {
+          "element": "Ono, Yoko. Play it By Trust. 1996. Painted chess pieces on chess board."
+        },
+         {
+          "element": "Philips, Tom. A Humument. Thames and Hudson 1980. Print."
+        },
+         {
+          "element": "Rauschenberg, Robert. Erased de Kooning Drawing. 1953."
+        },
+         {
+          "element": "Smith, Rowan. The Official Restaurant of the South African Family. 2015. Light box."
+        },
+         {
+          "element": "Solakov, Nedko. A Life (Black and White). 1998. Performance."
+        },
+         {
+          "element": "Tone, Yasunao. Solo for Wounded CD. Tzadik, 1997. CD."
+        },
+         {
+          "element": "Walsh, Dan. Garfield Minus Garfield. www.garfieldminusgarfield.net. 2008. Webcomic."
+        },
+         {
+          "element": "Wolf, Uljana and Christian Hawkey. Sonne From Ort. Kookbooks 2013. Print."
+        },
+
+        {
+          "element": "Woodgate, Augustina. The Times Atlas of The World (Dust Diptych). 2012. Collected dust from sanded World Atlas (515 pages), Walnut frame."
+        }]
+      },
+      {"paragraph" 
+        "subtitle": "TRANSLATING/MUTATING",
+        "list": [
+
+        {
+          "element": "Blas, Zach. Fag Face Mask. 2012."
+        },
+        {
+          "element": "Calle, Sophie. Take Care of Yourself. 52nd Venice Biennale, French Pavillion. 2007."
+        },
+        {
+          "element": "Davis, Brian J. Yesterduh. 2006. Music."
+        },
+        {
+          "element": "Laric, Oliver. Versions. 2009, 2010, 2012. Video"
+        },
+        {
+          "element": "Lee, Mingwei. The Stone Journey. 1964. Stone and bronze."
+        },
+        {
+          "element": "Schorkhuber, Christine and Alfred Grubbauer. Stille Post. 2008. "
+        },
+        {
+          "element": "Smith, Rowan and Ingrid Lee. COME ON YOU FUCKERS. 2011. Performance, publication."
+        }]
+      },
+      {"paragraph" 
+        "subtitle": "RE-CONTEXTUALIZING/RE-MYTHOLOGIZING",
+        "list": [
+
+        {
+          "element": "Deacon, Destiny. Eva Johnson, writer. 1994"
+        },
+        {
+          "element": "Hinkle, Kenyatta A.C. Kentrifrica. 2011-present"
+        },
+        {
+          "element": "Hinkle, Kenyatta A.C. The Uninvited. 2012."
+        },
+        {
+          "element": "Kelley, Mike. Educational Complex. 1995."
+        },
+        {
+          "element": "Kelley, Mike. Kandor City. 2000-2011."
+        },
+        {
+          "element": "De Middel, Cristina. Afronauts. 2014. Film."
+        },
+        {
+          "element": "Lavar Munroe. BIG C: Goddess of Coke (Heavens’ Dust). 2012."
+        },
+        {
+          "element": "Perret, Mai-Thu. The Crystal Frontier. 1999-present "
+        },
+        {
+          "element": "Ruga, Athi-Patra. The Future White Women of Azania Saga. 2014."
+        },
+        {
+          "element": "Satterwhite, Jacolby. Reifying Desire 6. 2013. Video."
+        },
+        {
+          "element": "Sibande, Mary. The Purple Shall Govern. Iziko South African National Gallery. 2014
+Williamson, Marisa. Hemings in Paris. 2015. Film."
+        },
+        {
+          "element": "Williamson, Marisa. Hemings & Hawings: A Postmodern Talk Show. 2015. Video."
+        },
+        {
+          "element": "Williamson, Marisa. What Would Sally Do?. 2013."
+        }]
+      }]
+
+      }]
