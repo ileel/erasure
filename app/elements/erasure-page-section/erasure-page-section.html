@@ -58,14 +58,15 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         _hasTitle: function hasTitle( title ) {
           return '' == !title;
         },
-        _giveMeEntropy: function () {
+
+        doIt: function () {
           function randomArrayMax( numMax ) {
             var randomArray = [];
             var maxRes = ((numMax * 10) / 100);
             for (var i = 0; i < maxRes; i++) {
               randomArray[ i ] = Math.floor( Math.random() * numMax ) + 1;
             }
-            console.log( 'Arrays for this section: ' + JSON.stringify( randomArray ) );
+            console.log( 'removing words at position ' + JSON.stringify( randomArray ) );
             return randomArray;
           }
 
@@ -84,21 +85,33 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
             return split.join( ' ' );
           }
 
+          var newContent = this.get( 'sectionContent.content' );
+          for (var i = 0, l = newContent.length; i < l; i++) {
+            if (typeof (newContent[ i ].paragraph) === 'string') {
+              var curatedPgph = curate( newContent[ i ].paragraph );
+              //Forcing the deep array node to update
+              this.set( "sectionContent.content." + i + ".paragraph", curatedPgph );
+            } else {
+              console.error( '::: wrong content at the paragraph index ' + i )
+            }
+          }
+        },
+
+        _giveMeEntropy: function () {
           this.debounce( '_giveMeEntropy', function () {
-            var newContent = this.get( 'sectionContent.content' );
+            this.doIt();
+          }, 300 );
+        },
 
-            newContent.map( function ( node ) {
-              node.paragraph = curate( node.paragraph );
-            } );
-
-            console.log( JSON.stringify( newContent, null, 2 ) );
-
-            //forces the subpath for the mutation
-            this.set( 'sectionContent.content', [] );
-            this.set( 'sectionContent.content', newContent );
-
-          }, 3000 );
-        }
+//        ready: function () {
+//          this.doItAgain();
+//        },
+//
+//        doItAgain: function doItAgain() {
+//            this.async( this.doItAgain, function () {
+//              console.log( "here" )
+//            }, 3000 );
+//        }
 
       } );
     })();
