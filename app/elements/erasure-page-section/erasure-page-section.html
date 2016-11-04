@@ -30,7 +30,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
     (function () {
       'use strict';
 
-      Polymer({
+      Polymer( {
         is: 'erasure-page-section',
 
         properties: {
@@ -46,35 +46,36 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
          * @returns {boolean} true if is a valid title
          * @private
          */
-        _hasTitle: function hasTitle(title) {
+        _hasTitle: function hasTitle( title ) {
           return '' == !title;
         },
-        curate: function curate(paragraph) {
-          function randomArrayMax(numMax) {
+
+        curate: function curate( paragraph ) {
+          function randomArrayMax( numMax ) {
             var randomArray = [];
             var maxRes = ((numMax * 10) / 100);
             for (var i = 0; i < maxRes; i++) {
-              randomArray[i] = Math.floor(Math.random() * numMax) + 1;
+              randomArray[ i ] = Math.floor( Math.random() * numMax ) + 1;
             }
-            console.log('Arrays for this section: ' + JSON.stringify(randomArray));
+            console.log( 'Arrays for this section: ' + JSON.stringify( randomArray ) );
             return randomArray;
           }
 
-          var split = paragraph.split(' ');
+          var split = paragraph.split( ' ' );
           var enrichedTagStart = '<span class="blanco">';
           var enrichedTagEnd = '</span>';
           //count the words and randomizes the injection of the tags
-          randomArrayMax(split.length)
-              .map(function (order) {
-                var orig = split[order];
-                split[order] = enrichedTagStart + orig + enrichedTagEnd;
-              });
+          randomArrayMax( split.length )
+            .map( function ( order ) {
+              var orig = split[ order ];
+              split[ order ] = enrichedTagStart + orig + enrichedTagEnd;
+            } );
 
           //return the enriched string
-          return split.join(' ');
+          return split.join( ' ' );
         }
 
-      });
+      } );
     })();
   </script>
 </dom-module>

@@ -27,7 +27,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         debounce-duration="300"></iron-ajax>
 
     <template is="dom-if" if="{{_hasTitle(loadedText.title)}}">
-      <h1>[[loadedText.title]]</h1>
+      <h1 class="page-title" tabindex="-1">[[loadedText.title]]</h1>
     </template>
 
     <template is="dom-repeat" items="[[loadedText.blocks]]">
@@ -38,7 +38,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
     (function erasureContent() {
       'use strict';
 
-      Polymer({
+      Polymer( {
         is: 'erasure-content',
 
         properties: {
@@ -47,12 +47,11 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
             value: 'test' //default JSON file when no location mocked
           }
         },
-        _hasTitle: function hasTitle(title) {
-          console.log("has title " + title);
-          return '' ==! title;
+        _hasTitle: function hasTitle( title ) {
+          return '' == !title;
         }
 
-      });
+      } );
     })();
   </script>
 </dom-module>
