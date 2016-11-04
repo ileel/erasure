@@ -1,764 +1,758 @@
-{  
-   "title":"THE POETICS AND POLITICS OF ERASURE",
-   "blocks":[  
-      {  
-         "order":1,
-         "title":"INTRODUCTION",
-         "content":[  
-            {  
-               "paragraph":"This thesis is a collection of lectures, scores and short essays on the poetics and politics of erasure written over the course of a two-year master study at the ArtScience Interfaculty in the Royal Academy of Art, the Hague, Netherlands.  "
+{
+  "title": "THE POETICS AND POLITICS OF ERASURE",
+  "blocks": [
+    {
+      "order": 1,
+      "title": "INTRODUCTION",
+      "content": [
+        {
+          "paragraph": "This thesis is a collection of lectures, scores and short essays on the poetics and politics of erasure written over the course of a two-year master study at the ArtScience Interfaculty in the Royal Academy of Art, the Hague, Netherlands.  "
+        },
+        {
+          "paragraph": "My motivation for researching the topic of erasure initially came from an interest in aesthetics of failure, a suspicion of the increased dependence on memory storage technology, and a frustration with the escalation of society’s archive fever. I began with an approach of media archeology, investigating the history of recording beginning with the written word, tracing it to the internet, and continuing with investigations in digital forgetting, archival power relations and identity politics. It became apparent that, although necessary, the need to record everything can have destructive effects on the ways that we learn, teach and understand the world and each other. We see this in hierarchies of knowledge, in the way that history is written and taught by dominant people, in who and what is deemed worthy of being recorded and preserved for future generations. From this point, I began looking towards erasure and forgetting, not necessarily to decelerate or counter the effects of recording, but to provide alternative and parallel modes of creating, learning and thinking. "
+        },
+        {
+          "paragraph": "In this introduction I will first lay out a framework for the kinds of erasure I will discuss throughout the thesis. I will then illustrate how a disproportionate investment in recording technology can have oppressive and violent effects, and what is at stake if we do not look towards alternative models of knowledge acquisition and dissemination. I will also explore the aesthetic and political possibilities that erasure can offer in the forms of erasing/forgetting, translating/mutating, and recontexualizing/(re)mythologizing, before outlining how these forms are present in digital cultural applications. This paper has no pretense of offering concrete answers. Rather, it is an exploration of various possible models of doing and thinking through erasure."
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "subtitle": "KATAMARI DAMACY: A FRAMEWORK FOR ERASURE",
+      "content": [
+        {
+          "paragraph": "In a 1997 interview, John Cage said “In contemporary civilization where everything is standardized and where everything is repeated, the whole point is to forget in the space between an object and its duplication. If we didn't have this power of forgetfulness, if art today didn't help us to forget, we would be submerged, drowned under those avalanches of rigorously identical objects.” While I agree with the sentiment of this statement, I would like to take it further and posit that forgetting can also involve being submerged and drowned under an avalanche, and that identical objects are not always so identical. In the internet age where information is abundant, infinite memes circulate, and languages mutate at an accelerating pace; concepts of refresh and bit rot are embedded in our daily lives.  "
+        },
+        {
+          "paragraph": "What happens as a result can be visually demonstrated in the Playstation 2 game Katamari Damacy (released 2004). The plot of the game begins after the King of All Cosmos has accidentally destroyed all the stars in the universe. In order to reconstruct the sky, he sends his son, the prince, to Earth to collect everything. He does this by rolling an adhesive ball (the katamari) around various locations on Earth to attract objects of increasing size (from pins to dinosaurs to entire islands) until the ball is big enough to become a star. This game can easily be construed as an accelerationist narrative of our future. Accelerationism is “the insistence that the only radical political response to capitalism is not to protest, disrupt, or critique, nor to await its demise at the hands of its own contradictions, but to accelerate its uprooting, alienating, decoding, abstractive tendencies.” It is the idea that in order to effectively achieve any social change, characteristics of the current system of capitalism need to be accelerated and pushed beyond its limits."
+        },
+        {
+          "paragraph": "I find accelerationism to be flawed in many regards, particularly in its binary view that our only options for a post-capitalist society are reduced to either the continued acceleration of current techno-social advancement or risking a “slow fragmentation towards primitivism, perpetual crisis and planetary ecological collapse”. However, I also believe it is a useful framework to branch off from to navigate the contradictions we face in our neoliberal and digital present; and to understand and rethink erasure as a generative process, resource, and weapon."
+        },
+        {
+          "paragraph": "Let us apply this approach to an analysis of Katamari Damacy. The king, in a drinking binge destroys the cosmos (mindless consumption leading to economic, social and ecological collapse). In an effort to amend this catastrophic mistake, the next generation collects all data and material regardless of form (democratization of knowledge). The katamari constantly picks things up and occasionally knocks them off (additive and subtractive processes) as it bumps into larger objects, becoming an ever shifting and growing, honking, screaming, rumbling mass of giant octopi, skyscrapers, and islands (hybrid and mutating collectivity) until it is large enough to form a new star to add to a reconstructed universe (a new state, but not a complete tabula rasa). Throughout this introduction, I will elaborate upon this model, unpacking the aesthetics and politics of its various forms of erasure."
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "subtitle": "ARCHIVAL POWER",
+      "content": [
+        {
+          "paragraph": "“To make forgetful animals into human beings, a blind force strikes that dismembers and inscribes their bodies in the real, until pain itself brings forth a memory” In this statement by Friedrich Kittler on the development of storage technology, we find a distinction between humans and animals made in the form of the written word and in memory. What sets apart human from animal, superior from inferior, is the use of storage technologies, the first being the written word. With the introduction of the typewriter and ultimately all recording technologies, humans became “an inscription surface.” Those that wield the power to write have the power to address. Since history is written by winners, colonists, and oppressors, the terms used by them to describe and ultimately shape the bodies and histories of the oppressed are the terms that prevail. They are the terms that we use to shape and understand the world and each other. As Judith Butler writes, “we are beings that require language to be”, so it is also through language that we come to be subjectified, dehumanized, or eliminated. We see this in slurs, in the way characteristics of certain demographics are systematically assigned negative connotations. In privileging the written word, a medium less volatile and less contested, not only did we allow our bodies, identities, and histories to be identified in dominant terms, we also ensnared ourselves in a looped process of knowledge legitimizing and delegitimizing. It is a dual process consisting of repeatedly propagating myths of a dominant culture, while stigmatizing, debasing or erasing ‘othered’ cultures."
+        },
+        {
+          "paragraph": "Power is then located in the process of selecting repeatable molds, deciding what cultural elements are exportable for the future, what memories from the past can enter mainstream culture, what identities should be made into a standard by which all else should be measured in the present. As Jacquali Attali states, “power is no longer content to enact its legitimacy; it records and reproduces the societies it rules, stockpiling memory, retaining history or time, distributing speech and manipulating information.” This process of stockpiling memory is superimposed on models of learning, knowing, and being, operating in a loop of knowledge transfer that standardizes and institutionalizes superior knowledges while silencing and discarding those deemed inferior. We see this power exercised in educational and cultural institutions: biased curricula (privileging white male authors, history textbook controversies, genocide denials), academic journals that remain financially and linguistically inaccessible to many, standardized repertoire, the privatization of knowledge (the gravity of which Aaron Swartz’s suicide drew attention to), national/colonial archives, and museums. The solution cannot be a simple unwriting, total forgetting, or a return to purely oral traditions. However, it is clear in these examples that archival methods need to be reworked, or in the very least, need to make room for alternatives."
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "subtitle": "(AN)ARCHIVES: SHADOW LIBRARIES, PIRATE ARCHIVES, PEER TO PEER ",
+      "quote": "“The fever, the destruction, at the heart of the archive” -Derrida",
+      "content": [
+        {
+          "paragraph": "In internet archival practices and content distribution, we find two main models of power over information control. One view of this revolves around issues of net neutrality while the other argues for the subversive potential of digitally accumulating information. In the former argument, users are increasingly aware of the algorithmic interference that corporations such as Google Inc. and Facebook, Inc. use to “curate” information. Based on tracked user activity and the motives of a company, content deemed more relevant or more likely to elicit a positive response becomes more prevalent in search results, news feeds and advertisements, while other information deemed irrelevant, threatening or offensive, is lost. "
+        },
+        {
+          "paragraph": "One prominent example is what happened to #Ferguson feeds on Facebook in August 2015. After the shooting of unarmed black teenager Michael Brown in Ferguson, Missouri, live streamed images and reports of the ensuing protests were trending on Twitter. Facebook, on the other hand, remained comparatively silent on the protests, instead extensively covering ice bucket challenge videos. Users realized that the difference was a result of Facebook’s news feed algorithm, which aims to get users to interact more with their newsfeed in order to generate advertising revenue. This is a significant problem considering the fact that users increasingly use both Twitter and Facebook as news sources. Through supposedly objective algorithms, corporations are able to extend and capitalize upon the process of privileging some information while censoring others. Sean Lowry poses this problem bluntly: “if it isn’t ‘Googleable’ it doesn’t exist."
+        },
+        {
+          "paragraph": "On the other side of the argument, the accumulation and dissemination of information in the digital age can be seen as a disturbance of historical hierarchies; an “infinite reset to zero that transcends canonical cultural constructions and finds new means with which to construct individually circumscribable fictions.” As more information is recorded and disseminated collectively on digital formats and platforms (with varying degrees of legality), we find that the purported stability of knowledge begins to give way and reveal itself in all its volatility. We see this in user submitted content on platforms such as Wikipedia, which is constantly reviewed, deleted, edited and shaped not by a small elite group of experts, but by increasingly diverse communities of scholars; we see this in alternative unfiltered news sources such as Twitter and Reddit which have proven to be more efficient than traditional news outlets; we observe this in shadow libraries such as LibGen and aaaaarg, which continue to fight knowledge privatization, creating communities of people with multitude interests and gradually shifting elitist hierarchies of standardized curricula. With over 1 billion websites active to date, and millions of blog posts created each day, information accumulates, spreads and mutates at an accelerated pace."
+        },
+        {
+          "paragraph": "While possibly overly optimistic, the idea opens up possibilities of constructing multitude parallel and intersecting systems that allow various paths of knowledge to exist simultaneously. Internet artist Oliver Laric elaborates upon this idea in his video essay Versions (2009, 2010, 2012) in which he connects the proliferation of memes to the religious transgression of idolatry, and to Hugh Everett’s many-worlds interpretation, which Laric summarizes that “all manifestations from physical to virtual act as performances of an idea. No particular version has the monopoly on authenticity. So the jurisdictional claim loses control and consequently loses relevance” The many versions of the event, object or image, are “quantum superposition[s] of possibly infinite many, increasingly divergent, non-communicating parallel universes or quantum worlds,” all of which are equally real."
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "subtitle": "ERASURE/FORGETTING",
+      "content": [
+        {
+          "paragraph": "In Jack Halberstam’s The Queer Art of Failure, forgetting is “associated with radical action and a revolutionary relation to the new.” This kind of forgetting is not tantamount to anarchist agendas of “ripping it up and starting again” nor the bloody cultural revolutions of communism. These forms of “creative destruction” are traps of capitalist thought, condemned to repeat themselves purely in imitation of capitalist machines. Rather, forgetting means not only forgetting what you have been taught, but how you have been taught. To forget means to allow yourself to get lost. It is an active refusal to internalize a hierarchical system of superior-versus-inferior knowledges. It is the forgetting and refusing of the names and identities that are forced upon us; to constantly refresh our relationships to the histories, myths, and semiotics that code our bodies."
+        },
+        {
+          "paragraph": "Forgetting is inherent in the process of remembering. Each time a memory (or a digital file, for that matter) is recalled, bits of data are altered or lost. Each time you read this essay online, bits of it are lost. What happens in this process is a generative erasure. This is demonstrated by pieces such as Only Edison Could Speak To The Dead, the first chapter of this paper; Yasunao Tone’s Solo for Wounded CD (1997); Christian Marclay’s self explanatory Record without a cover (1985); and William Basinski’s Disintegration Loops (2002-2003), where music on magnetic tape disintegrates in the process of being digitized."
+        },
+        {
+          "paragraph": "On the subject of erasure, it would be remiss not to mention Malevich’s seminal Black Square (1915) or Rauschenberg’s Erased De Kooning (1953), which long recognized the generative potential of the palimpsest. However, enough has been written on these erasures, so instead I would like to mention recent works that use erasure in more directly political statements including Sean Lowry’s UNAUSTRALIA (2014), an overpainted wall painting of the map of Australia; Augustina Woodgate’s 2012 work The Times Atlas of The World (Dust Diptych), consisting of the dust of a sanded atlas, and Globe (2014), a sanded globe."
+        },
+        {
+          "paragraph": "Works that directly address memory, trauma and forgetting include the work of Mike Kelley, who often works with themes of childhood memories, Repressed Memory Syndrome, fabricating news articles, reconstructing existing places and creating various versions of blueprints. Educational Complex (1995), for example, is a model of all the schools that Kelley attended reassembled in one space. The piece is not only a record of Kelley’s institutional past, but also a map of his forgetting. Kelley stated that these were areas he did not remember, due to possible trauma he may have experienced and associated with them. The resulting piece manifests as a sort of anti-ars memoriae, in which reconstructing architecture functions not as an aid to remember, but to map the degradation of memory. In each of these pieces, new forms are carved out of originals and new information is created as existing data is digitally, physically, or mentally eroded."
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "subtitle": "TRANSLATING/MUTATING",
+      "quote": "“What are the many versions if not diverse perspectives of a moveable event? If not a long experimental assortment of omissions and emphases?”  -Oliver Laric, Versions (2012)",
+      "content": [
+        {
+          "paragraph": "Collective memory depends on individual interpretations and representations, most simply demonstrated in the game telephone, where a sentence is passed down a line from person to person. As everyone knows, the fun part of the game is hearing the resulting sentence after being processed through human filters full of errors, omissions and substitutions. Christine Schorkhuber and Alfred Grubbauer’s Stille Post (2008) applies further translation to this approach, feeding one text down three lines of non-professional translators. The original German text was about color and was subsequently translated from one language to another by various multilingual speakers before being translated back to German again. One resulting text was about love, another about legal papers, and one about religion. Similarly, Sophie Calle’s Take Care of Yourself (2007), revolving around a break up email she received from a lover, which she subsequently sent to women of varying professional backgrounds to interpret and respond to in a manner informed by their professions. From a forensic psychologist, who concluded that the writer was a “twisted manipulator” to a copy editor who marked syntactical and grammatical errors, an etiquette consultant who scrutinized the lover’s manners, to a markswoman who shot at the letter, Calle commissioned 107 interpretations and renderings of the offending letter. Translation in both of these pieces are mutations of an original. Each iteration extends meaning in omnidirectional trajectories, collectively accumulating and transforming the original, so that it becomes its various permutations."
+        },
+        {
+          "paragraph": "Collective memories can also be a result of amalgamations of versions of an original. A direct example is Brian Joseph Davis’ Yesterduh (2006), a mix of 60 tracks of people singing The Beatles’ Yesterday from memory and without rehearsal. For the most part, the singers are unsure of the lyrics beyond the chorus. The layers of slightly unsynchronized and awkward hesitations, silences, humming, pitch deviations, and improvised lyrics and syllables make audible the coinciding lapses in memory and surges of confidence. The result is a dynamic and texturally complex choral arrangement of the most covered song of all time; full of accidental canons, awkward solos, microtonal harmonies, moments of ghostly chants and scats, and messy tuttis.   These processes also describe the cultural phenomenon of memes, a horizontal transfer of a cultural unit, which undergoes mutations upon mutations from and to myriad nodes."
+        },
+        {
+          "paragraph": "No artist translates or interprets as wildly or at such extreme rates as the internet multitude, for which every public image and moment is an opportunity to freeze history, sample, remix, and spawn alternate realities. Oliver Laric’s Versions (Missile Variations) displays select versions of “a military hoax by the Iranian Revolutionary Guards in 2008 who released a crudely Photoshopped image showing four missile launches instead of one, sparking a photoshop battle on the internet. Resulting images include four missiles rerouted towards the ground, one missile returning to hit another missile launcher, and the entire image filled with missiles launching and raining down upon each other. Laric and the artists mentioned in this section all remind us that meaning is provisional, and far from being pale imitations; versions and remixes mutate an original, create infinitely plural meanings, and refute the idea of one absolute truth."
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "subtitle": "RE-CONTEXTUALIZING/RE-MYTHOLOGIZING ",
+      "content": [
+        {
+          "paragraph": "What happens after a culture or history is erased? After collective trauma, forced assimilation and cultural amnesia, what comes after to fill the void? In this section, I will pair and discuss artists who use similar methodologies to work through traumatic histories and decolonize institutions, bodies and spaces by re-mythologizing the past and reimagining futures; artists who repurpose, cut, paste, and reinvent historical narratives and cultural codes."
+        },
+        {
+          "paragraph": "Hito Steyerl writes that “the future only happens if history doesn’t occupy and invade the present.” Re-working and playing with history is a way of pressing the refresh button and refusing this occupation of history that comprises of dominant narratives and canons of knowledge. This is achieved in works such as Kenyatta A.C. Hinkle’s The Uninvited and Destiny Deacon’s Eva Johnson, 1994, which re-appropriate colonial-era imagery to reclaim power in the present. Hinkle does this by collaging and embellishing on 19th-20th century ethnographic photography of West African people, transforming them into mythical figures. Deacon takes a more tongue-in-cheek approach in her photograph which is a reconstruction of J.M. Crossland’s Portrait of Nannultera, a young Poonindie cricketer (1854), a painting of a young aboriginal boy raising a cricket bat. 140 years later, Deacon photographs her friend Eva dressed in the same clothes, in the same position, but with an axe raised above her head."
+        },
+        {
+          "paragraph": "Mary Sibande and Marisa Williamson go further in this process, creating characters whose lives become progressively fantastic, narrowing the gap between past and present, stretching and exceeding the realms of reality. Based in South Africa, where the impact of apartheid continues to echo in today’s political climate, Sibande creates scenes starring Sophie the maid, who indulges in fantasies to escape her bleak reality. Sophie always wears a maid’s costume inspired by victorian era dresses, but each appearance that Sophie makes calls for different versions of her dress which act as class signifiers. While conducting an imaginary orchestra, her dress fans out and suspends behind her in a grand red-carpet-like tail. Riding a rearing horse in a victorious pose, the horse’s reign is made of the same material as Sophie’s dress. Waiting at a bus stop, a chandelier happens to appear, and lacey pouf sleeves extend from her shoulders. As Sophie fantasizes, she prompts her viewers to consider the representations of class, race and gender."
+        },
+        {
+          "paragraph": "Williamson creates performances, images and videos as Sally Hemings, slave and mistress to US president Thomas Jefferson. The first work involving this character is a performance titled What Would Sally Do? (2013) which takes place on Jefferson’s plantation and Sally’s home, Monticello. Dressed in a servant’s outfit, Sally jogs, does push ups, eats KFC, and dances while singing karaoke outside the building. The superimposition of Heming’s biography, her dress, and the relatively mundane activities she takes part in, is jarringly anachronistic. Amongst the absurdity, one sobering moment stands out in which Sally reads the section of the Declaration of Independence written by her master:"
+        },
+        {
+          "quote": "“We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the Pursuit of Happiness. That to secure these rights, Governments are instituted among Men, deriving their just powers from the consent of the governed.”"
+        },
+        {
+          "paragraph": "The effect is haunting and hits hard. By resurrecting Hemings in contemporary scenes on the physical site that her memory remains tethered to, Williamson blurs temporal lines, reminding us that history does not merely remain in the past. It informs and permeates our present, particularly for those of us who are regularly reminded of our minoritized identities. At the same time, this interaction between past and present flows in both directions, and one can see how Williamson is able to gradually pry Heming’s history and identity away from the site of her oppression in a way that is humanizing. For Williamson, retelling Hemings’ story is part of her “feminist and anti-colonial efforts to reclaim and self-narrativise that which feels, even now, to be appropriated by victors.”"
+        },
+        {
+          "paragraph": "Through Williamson’s work, Sally’s life continues in various projects; chatting with Monica Lewinsky about their respective scandalous relationships; returning to Paris 226 years after her initial departure to reflect upon her decision to leave the possibility of freedom in Paris to return to Monticello as a slave; and hosting the talk show Hemings and Hawings (2015), with Monica Lewinsky, Whoopi, Goldberg, Oprah Winfrey, and Marilyn Monroe. Throughout these projects, Williamson, through Sally, both complicates and unpacks power relations in pleasure, desire, double standards, representation, gender, race, and privilege."
+        },
+        {
+          "paragraph": "How do we prevent the past from invading and occupying the present? Can our pasts, presents and futures intermingle and shift so that there is never one absolute truth but manifold narratives that intersect, depart, and fold in upon themselves? What structures and methods can we look to that will allow space for individuals and collectives alike the right to self narrativization and therefore self determination? Can these methods offer paths to more fluid identities, and multiple ways for people to relate to each other that simultaneously diverge, collide, and intertwine?"
+        },
+        {
+          "paragraph": "The following chapters are made up of scores and short lectures on the aforementioned themes of generative erasure. These texts serve as supplementary explorations of the ideas I have previously laid out. “Only Edison Could Speak to the Dead”, is a score for a performance involving a vinyl record and a record sleeve lined with sandpaper. The performer alternates between playing/scratching the record and delivering quotes on recording, forgetting and neuroplasticity. Over time, the destruction of the record reveals itself to be a composition that culminates in pure noise. “Histories of Forgetting” was delivered as part of a guided tour of an exhibition at the Royal Academy of Art in the Hague. The text ties history with mythology, prompting a reading of the past and how it resonates in the present. “On Erasure, Loss and Dust” is a performative lecture that connects lossy compression and (psycho)acoustic phenomena such as echo, masking, and speech jamming with the dissolution and reconfiguration of identities. I discuss how these elements relate to the breakdown of borders in favor of noise, and of the individual in favor of the collective. Finally, “Month of Digital Forgetting” is a reflection on my month of abstaining from various recording technologies. Through these texts, I hope to navigate the various modes of generative erasure and unpack the politics and poetics of forgetting."
+        }
+      ]
+    },
+    {
+      "order": 8,
+      "title": "I ONLY EDISON COULD SPEAK TO THE DEAD",
+      "content": [
+        {
+          "paragraph": "Lecture for speaker, vinyl record with 4 minutes of silence, and sandpaper record sleeve. ",
+          "content": [
+            {
+              "paragraph": "1. Read the first section of text"
             },
-            {  
-               "paragraph":"My motivation for researching the topic of erasure initially came from an interest in aesthetics of failure, a suspicion of the increased dependence on memory storage technology, and a frustration with the escalation of society’s archive fever. I began with an approach of media archeology, investigating the history of recording beginning with the written word, tracing it to the internet, and continuing with investigations in digital forgetting, archival power relations and identity politics. It became apparent that, although necessary, the need to record everything can have destructive effects on the ways that we learn, teach and understand the world and each other. We see this in hierarchies of knowledge, in the way that history is written and taught by dominant people, in who and what is deemed worthy of being recorded and preserved for future generations. From this point, I began looking towards erasure and forgetting, not necessarily to decelerate or counter the effects of recording, but to provide alternative and parallel modes of creating, learning and thinking. "
+            {
+              "paragraph": "2. Slide record in sleeve before taking out and placing back on record player"
             },
-            {  
-               "paragraph":"In this introduction I will first lay out a framework for the kinds of erasure I will discuss throughout the thesis. I will then illustrate how a disproportionate investment in recording technology can have oppressive and violent effects, and what is at stake if we do not look towards alternative models of knowledge acquisition and dissemination. I will also explore the aesthetic and political possibilities that erasure can offer in the forms of erasing/forgetting, translating/mutating, and recontexualizing/(re)mythologizing, before outlining how these forms are present in digital cultural applications. This paper has no pretense of offering concrete answers. Rather, it is an exploration of various possible models of doing and thinking through erasure."
-            }]},
-            {  
-               "order":2,
-               "subtitle":"KATAMARI DAMACY: A FRAMEWORK FOR ERASURE",
-               "content":[  
-                  {  
-                     "paragraph":"In a 1997 interview, John Cage said “In contemporary civilization where everything is standardized and where everything is repeated, the whole point is to forget in the space between an object and its duplication. If we didn't have this power of forgetfulness, if art today didn't help us to forget, we would be submerged, drowned under those avalanches of rigorously identical objects.” While I agree with the sentiment of this statement, I would like to take it further and posit that forgetting can also involve being submerged and drowned under an avalanche, and that identical objects are not always so identical. In the internet age where information is abundant, infinite memes circulate, and languages mutate at an accelerating pace; concepts of refresh and bit rot are embedded in our daily lives.  "
-                  },
-                  {  
-                     "paragraph":"What happens as a result can be visually demonstrated in the Playstation 2 game Katamari Damacy (released 2004). The plot of the game begins after the King of All Cosmos has accidentally destroyed all the stars in the universe. In order to reconstruct the sky, he sends his son, the prince, to Earth to collect everything. He does this by rolling an adhesive ball (the katamari) around various locations on Earth to attract objects of increasing size (from pins to dinosaurs to entire islands) until the ball is big enough to become a star. This game can easily be construed as an accelerationist narrative of our future. Accelerationism is “the insistence that the only radical political response to capitalism is not to protest, disrupt, or critique, nor to await its demise at the hands of its own contradictions, but to accelerate its uprooting, alienating, decoding, abstractive tendencies.” It is the idea that in order to effectively achieve any social change, characteristics of the current system of capitalism need to be accelerated and pushed beyond its limits."
-                  },
-                  {  
-                     "paragraph":"I find accelerationism to be flawed in many regards, particularly in its binary view that our only options for a post-capitalist society are reduced to either the continued acceleration of current techno-social advancement or risking a “slow fragmentation towards primitivism, perpetual crisis and planetary ecological collapse”. However, I also believe it is a useful framework to branch off from to navigate the contradictions we face in our neoliberal and digital present; and to understand and rethink erasure as a generative process, resource, and weapon."
-                  },
-                  {  
-                     "paragraph":"Let us apply this approach to an analysis of Katamari Damacy. The king, in a drinking binge destroys the cosmos (mindless consumption leading to economic, social and ecological collapse). In an effort to amend this catastrophic mistake, the next generation collects all data and material regardless of form (democratization of knowledge). The katamari constantly picks things up and occasionally knocks them off (additive and subtractive processes) as it bumps into larger objects, becoming an ever shifting and growing, honking, screaming, rumbling mass of giant octopi, skyscrapers, and islands (hybrid and mutating collectivity) until it is large enough to form a new star to add to a reconstructed universe (a new state, but not a complete tabula rasa). Throughout this introduction, I will elaborate upon this model, unpacking the aesthetics and politics of its various forms of erasure."
-                  }]},
-                  {  
-   "order":3,
-   "subtitle":"ARCHIVAL POWER",
-   "content":[  
-      {  
-         "paragraph":"“To make forgetful animals into human beings, a blind force strikes that dismembers and inscribes their bodies in the real, until pain itself brings forth a memory” In this statement by Friedrich Kittler on the development of storage technology, we find a distinction between humans and animals made in the form of the written word and in memory. What sets apart human from animal, superior from inferior, is the use of storage technologies, the first being the written word. With the introduction of the typewriter and ultimately all recording technologies, humans became “an inscription surface.” Those that wield the power to write have the power to address. Since history is written by winners, colonists, and oppressors, the terms used by them to describe and ultimately shape the bodies and histories of the oppressed are the terms that prevail. They are the terms that we use to shape and understand the world and each other. As Judith Butler writes, “we are beings that require language to be”, so it is also through language that we come to be subjectified, dehumanized, or eliminated. We see this in slurs, in the way characteristics of certain demographics are systematically assigned negative connotations. In privileging the written word, a medium less volatile and less contested, not only did we allow our bodies, identities, and histories to be identified in dominant terms, we also ensnared ourselves in a looped process of knowledge legitimizing and delegitimizing. It is a dual process consisting of repeatedly propagating myths of a dominant culture, while stigmatizing, debasing or erasing ‘othered’ cultures."
-      },
-      {  
-         "paragraph":"Power is then located in the process of selecting repeatable molds, deciding what cultural elements are exportable for the future, what memories from the past can enter mainstream culture, what identities should be made into a standard by which all else should be measured in the present. As Jacquali Attali states, “power is no longer content to enact its legitimacy; it records and reproduces the societies it rules, stockpiling memory, retaining history or time, distributing speech and manipulating information.” This process of stockpiling memory is superimposed on models of learning, knowing, and being, operating in a loop of knowledge transfer that standardizes and institutionalizes superior knowledges while silencing and discarding those deemed inferior. We see this power exercised in educational and cultural institutions: biased curricula (privileging white male authors, history textbook controversies, genocide denials), academic journals that remain financially and linguistically inaccessible to many, standardized repertoire, the privatization of knowledge (the gravity of which Aaron Swartz’s suicide drew attention to), national/colonial archives, and museums. The solution cannot be a simple unwriting, total forgetting, or a return to purely oral traditions. However, it is clear in these examples that archival methods need to be reworked, or in the very least, need to make room for alternatives."
-      }
-   ]
-},
-                        {  
-                           "order":4,
-                           "subtitle":"(AN)ARCHIVES: SHADOW LIBRARIES, PIRATE ARCHIVES, PEER TO PEER ",
-                           "quote":"“The fever, the destruction, at the heart of the archive” -Derrida",
-                           "content":[  
-                              {  
-                                 "paragraph":"In internet archival practices and content distribution, we find two main models of power over information control. One view of this revolves around issues of net neutrality while the other argues for the subversive potential of digitally accumulating information. In the former argument, users are increasingly aware of the algorithmic interference that corporations such as Google Inc. and Facebook, Inc. use to “curate” information. Based on tracked user activity and the motives of a company, content deemed more relevant or more likely to elicit a positive response becomes more prevalent in search results, news feeds and advertisements, while other information deemed irrelevant, threatening or offensive, is lost. "
-                              },
-                              {  
-                                 "paragraph":"One prominent example is what happened to #Ferguson feeds on Facebook in August 2015. After the shooting of unarmed black teenager Michael Brown in Ferguson, Missouri, live streamed images and reports of the ensuing protests were trending on Twitter. Facebook, on the other hand, remained comparatively silent on the protests, instead extensively covering ice bucket challenge videos. Users realized that the difference was a result of Facebook’s news feed algorithm, which aims to get users to interact more with their newsfeed in order to generate advertising revenue. This is a significant problem considering the fact that users increasingly use both Twitter and Facebook as news sources. Through supposedly objective algorithms, corporations are able to extend and capitalize upon the process of privileging some information while censoring others. Sean Lowry poses this problem bluntly: “if it isn’t ‘Googleable’ it doesn’t exist."
-                              },
-                              {  
-                                 "paragraph":"On the other side of the argument, the accumulation and dissemination of information in the digital age can be seen as a disturbance of historical hierarchies; an “infinite reset to zero that transcends canonical cultural constructions and finds new means with which to construct individually circumscribable fictions.” As more information is recorded and disseminated collectively on digital formats and platforms (with varying degrees of legality), we find that the purported stability of knowledge begins to give way and reveal itself in all its volatility. We see this in user submitted content on platforms such as Wikipedia, which is constantly reviewed, deleted, edited and shaped not by a small elite group of experts, but by increasingly diverse communities of scholars; we see this in alternative unfiltered news sources such as Twitter and Reddit which have proven to be more efficient than traditional news outlets; we observe this in shadow libraries such as LibGen and aaaaarg, which continue to fight knowledge privatization, creating communities of people with multitude interests and gradually shifting elitist hierarchies of standardized curricula. With over 1 billion websites active to date, and millions of blog posts created each day, information accumulates, spreads and mutates at an accelerated pace."
-                              },
-                              {  
-                                 "paragraph":"While possibly overly optimistic, the idea opens up possibilities of constructing multitude parallel and intersecting systems that allow various paths of knowledge to exist simultaneously. Internet artist Oliver Laric elaborates upon this idea in his video essay Versions (2009, 2010, 2012) in which he connects the proliferation of memes to the religious transgression of idolatry, and to Hugh Everett’s many-worlds interpretation, which Laric summarizes that “all manifestations from physical to virtual act as performances of an idea. No particular version has the monopoly on authenticity. So the jurisdictional claim loses control and consequently loses relevance” The many versions of the event, object or image, are “quantum superposition[s] of possibly infinite many, increasingly divergent, non-communicating parallel universes or quantum worlds,” all of which are equally real."
-                              }]},
-                              {  
-                                 "order":5,
-                                 "subtitle":"ERASURE/FORGETTING",
-                                 "content":[  
-                                    {  
-                                       "paragraph":"In Jack Halberstam’s The Queer Art of Failure, forgetting is “associated with radical action and a revolutionary relation to the new.” This kind of forgetting is not tantamount to anarchist agendas of “ripping it up and starting again” nor the bloody cultural revolutions of communism. These forms of “creative destruction” are traps of capitalist thought, condemned to repeat themselves purely in imitation of capitalist machines. Rather, forgetting means not only forgetting what you have been taught, but how you have been taught. To forget means to allow yourself to get lost. It is an active refusal to internalize a hierarchical system of superior-versus-inferior knowledges. It is the forgetting and refusing of the names and identities that are forced upon us; to constantly refresh our relationships to the histories, myths, and semiotics that code our bodies."
-                                    },
-                                    {  
-                                       "paragraph":"Forgetting is inherent in the process of remembering. Each time a memory (or a digital file, for that matter) is recalled, bits of data are altered or lost. Each time you read this essay online, bits of it are lost. What happens in this process is a generative erasure. This is demonstrated by pieces such as Only Edison Could Speak To The Dead, the first chapter of this paper; Yasunao Tone’s Solo for Wounded CD (1997); Christian Marclay’s self explanatory Record without a cover (1985); and William Basinski’s Disintegration Loops (2002-2003), where music on magnetic tape disintegrates in the process of being digitized."
-                                    },
-                                    {  
-                                       "paragraph":"On the subject of erasure, it would be remiss not to mention Malevich’s seminal Black Square (1915) or Rauschenberg’s Erased De Kooning (1953), which long recognized the generative potential of the palimpsest. However, enough has been written on these erasures, so instead I would like to mention recent works that use erasure in more directly political statements including Sean Lowry’s UNAUSTRALIA (2014), an overpainted wall painting of the map of Australia; Augustina Woodgate’s 2012 work The Times Atlas of The World (Dust Diptych), consisting of the dust of a sanded atlas, and Globe (2014), a sanded globe."
-                                    },
-                                    {  
-                                       "paragraph":"Works that directly address memory, trauma and forgetting include the work of Mike Kelley, who often works with themes of childhood memories, Repressed Memory Syndrome, fabricating news articles, reconstructing existing places and creating various versions of blueprints. Educational Complex (1995), for example, is a model of all the schools that Kelley attended reassembled in one space. The piece is not only a record of Kelley’s institutional past, but also a map of his forgetting. Kelley stated that these were areas he did not remember, due to possible trauma he may have experienced and associated with them. The resulting piece manifests as a sort of anti-ars memoriae, in which reconstructing architecture functions not as an aid to remember, but to map the degradation of memory. In each of these pieces, new forms are carved out of originals and new information is created as existing data is digitally, physically, or mentally eroded."
-                                    }
-                                 ]
-                              },
-                              {  
-   "order":6,
-   "subtitle":"TRANSLATING/MUTATING",
-   "quote":"“What are the many versions if not diverse perspectives of a moveable event? If not a long experimental assortment of omissions and emphases?”  -Oliver Laric, Versions (2012)",
-   "content":[  
-      {  
-         "paragraph":"Collective memory depends on individual interpretations and representations, most simply demonstrated in the game telephone, where a sentence is passed down a line from person to person. As everyone knows, the fun part of the game is hearing the resulting sentence after being processed through human filters full of errors, omissions and substitutions. Christine Schorkhuber and Alfred Grubbauer’s Stille Post (2008) applies further translation to this approach, feeding one text down three lines of non-professional translators. The original German text was about color and was subsequently translated from one language to another by various multilingual speakers before being translated back to German again. One resulting text was about love, another about legal papers, and one about religion. Similarly, Sophie Calle’s Take Care of Yourself (2007), revolving around a break up email she received from a lover, which she subsequently sent to women of varying professional backgrounds to interpret and respond to in a manner informed by their professions. From a forensic psychologist, who concluded that the writer was a “twisted manipulator” to a copy editor who marked syntactical and grammatical errors, an etiquette consultant who scrutinized the lover’s manners, to a markswoman who shot at the letter, Calle commissioned 107 interpretations and renderings of the offending letter. Translation in both of these pieces are mutations of an original. Each iteration extends meaning in omnidirectional trajectories, collectively accumulating and transforming the original, so that it becomes its various permutations."
-      },
-      {  
-         "paragraph":"Collective memories can also be a result of amalgamations of versions of an original. A direct example is Brian Joseph Davis’ Yesterduh (2006), a mix of 60 tracks of people singing The Beatles’ Yesterday from memory and without rehearsal. For the most part, the singers are unsure of the lyrics beyond the chorus. The layers of slightly unsynchronized and awkward hesitations, silences, humming, pitch deviations, and improvised lyrics and syllables make audible the coinciding lapses in memory and surges of confidence. The result is a dynamic and texturally complex choral arrangement of the most covered song of all time; full of accidental canons, awkward solos, microtonal harmonies, moments of ghostly chants and scats, and messy tuttis.   These processes also describe the cultural phenomenon of memes, a horizontal transfer of a cultural unit, which undergoes mutations upon mutations from and to myriad nodes."
-      },
-      {  
-         "paragraph":"No artist translates or interprets as wildly or at such extreme rates as the internet multitude, for which every public image and moment is an opportunity to freeze history, sample, remix, and spawn alternate realities. Oliver Laric’s Versions (Missile Variations) displays select versions of “a military hoax by the Iranian Revolutionary Guards in 2008 who released a crudely Photoshopped image showing four missile launches instead of one, sparking a photoshop battle on the internet. Resulting images include four missiles rerouted towards the ground, one missile returning to hit another missile launcher, and the entire image filled with missiles launching and raining down upon each other. Laric and the artists mentioned in this section all remind us that meaning is provisional, and far from being pale imitations; versions and remixes mutate an original, create infinitely plural meanings, and refute the idea of one absolute truth."
-      }
-   ]
-},
-                              {  
-                                 "order":7,
-                                 "subtitle":"RE-CONTEXTUALIZING/RE-MYTHOLOGIZING ",
-                                 "content":[  
-                                    {  
-                                       "paragraph":"What happens after a culture or history is erased? After collective trauma, forced assimilation and cultural amnesia, what comes after to fill the void? In this section, I will pair and discuss artists who use similar methodologies to work through traumatic histories and decolonize institutions, bodies and spaces by re-mythologizing the past and reimagining futures; artists who repurpose, cut, paste, and reinvent historical narratives and cultural codes."
-                                    },
-                                    {  
-                                       "paragraph":"Hito Steyerl writes that “the future only happens if history doesn’t occupy and invade the present.” Re-working and playing with history is a way of pressing the refresh button and refusing this occupation of history that comprises of dominant narratives and canons of knowledge. This is achieved in works such as Kenyatta A.C. Hinkle’s The Uninvited and Destiny Deacon’s Eva Johnson, 1994, which re-appropriate colonial-era imagery to reclaim power in the present. Hinkle does this by collaging and embellishing on 19th-20th century ethnographic photography of West African people, transforming them into mythical figures. Deacon takes a more tongue-in-cheek approach in her photograph which is a reconstruction of J.M. Crossland’s Portrait of Nannultera, a young Poonindie cricketer (1854), a painting of a young aboriginal boy raising a cricket bat. 140 years later, Deacon photographs her friend Eva dressed in the same clothes, in the same position, but with an axe raised above her head."
-                                    },
-                                    {  
-                                       "paragraph":"Mary Sibande and Marisa Williamson go further in this process, creating characters whose lives become progressively fantastic, narrowing the gap between past and present, stretching and exceeding the realms of reality. Based in South Africa, where the impact of apartheid continues to echo in today’s political climate, Sibande creates scenes starring Sophie the maid, who indulges in fantasies to escape her bleak reality. Sophie always wears a maid’s costume inspired by victorian era dresses, but each appearance that Sophie makes calls for different versions of her dress which act as class signifiers. While conducting an imaginary orchestra, her dress fans out and suspends behind her in a grand red-carpet-like tail. Riding a rearing horse in a victorious pose, the horse’s reign is made of the same material as Sophie’s dress. Waiting at a bus stop, a chandelier happens to appear, and lacey pouf sleeves extend from her shoulders. As Sophie fantasizes, she prompts her viewers to consider the representations of class, race and gender."
-                                    },
-                                    {  
-                                       "paragraph":"Williamson creates performances, images and videos as Sally Hemings, slave and mistress to US president Thomas Jefferson. The first work involving this character is a performance titled What Would Sally Do? (2013) which takes place on Jefferson’s plantation and Sally’s home, Monticello. Dressed in a servant’s outfit, Sally jogs, does push ups, eats KFC, and dances while singing karaoke outside the building. The superimposition of Heming’s biography, her dress, and the relatively mundane activities she takes part in, is jarringly anachronistic. Amongst the absurdity, one sobering moment stands out in which Sally reads the section of the Declaration of Independence written by her master:"
-                                    },
-                                    {  
-                                       "quote":"“We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the Pursuit of Happiness. That to secure these rights, Governments are instituted among Men, deriving their just powers from the consent of the governed.”"
-                                    },
-                                    {  
-                                       "paragraph":"The effect is haunting and hits hard. By resurrecting Hemings in contemporary scenes on the physical site that her memory remains tethered to, Williamson blurs temporal lines, reminding us that history does not merely remain in the past. It informs and permeates our present, particularly for those of us who are regularly reminded of our minoritized identities. At the same time, this interaction between past and present flows in both directions, and one can see how Williamson is able to gradually pry Heming’s history and identity away from the site of her oppression in a way that is humanizing. For Williamson, retelling Hemings’ story is part of her “feminist and anti-colonial efforts to reclaim and self-narrativise that which feels, even now, to be appropriated by victors.”"
-                                    },
-                                    {  
-                                       "paragraph":"Through Williamson’s work, Sally’s life continues in various projects; chatting with Monica Lewinsky about their respective scandalous relationships; returning to Paris 226 years after her initial departure to reflect upon her decision to leave the possibility of freedom in Paris to return to Monticello as a slave; and hosting the talk show Hemings and Hawings (2015), with Monica Lewinsky, Whoopi, Goldberg, Oprah Winfrey, and Marilyn Monroe. Throughout these projects, Williamson, through Sally, both complicates and unpacks power relations in pleasure, desire, double standards, representation, gender, race, and privilege."
-                                    },
-                                    {  
-                                       "paragraph":"How do we prevent the past from invading and occupying the present? Can our pasts, presents and futures intermingle and shift so that there is never one absolute truth but manifold narratives that intersect, depart, and fold in upon themselves? What structures and methods can we look to that will allow space for individuals and collectives alike the right to self narrativization and therefore self determination? Can these methods offer paths to more fluid identities, and multiple ways for people to relate to each other that simultaneously diverge, collide, and intertwine?"
-                                    },
-                                    {  
-                                       "paragraph":"The following chapters are made up of scores and short lectures on the aforementioned themes of generative erasure. These texts serve as supplementary explorations of the ideas I have previously laid out. “Only Edison Could Speak to the Dead”, is a score for a performance involving a vinyl record and a record sleeve lined with sandpaper. The performer alternates between playing/scratching the record and delivering quotes on recording, forgetting and neuroplasticity. Over time, the destruction of the record reveals itself to be a composition that culminates in pure noise. “Histories of Forgetting” was delivered as part of a guided tour of an exhibition at the Royal Academy of Art in the Hague. The text ties history with mythology, prompting a reading of the past and how it resonates in the present. “On Erasure, Loss and Dust” is a performative lecture that connects lossy compression and (psycho)acoustic phenomena such as echo, masking, and speech jamming with the dissolution and reconfiguration of identities. I discuss how these elements relate to the breakdown of borders in favor of noise, and of the individual in favor of the collective. Finally, “Month of Digital Forgetting” is a reflection on my month of abstaining from various recording technologies. Through these texts, I hope to navigate the various modes of generative erasure and unpack the politics and poetics of forgetting."
-                                    }]},
-                                      
-                                       {  
-                                          "order":8,
-                                          "title":"I ONLY EDISON COULD SPEAK TO THE DEAD",
-                                          "content":[  
-                                             {  
-                                                "paragraph":"Lecture for speaker, vinyl record with 4 minutes of silence, and sandpaper record sleeve. ",
-                                                "content":[  
-                                                   {  
-                                                      "paragraph":"1. Read the first section of text"
-                                                   },
-                                                   {  
-                                                      "paragraph":"2. Slide record in sleeve before taking out and placing back on record player"
-                                                   },
-                                                   {  
-                                                      "paragraph":"3. Play record"
-                                                   },
-                                                   {  
-                                                      "paragraph":"4. Repeat until record is scratched to the point that it produces a wall of noise"
-                                                   }
-                                                ]
-                                             },
-                                             {  
-                                                "paragraph":"“To make forgetful animals into human beings, a blind force strikes that dismembers and inscribes their bodies in the real, until pain itself brings forth a memory”  What sets apart human from animal, superior from inferior, is memory."
-                                             },
-                                             {  
-                                                "paragraph":"1902, Conductor M. Luigini telegrams about the gramophone: “It will be an invaluable instruction, popularizing the good traditions of purity of style of the performing elite.”"
-                                             },
-                                             {  
-                                                "paragraph":"An endless loop of absolute knowledge."
-                                             },
-                                             {  
-                                                "paragraph":"“power is no longer content to enact its legitimacy; it records and reproduces the societies it rules, stockpiling memory, retaining history or time, distributing speech and manipulating information.”"
-                                             },
-                                             {  
-                                                "paragraph":"”But as every clever child knows “you cut into the past and the future leaks out”"
-                                             },
-                                             {  
-                                                "paragraph":"In one study, the regions of the sensory cortex connected to touch sensations from owl monkey’s hands were localized and mapped. After at least one of the fingers was amputated the sensory input from the remaining fingers shifted to the missing finger’s exclusive brain region."
-                                             },
-                                             {  
-                                                "paragraph":"So then the sensory areas of the brain that map different body parts are not hardwired…but unexpectedly fluid."
-                                             },
-                                             {  
-                                                "paragraph":"The myth that goldfish have a 3 second memory came from an advertisement that nobody remembers."
-                                             },
-                                             {  
-                                                "paragraph":"“History must have a dustbin, or history will be a dustbin”"
-                                             }
-                                          ]
-                                       },
-                                         
-                                          {"blocks":[  
-                                             {  
-                                                "order":9,
-                                                "title":"II HISTORIES OF FAILURE AND FORGETTING",
-                                                "content":[  
-                                                   {  
-                                                      "paragraph":"I would like to guide you through a few histories of failure and forgetting."
-                                                   },
-                                                   {  
-                                                      "paragraph":"I question permanence as a measure of success in systems and methods. I am interested in how this idea permeates modes of knowledge acquisition and transfer, and ultimately; how it produces, shapes, and destroys cultural identities. For these reasons, I believe in contesting the idea of pre-established systems and methods remaining immutable merely because they are tried and true."
-                                                   },
-                                                   {  
-                                                      "paragraph":"So today I offer you narratives of failure, forgetting and impermanence."
-                                                   },
-                                                   {  
-                                                      "subtitle":"I. WHITE NOISE WHITE OUT"
-                                                   },
-                                                   {  
-                                                      "paragraph":"I would like to begin with the origins of sound recording, which over time has developed an increasingly clean and flawless aesthetic. Rhythms are quantized, voices pitch-corrected, mistakes overdubbed. This leaves no room for error. And yet, of course, the origins of sound recording are ridden with failures."
-                                                   },
-                                                   {  
-                                                      "paragraph":"Edison invented the phonograph in 1877, intending to capture and preserve speech for years to come. This fascination with immortalizing the voice developed to the point that he attempted to invent a device that would allow us to communicate with the dead. He was not alone in his endeavours. In fact, he took on this project after he heard about Marconi and Tesla’s experiences with what is known as EVP, electronic voice phenomenon. The two inventors were working with radio waves at the time, when they began to receive unexplainable voice transmissions. While Tesla believed he was speaking to beings from other planets, Marconi thought he was communicating with the spirit world."
-                                                   },
-                                                   {  
-                                                      "paragraph":"But let’s get back to Edison for a moment. At one point he became unsatisfied with the recording quality of ensembles and orchestras, so believing that the sounds got confused as they travelled through the horn of his phonograph, he decided to build bigger and longer horns so that sounds could be “untangled”. In 1923 he built a 125ft brass horn and made several experimental recordings. This was an utter failure and the project ended in 1924 due to mounting expenses. In 1942 the horn was melted down for scrap metal for the WWII effort."
-                                                   },
-                                                   {  
-                                                      "subtitle":"II. ERASURE"
-                                                   },
-                                                   {  
-                                                      "paragraph":"In 1951, Bette Nesmith Graham, a Texan typist who was terrible at her job invented MistakeOut, a white liquid that she use to cover her typing mistakes. This solution became so popular that she founded her company Liquid Paper Corp which she eventually sold to Gillette; a company that has a monopoly on hair removal."
-                                                   },
-                                                   {  
-                                                      "subtitle":"III. RADICAL FORGETTING"
-                                                   },
-                                                   {  
-                                                      "paragraph":"Kodwo Eshun wrote on Afrofuturism,  “it has been necessary to assemble countermemories that contest the colonial archive, thereby situating the collective trauma of slavery as the founding moment of modernity.”"
-                                                   },
-                                                   {  
-                                                      "paragraph":"And so Malcolm Little, Cassius Marcellus Clay Jr. and Herman Poole Blount forgot their names to become Malcolm X, Muhammed Ali and Sun Ra."
-                                                   },
-                                                   {  
-                                                      "paragraph":"In the 1968 Warsaw Pact Invasion of Czechoslovakia, citizens of Prague painted their street signs white in a nonviolent gesture of protest. The story goes that only the signs pointing back to Moscow remained. Upon arrival, half a million troops were lost.   "
-                                                   },
-                                                   {  
-                                                      "subtitle":"IV. DIGITAL FORGETTING"
-                                                   },
-                                                   {  
-                                                      "paragraph":"Offering anonymity and interconnectivity, the internet brought with it a promise of the protean self, the idea that our identities can be more fluid and multi-faceted. However, what it has become is the ultimate storage and surveillance technology. One that cannot forgive because it cannot forget. Then again, it’s not the perfect memory we believe it to be."
-                                                   },
-                                                   {  
-                                                      "paragraph":"We are all familiar with the 404 error code. Established around 1992, internet folklore has it that when scientists at CERN were developing the world wide web, they used a physical layout of their network so that different functions of the protocol would be designated to different offices within the CERN building."
-                                                   },
-                                                   {  
-                                                      "paragraph":"The central database happened to be located in Room 404. Any request for a file was routed to room 404 where a few people would manually locate the requested files and transfer them to whoever made the request."
-                                                   },
-                                                   {  
-                                                      "paragraph":"As the database began to grow, the number of file requests increased, as did the number of requests that could not be fulfilled, usually due to a typo in the request. Eventually these faulty requests were responded to with the standard message: “Room 404: file not found”. "
-                                                   },
-                                                   {  
-                                                      "paragraph":"In the official release of HTTP (hyper text transfer Protocol), room 404 was preserved as a “place on the Web”,  a monument to the beginning of the world wide web."
-                                                   },
-                                                   {  
-                                                      "paragraph":"The number 4 in Chinese means death, which is why some buildings in Chinese cities don’t have a 4th floor."
-                                                   }
-                                                ]
-                                             }
-                                          ]},
-                                          {"blocks0":[  
-                                             {  
-                                                "order":10,
-                                                "title":"III LOSS, DUST, NOISE",
-                                                "content":[  
-                                                   {  
-                                                      "paragraph":"I was sitting in a room listening to a lecture. I don’t remember what was said because, to be honest, I couldn’t focus. I couldn’t focus because the room I was sitting in was so reverberant, it created an echo of about 2 seconds. So I could hear words coming from in front of me before it bounced off the walls, partially getting absorbed and losing energy before returning to my ears as a more washed up version of the original."
-                                                   },
-                                                   {  
-                                                      "paragraph":"[repeat x times with delay and echo]"
-                                                   },
-                                                   {  
-                                                      "paragraph":"[CLEAR]"
-                                                   },
-                                                   {  
-                                                      "paragraph":"[delay + echo off]"
-                                                   },
-                                                   {  
-                                                      "paragraph":"Earlier that day a friend presented a piece of hers that attempted to delete words coming from a speaker. She did this on two levels. The first occurred on a psychological level, involving speech jamming, which is when a speaker has their voice picked up by a microphone and has it played back to them with a delay of .3 -.5 seconds."
-                                                   },
-                                                   {  
-                                                      "paragraph":"[Headphones + speech jammer on] "
-                                                   },
-                                                   {  
-                                                      "paragraph":"This usually causes a glitch in the speaker’s brain, causing them to stutter, slur or even render them incapable of speaking."
-                                                   },
-                                                   {  
-                                                      "paragraph":"[headphones off]"
-                                                   },
-                                                   {  
-                                                      "paragraph":"The second level of deletion happened at the ears via masking. The speaker had white noise played through their headphones which cancelled out all the frequencies of their own voice, so that they could not hear their voice traveling through the air. Only through bones."
-                                                   },
-                                                   {  
-                                                      "paragraph":"The idea was to block feedback, to block a sense of self."
-                                                   },
-                                                   {  
-                                                      "paragraph":"In addition to simulating deafness, masking removes a layer of human consciousness that was gained when we learned how to listen to ourselves externally. I’m referring to the phonograph, which essentially freed the voice from the throat."
-                                                   },
-                                                   {  
-                                                      "content":[  
-                                                         {  
-                                                            "paragraph":"Kittler writes that the real time frequency shift capability of the phonograph allowed people to return simultaneously and in real time from their breaking voices"
-                                                         },
-                                                         {  
-                                                            "paragraph":"||: and “women can be men and men can be women again” :|| "
-                                                         },
-                                                         {  
-                                                            "paragraph":"[Repeat + gradual pitch shift down]"
-                                                         },
-                                                         {  
-                                                            "paragraph":"[Slide 5 down: vinyl noise off]"
-                                                         }
-                                                      ]
-                                                   ,
-                                                     
-                                                      "paragraph":"The MP3 came into use in 1993. The lossy format used a compression algorithm based on a perceptual model of human hearing. This model was derived and refined by a listening test that was primarily designed by and for Western European men using music that they liked."
-                                                   },
-                                                   {  
-                                                      "paragraph":"[Slide 6 up: distort vocoder]"
-                                                   },
-                                                   {  
-                                                      "paragraph":"The test determined what sounds were perceptually important and which could be erased or altered. So the way that we listen to a lot of music now has been shaped by this test and musical data deemed unimportant by a small demographic is replaced with noise. Every time you retrieve an MP3 file, it degrades more. It gets noisier and noisier."
-                                                   },
-                                                   {  
-                                                      "paragraph":"[Noise volume up slow]"
-                                                   },
-                                                   {  
-                                                      "paragraph":"[Noise color up slow]"
-                                                   },
-                                                   {  
-                                                      "paragraph":"Every day humans shed 1 million skin cells which become dust. Dust that is not “about refuse or rubble so much as it is about a cyclical materiality.”"
-                                                   },
-                                                   {  
-                                                      "paragraph":"For the unbecoming of me and the unbecoming of you is a becoming of us."
-                                                   },
-                                                   {  
-                                                      "paragraph":"As of March 2015, 145 foreign genes were discovered to be part of the human genome."
-                                                   },
-                                                   {  
-                                                      "content":[  
-                                                         {  
-                                                            "paragraph":"Erase national borders on the surface of a globe and what you get is colorful dust."
-                                                         },
-                                                         {  
-                                                            "paragraph":"What you get is noise"
-                                                         },
-                                                         {  
-                                                            "paragraph":"What you get is you and I bleeding into each other"
-                                                         }
-                                                      ]
-                                                   },
-                                                   {  
-                                                      "paragraph":"Enfolded into your discrete quanta. I quantitatively become you. Say I am you."
-                                                   },
-                                                   {  
-                                                      "paragraph":"||: Now I in you without a body move. :||"
-                                                   },
-                                                   {  
-                                                      "paragraph":"[repeat]"
-                                                   },
-                                                   {  
-                                                      "paragraph":"[Master: hard cut]"
-                                                   }
-                                                ]
-                                                }
-                                                ]},
-                                                {"blocks":[  
-                                                   {  
-                                                      "order":11,
-                                                      "title":"IV MONTH OF DIGITAL FORGETTING",
-                                                      "content":[  
-                                                         {  
-                                                            "paragraph":"Recording history is about deciding what is worth preserving and what is not. Information deemed important is recorded, preserved and looped while information that is considered inferior, unnecessary or unimportant is deliberately forgotten - for power lies in the ability to select repeatable molds."
-                                                         },
-                                                         {  
-                                                            "paragraph":"This is most evident in propaganda and censorship. Censorship is an active erasure of collective memory. But sometimes it also gives rise to a surplus of meaning. During an investigation of Nixon’s watergate scandal in 1973, the Federal scientific corp found a tape with 18.5 minutes of silence. What was erased supposedly contained criminalizing information that could have been used against Nixon. His loyal secretary Rosemary Woods claimed that she accidentally recorded over the tape as she was transcribing it and was interrupted by a phone call. With one foot on the transcribing pedal and a hand on the phone behind her, the pose that she assumed to demonstrate the moment of accidental erasure has been dubbed the Rosemary stretch. "
-                                                         },
-                                                         {  
-                                                            "paragraph":"Rather than erasing information, Nixon’s silence has produced a rich mythology based on cover ups and speculation, creating multiple versions of history. Until the erased information can be recovered, these 18.5 minutes of silence remain preserved in the US national archives."
-                                                         },
-                                                         {  
-                                                            "paragraph":"The classical archive works to preserve a version of history that is desirable by present dominant political and aesthetic standards. It imposes measurements and definitions. It is a preservation of past regulations and functions as a document for the awareness of power."
-                                                         },
-                                                         {  
-                                                            "paragraph":"Two seemingly contradicting approaches that go hand in hand in the anarchive are: Perpetual erasure and an endless proliferation of information. This is perfectly embodied by the internet, which offers multiple realities and fantasies intermingling and shifting so at any given time, reality is constructed from infinite, superimposing hyperrealities. Simultaneously, each time we refresh our browsers, every time we retrieve a file, bits of data are altered or lost."
-                                                         },
-                                                         {  
-                                                            "paragraph":"In the Manifesto for the dada of the cyborgembrio, Hans Scheirl writes that  “Loss and becoming are part of one process: mutilation is loss and becoming at the same time: lose an arm > become a fountain; get blown to pieces > get a new shape.”"
-                                                         },
-                                                         {  
-                                                            "paragraph":"Loss, erasure and forgetting for me are generative methodologies. To reinvent histories, to mutate ideas and identities to the point that they are untraceable to their origins, to constantly refresh our relationships to the myths and semiotics that code our bodies, Through my research I have been advocating a forgetting of established methods and systems, a breaking away from the tyranny of an endless loop of absolute knowledge."
-                                                         },
-                                                         {  
-                                                            "paragraph":"However, on a personal level, I wasn’t actively exercising this kind of forgetting. I wanted to integrate forgetting into daily practice. So at one point, and with the encouragement of one of my coaches, I prepared myself for a month of abstaining from using memory storage technology. I wanted to do this to the fullest extent possible while being able to somewhat function in daily life."
-                                                         },
-                                                         {  
-                                                            "paragraph":"The first step I took was listing all the ways I record consciously, then subconsciously and automatically (software). I did not write, ask for reminders, or keep any texts or emails I received."
-                                                         },
-                                                         {  
-                                                            "paragraph":"The first week of forgetting was a mess. I missed a piano lesson I was supposed to teach, I had also completely forgotten an appointment I was very pushy about getting.  Despite the fact that I had recited a mnemonic for it: TL11: Tuesday Lex 11am. My usually over-organized life was starting to deteriorate and it scared me. I became nervous about scheduling new appointments and events."
-                                                         },
-                                                         {  
-                                                            "paragraph":"I began inventing new visual mnemonics, reciting oral acronyms, and using my fingers to temporarily record binary information (on one hand: yes yes no yes no, major major minor major minor)."
-                                                         },
-                                                         {  
-                                                            "paragraph":"I didn’t tell people about my experiment because I felt embarrassed about it in some cases (ie. with students and their parents). By my second week, I was experiencing a lot of frustration and anxiety about the limitations I was facing, so I met with a teacher of mine. She suggested that I come clean to everyone I was working with and everyone I met about my experiment, rather than keep it to myself and make up less embarrassing excuses about why I couldn’t do things like write my name or save a new phone number."
-                                                         },
-                                                         {  
-                                                            "paragraph":"It felt like coming out."
-                                                         },
-                                                         {  
-                                                            "paragraph":"The first person I had to come out to was a student’s mother. She asked to record myself playing a piece for her son so that they could work on it together. This was fine, except that it turned out she didn’t end up recording it. So she sent me a message asking me to record it again and send the video to her. I answered that I couldn’t, and explained that I was taking a month to not record things as part of my artistic research. She didn’t respond."
-                                                         },
-                                                         {  
-                                                            "paragraph":"The way our lives are structured now within hyper-speed, super-productive, over- consuming capitalism makes it very difficult to delete information and still function optimally in society."
-                                                         },
-                                                         {  
-                                                            "content":[  
-                                                               {  
-                                                                  "paragraph":"A STEP BY STEP GUIDE TO DEACTIVATING FACEBOOK TEMPORARILY "
-                                                               },
-                                                               {  
-                                                                  "paragraph":"1. Find the deactivating button at the bottom of your account settings"
-                                                               },
-                                                               {  
-                                                                  "paragraph":"2. Go to a page that says “Are you sure you want to deactivate your account?      Your friends’ photos will be shown and above will be written “Taylor will miss you. Katarina will miss you. Denise will miss you” "
-                                                               },
-                                                               {  
-                                                                  "paragraph":"3. Give a reason why you’re deactivating your account: Select 'This is temporary'. A message will pop up suggesting that you log out instead."
-                                                               },
-                                                               {  
-                                                                  "paragraph":"4. Click close"
-                                                               },
-                                                               {  
-                                                                  "paragraph":"5. Click deactivate at the bottom of the page. A message will pop up saying “Are you sure you want to deactivate your account?”"
-                                                               },
-                                                               {  
-                                                                  "paragraph":"6. Click deactivate now. You will be linked to a page confirming that your account has been deactivated but that all you have to do to to reactivate it is sign back in."
-                                                               },
-                                                               {  
-                                                                  "paragraph":"7. After one week you will start receiving emails from facebook updating you on what’s been going on since the last time you logged in. Ignore them."
-                                                               },
-                                                               {  
-                                                                  "paragraph":"8. Your friends will start asking you why you haven not responded to any of their facebook messages."
-                                                               },
-                                                               {  
-                                                                  "paragraph":"9. You realize that your account hasn’t really been deleted and that it will actually take at least two weeks of inactivity for it to be fully inactive."
-                                                               }
-                                                            ]
-                                                         },
-                                                         {  
-                                                            "paragraph":"In this month of digital forgetting, I was mostly curious to see how my work and thought process would be affected."
-                                                         },
-                                                         {  
-                                                            "paragraph":"Another restriction I placed on myself was that I didn’t allow myself to save any files unless I needed to send an assignment to a teacher or a project to someone who commissioned a piece. In which case I could only save it once when I finished it. I also closed my browser and deleted all files at the end of each day. This meant that I needed to work on things beginning to end as soon as I remembered to do them. This severely limited my multi-tasking ability."
-                                                         },
-                                                         {  
-                                                            "paragraph":"I also usually take notes and make sketches in a notebook before and while I work on a piece, so this was particularly difficult. I couldn’t organize my ideas clearly and was forced to work linearly."
-                                                         },
-                                                         {  
-                                                            "paragraph":"During this period of forgetting, I had an urgent deadline for a piece that was to be included on a record. This piece was the only thing I worked on that could not be completed in a single day. I would open Ableton Live and begin writing the piece. I wouldn’t be able to finish it in one day so I would have to close the unsaved file at the end of the day. The next day I would do the same thing; lay it out, develop, delete, and the next day; lay it out, develop delete, and the next day: lay it out, develop, delete. This went on for a while until I realized that my deadline had passed a week ago. Eventually I decided to circumvent my own rules by sending the piece to other people to get feedback. So that when they responded to me I would be able to get the piece back as it was so I could develop it further."
-                                                         },
-                                                         {  
-                                                            "paragraph":"The supposed danger in having a bad memory is the possibility of constantly repeating yourself. It’s considered regression or failure to learn. But this measurement of success is based on capitalist notions of progress. We learn and progress by accumulating and developing a certain knowledge base. But what this model doesn't take into consideration is that there is a gap between knowing and understanding. "
-                                                         },
-                                                         {  
-                                                            "paragraph":"I’m going to continue to try to learn to forget. I want to forget what I’ve learned to the point that I forget how I’ve learned. I want to shift preconceived models of thought, to create new neural pathways to different ways of thinking, doing and ultimately being."
-                                                         }
-                                                      ]
-                                                   }
-                                                ]},
-                                             {
-                                                "blocks1":[  
-                                                   {  
-                                                      "order":12,
-                                                      "title":"V AFTERFOREWORD",
-                                                      "content":[  
-                                                         {  
-                                                            "paragraph":"We can see how various erasures can function not as a mere reversal of accelerated states, but alternative processes that facilitate alternative methods for thinking, knowing and being."
-                                                         },
-                                                         {  
-                                                            "paragraph":"As we continue existing in increasingly decentered worlds that emerge, shift and dissipate from erasures, mutations and re-contextualizations; how do we navigate the dynamics and frictions of our realities? How do we situate ourselves in ever-present, shifting temporalities that expand and contract from incessant interactions between the past and present? How do we navigate the overload of information and proliferation of meaning so that we experience it less as an avalanche that we drown in, but more of a katamari that we use to collect and absorb everything to form our own katamari worlds?"
-                                                         }
-                                                      ]
-                                                   }
-                                                ],
-                                                      "blocks2":[  
-                                                         {  
-                                                            "order":13,
-                                                            "title":"BIBLIOGRAPHY",
-                                                            "content":[  
-                                                               {  
-                                                                  "paragraph":"Attali, Jacques. Noise: The Political Economy of Music. University of Minnesota Press 1977. Print."
-                                                               },
-                                                               {  
-                                                                  "paragraph":"Barthel, Michael et. al. “The Evolving Role of News on Twitter and Facebook.” Pew Research Center. Jul 14, 2015. Web. 9 May. 2015."
-                                                               },
-                                                               {  
-                                                                  "paragraph":"Badani, Pat. The Aesthetics of Erasure. Journal of the New Media Caucus V.11 N.01 2015. Web. 16 May. 2015."
-                                                               },
-                                                               {  
-                                                                  "paragraph":"Bijsterveld, Karin and Jose van Dijck. Sound Souvenirs: Audio Technologies, Memory and Cultural Practices. Amsterdam: Amsterdam UP, 2009. Print."
-                                                               },
-                                                               {  
-                                                                  "paragraph":"Buckley, Brad and John Conomos. Erasure The Spectre of Cultural Memory. Libri 2015. Print."
-                                                               },
-                                                               {  
-                                                                  "paragraph":"Butler, Judith. “Excitable Speech: A Politics of the Performative.” Psychology Press. 1997. Print."
-                                                               },
-                                                               {  
-                                                                  "paragraph":"Wendy Hui Kyong Chun, “The Enduring Ephemeral, or the Future is a Memory,” Critical Inquiry 35 (Autumn 2008): 148-171. Print."
-                                                               },
-                                                               {  
-                                                                  "paragraph":"DeMarinis, Paul. “Erased Dots and Rotten Dashes, or How to Wire Your Head for a Preservation”. Huhtamo and Parikka. 211-238. Print."
-                                                               },
-                                                               {  
-                                                                  "paragraph":"Doran, John. “Time Becomes A Loop: William Basinski Interviewed”. The Quietus. Nov 15, 2012. Web. 16 April. 2016."
-                                                               },
-                                                               {  
-                                                                  "paragraph":"Eshun, Kodwo. “Further Considerations On Afrofuturism.” The New Centennial Review, V.3 N.02. 2003. 287-302. Print."
-                                                               },
-                                                               {  
-                                                                  "paragraph":"Groom, Amelia. “There’s Nothing to See Here: Erasing The Monochrome.” e-flux journal #37, Sep 2012. Web. 11 May. 2015."
-                                                               },
-                                                               {  
-                                                                  "paragraph":"Grossman, Joan. “Utopias of Oblivion: Pixelated Memory in Digital Space.” Eds. Buckley and Conomos. Libri Publishing, 2015. pp 87-96. Print."
-                                                               },
-                                                               {  
-                                                                  "paragraph":"Groys, Boris. “Becoming Revolutionary: On Kazimir Malevich.“ e-flux journal #47, Sep    2013.   Web. 10 May. 2015."
-                                                               },
-                                                               {  
-                                                                  "paragraph":"Halberstam, Judith. The Queer Art of Failure. Durham: Duke UP, 2011. Print."
-                                                               },
-                                                               {  
-                                                                  "paragraph":"Huhtamo, Erkki and Jussi Parikka. Media Archaeology. Berkeley and Los Angeles: University of California Press 2011. Print."
-                                                               },
-                                                               {  
-                                                                  "paragraph":"Joseph, Branden W. “John Cage and the Architecture of Silence”. October Vol. 81 (Summer, 1997). 80-104. MIT Press. Print."
-                                                               },
-                                                               {  
-                                                                  "paragraph":"Kittler, Friederich. Gramophone, Film, Typewriter. trans. Geoffrey Winthrop-Young and Michael Wutz.Stanford: Stanford UP, 1999. Print."
-                                                               },
-                                                               {  
-                                                                  "paragraph":"La Belle, Brandon. Background Noise: Perspectives on Sound Art, New York: Continuum 2006. Print."
-                                                               },
-                                                               {  
-                                                                  "paragraph":"Lerew, Todd. “Sound and The Confluence of Bodies.” Experimental Music Yearbook Issue 2015. Web. 21 January. 2016. "
-                                                               },
-                                                               {  
-                                                                  "paragraph":"Lowry, Sean. “Ghosted Forms.” Eds. Buckley and Conomos. Libri Publishing, 2015. 199-218. Print."
-                                                               },
-                                                               {  
-                                                                  "paragraph":"Mackay, Robin, and Armen Avanessian, eds. #ACCELERATE: The Accelerationist Reader. Falmouth: Urbanomic, 2014. Print."
-                                                               },
-                                                               {  
-                                                                  "paragraph":"Matias, Nathan. “Uncovering Algorithms: Looking Inside The Facebook News Feed.” MIT Center for Civic Media. Jul 22, 2014. Web. Apr 23, 2016."
-                                                               },
-                                                               {  
-                                                                  "paragraph":"Mayer-Schönberger, Viktor. Delete: The Virtue of Forgetting in the Digital Age. Princeton University Press. 2009. Print."
-                                                               },
-                                                               {  
-                                                                  "paragraph":"RadioLab. “Memory and Forgetting.“ Discovery Dialogues. Radiolab, n.d. Web."
-                                                               },
-                                                               {  
-                                                                  "paragraph":"Reynolds, Simon. “Retromania”. CalArts, Valencia. 20 Oct. 2011. Lecture."
-                                                               },
-                                                               {  
-                                                                  "paragraph":"Scheirl, Hans. “The Dada Manifesto of the Cyborgembrio.” The eight technologies of otherness. Ed. Susan Golding. New York 2005. Print."
-                                                               },
-                                                               {  
-                                                                  "paragraph":"Schilleman, Matthew. “The Refresh: Digital Destruction and Mystic Writing”. Badani"
-                                                               },
-                                                               {  
-                                                                  "paragraph":"Schuppli, Susan. “Tape 342”. Forensics. Cabinet Issue 43. 2011. 86-89. Print."
-                                                               },
-                                                               {  
-                                                                  "paragraph":"Sheldrake, Rupert. The Presence of the Past: Morphic Resonance and the Habits of Nature. 4th ed. South Paris: Park Street, 2012. Print."
-                                                               },
-                                                               {  
-                                                                  "paragraph":"Sterne, Jonathan. The Audible Past. Durham and London: Duke UP, 2003. Print."
-                                                               },
-                                                               {  
-                                                                  "paragraph":"Sterne, Jonathan. “The Preservation Paradox in Digital Audio”. Bijsterveld, Dijck. 55-65. Print."
-                                                               },
-                                                               {  
-                                                                  "paragraph":"Steyerl, Hito. A Tank On a Pedestal: Museums in an age of planetary civil war. E-flux, 2016. Web. Mar 15 2016."
-                                                               },
-                                                               {  
-                                                                  "paragraph":"Stevens, Michael. “Where Do Deleted Files Go?“ YouTube, 20 July 2013. Web. 27 January. 2016."
-                                                               },
-                                                               {  
-                                                                  "paragraph":"Sturken, Marita, August 2004, “The Aesthetics of Absence”, American Ethnologist, Vol. 31 No. 3. Print."
-                                                               },
-                                                               {  
-                                                                  "paragraph":"Tong, Ben. “The Parrot Lecture.“ CalArts, Valencia. 27 Apr. 2012. Lecture."
-                                                               },
-                                                               {  
-                                                                  "paragraph":"Tufekci, Zeynep. “What Happens to #Ferguson Affects Ferguson: Net Neutrality, Algorithmic Filtering and Ferguson.” The Message. 14, August. 2014. Web. 14 August. 2014"
-                                                               },
-                                                               {  
-                                                                  "paragraph":"US National Archives, “Out of the Dark: Bringing Films to Light at The National Archives”. YouTube, June 6 2012. Web."
-                                                               },
-                                                               {  
-                                                                  "paragraph":"Williams, Alex, and Nick Srnicek. “#ACCELERATE MANIFESTO for an Accelerationist Politics.” Critical Legal Thinking. 14 May 2013. Web. 2 May. 2016."
-                                                               },
-                                                               {  
-                                                                  "paragraph":"World Newsmedia Network, “Global Social Media Trends,” (UK: European Publishers Council, 2015), 4. May 9, 2016 "
-                                                               },
-                                                               {  
-                                                                  "paragraph":"Zimmer, Niklas. “Percival Kirby’s Wax Cylinders- Elegy on archiving a deaf spot.” Social  Dynamics: A journal of African studies. 13 Feb 2015. Web."
-                                                               }
-                                                            ]
-                                                            }
-                                                            ]},
-                                                            {"blocks3":[  
-                                                               {  
-                                                                  "order":14,
-                                                                  "title":"FURTHER READING/VIEWING/LISTENING",
-                                                                  "content":[  
-                                                                           { "paragraph":"ERASING/CENSORING/FORGETTING"
-                                                                           }, 
-                                                                           {  
-                                                                              "paragraph":"Basinski, William. Disintegration Loops. 2002. "
-                                                                           },
-                                                                           {  
-                                                                              "paragraph":"Borsuk, Amaranth et. al. The Deletionist. http://thedeletionist.com/. 2013. Javascript bookmarklet."
-                                                                           },
-                                                                           {  
-                                                                              "paragraph":"Broodthaers, Marcel. La Pluie. Centre Pompidou. 2010. Performance"
-                                                                           },
-                                                                           {  
-                                                                              "paragraph":"Chung, Jay. Nothing Is More Practical Than Idealism. 2001. Film."
-                                                                           },
-                                                                           {  
-                                                                              "paragraph":"Didkovsky, Nick. Zero Waste. 2012."
-                                                                           },
-                                                                           {  
-                                                                              "paragraph":"Dong, Song. Waste Not. 2005. Installation."
-                                                                           },
-                                                                           {  
-                                                                              "paragraph":"Dong, Song. Writing Diary With Water. 1995. Performance."
-                                                                           },
-                                                                           {  
-                                                                              "paragraph":"Fludd, Robert. Et sic ad infinitum! 1619. Illustration."
-                                                                           },
-                                                                           {  
-                                                                              "paragraph":"Foer, Jonathan Safran. Tree of Codes. London: Visual Editions 2010. Print."
-                                                                           },
-                                                                           {  
-                                                                              "paragraph":"Kelley, Mike. Educational Complex. 1995."
-                                                                           },
-                                                                           {  
-                                                                              "paragraph":"Kleon, Austin. Newspaper Blackout Poems. New York: Harper 2010. Print."
-                                                                           },
-                                                                           {  
-                                                                              "paragraph":"Lamouroux, Vincent. Projection. Sunset Blvd. Los Angeles. 2016. Installation."
-                                                                           },
-                                                                           {  
-                                                                              "paragraph":"Lee, Mingwei. Guernica in Sand. 2007. Sand installation."
-                                                                           },
-                                                                           {  
-                                                                              "paragraph":"Li, Ji and Cory Forsyth. Wordless Web. 2012. Javascript bookmarklet."
-                                                                           },
-                                                                           {  
-                                                                              "paragraph":"Lowry, Sean. Silent Republic. 2012. Wall painting."
-                                                                           },
-                                                                           {  
-                                                                              "paragraph":"Lucier, Alvin. I Am Sitting In a Room. 1981. "
-                                                                           },
-                                                                           {  
-                                                                              "paragraph":"Maguire, Ryan. Ghost in the mp3. 2014. "
-                                                                           },
-                                                                           {  
-                                                                              "paragraph":"Malevich, Kazimir. Black Square. 1915. Painting."
-                                                                           },
-                                                                           {  
-                                                                              "paragraph":"Marclay, Christian. Record Without a Cover. Recycled Records, 1985. Vinyl, LP."
-                                                                           },
-                                                                           {  
-                                                                              "paragraph":"Neustein, Joshua. Erasures. 1971-1973. Film."
-                                                                           },
-                                                                           {  
-                                                                              "paragraph":"Norris, TJ. No Sign. 2008-2013. Photography."
-                                                                           },
-                                                                           {  
-                                                                              "paragraph":"Ono, Yoko. Play it By Trust. 1996. Painted chess pieces on chess board."
-                                                                           },
-                                                                           {  
-                                                                              "paragraph":"Philips, Tom. A Humument. Thames and Hudson 1980. Print."
-                                                                           },
-                                                                           {  
-                                                                              "paragraph":"Rauschenberg, Robert. Erased de Kooning Drawing. 1953."
-                                                                           },
-                                                                           {  
-                                                                              "paragraph":"Smith, Rowan. The Official Restaurant of the South African Family. 2015. Light box."
-                                                                           },
-                                                                           {  
-                                                                              "paragraph":"Solakov, Nedko. A Life (Black and White). 1998. Performance."
-                                                                           },
-                                                                           {  
-                                                                              "paragraph":"Tone, Yasunao. Solo for Wounded CD. Tzadik, 1997. CD."
-                                                                           },
-                                                                           {  
-                                                                              "paragraph":"Walsh, Dan. Garfield Minus Garfield. www.garfieldminusgarfield.net. 2008. Webcomic."
-                                                                           },
-                                                                           {  
-                                                                              "paragraph":"Wolf, Uljana and Christian Hawkey. Sonne From Ort. Kookbooks 2013. Print."
-                                                                           },
-                                                                           {  
-                                                                              "paragraph":"Woodgate, Augustina. The Times Atlas of The World (Dust Diptych). 2012. Collected dust from sanded World Atlas (515 pages), Walnut frame."
-                                                                           }, 
-                                                                           {  
-                                                                              "paragraph":"TRANSLATING/MUTATING"},
-                                                                           {  
-                                                                              "paragraph":"Blas, Zach. Fag Face Mask. 2012."
-                                                                           },
-                                                                           {  
-                                                                              "paragraph":"Calle, Sophie. Take Care of Yourself. 52nd Venice Biennale, French Pavillion. 2007."
-                                                                           },
-                                                                           {  
-                                                                              "paragraph":"Davis, Brian J. Yesterduh. 2006. Music."
-                                                                           },
-                                                                           {  
-                                                                              "paragraph":"Laric, Oliver. Versions. 2009, 2010, 2012. Video"
-                                                                           },
-                                                                           {  
-                                                                              "paragraph":"Lee, Mingwei. The Stone Journey. 1964. Stone and bronze."
-                                                                           },
-                                                                           {  
-                                                                              "paragraph":"Schorkhuber, Christine and Alfred Grubbauer. Stille Post. 2008."
-                                                                           },
-                                                                           {  
-                                                                              "paragraph":"Smith, Rowan and Ingrid Lee. COME ON YOU FUCKERS. 2011. Performance, publication."
-                                                                           },
-                                                                           {  "paragraph":"Deacon, Destiny. Eva Johnson, writer. 1994"
-                                                                           },
-                                                                           {  "paragraph":"Hinkle, Kenyatta A.C. Kentrifrica. 2011-present"
-                                                                           },
-                                                                           {  
-                                                                              "paragraph":"Hinkle, Kenyatta A.C. The Uninvited. 2012."
-                                                                           },
-                                                                           {  
-                                                                              "paragraph":"Kelley, Mike. Educational Complex. 1995."
-                                                                           },
-                                                                           {  
-                                                                              "paragraph":"Kelley, Mike. Kandor City. 2000-2011."
-                                                                           },
-                                                                           {  
-                                                                              "paragraph":"De Middel, Cristina. Afronauts. 2014. Film."
-                                                                           },
-                                                                           {  
-                                                                              "paragraph":"Lavar Munroe. BIG C: Goddess of Coke (Heavens’ Dust). 2012."
-                                                                           },
-                                                                           {  
-                                                                              "paragraph":"Perret, Mai-Thu. The Crystal Frontier. 1999-present "
-                                                                           },
-                                                                           {  
-                                                                              "paragraph":"Ruga, Athi-Patra. The Future White Women of Azania Saga. 2014."
-                                                                           },
-                                                                           {  
-                                                                              "paragraph":"Satterwhite, Jacolby. Reifying Desire 6. 2013. Video."
-                                                                           },
-                                                                           {  
-                                                                              "paragraph":"Sibande, Mary. The Purple Shall Govern. Iziko South African National Gallery. 2014 Williamson, Marisa. Hemings in Paris. 2015. Film."
-                                                                           },
-                                                                           {  
-                                                                              "paragraph":"Williamson, Marisa. Hemings & Hawings: A Postmodern Talk Show. 2015. Video."
-                                                                           },
-                                                                           {  
-                                                                              "paragraph":"Williamson, Marisa. What Would Sally Do?. 2013."
-                                                                           }
-                                                                        ]
-                                                                     }
-                                                                  ]
-                                                               }
-                                                            ]
-                                                         }
+            {
+              "paragraph": "3. Play record"
+            },
+            {
+              "paragraph": "4. Repeat until record is scratched to the point that it produces a wall of noise"
+            }
+          ]
+        },
+        {
+          "paragraph": "“To make forgetful animals into human beings, a blind force strikes that dismembers and inscribes their bodies in the real, until pain itself brings forth a memory”  What sets apart human from animal, superior from inferior, is memory."
+        },
+        {
+          "paragraph": "1902, Conductor M. Luigini telegrams about the gramophone: “It will be an invaluable instruction, popularizing the good traditions of purity of style of the performing elite.”"
+        },
+        {
+          "paragraph": "An endless loop of absolute knowledge."
+        },
+        {
+          "paragraph": "“power is no longer content to enact its legitimacy; it records and reproduces the societies it rules, stockpiling memory, retaining history or time, distributing speech and manipulating information.”"
+        },
+        {
+          "paragraph": "”But as every clever child knows “you cut into the past and the future leaks out”"
+        },
+        {
+          "paragraph": "In one study, the regions of the sensory cortex connected to touch sensations from owl monkey’s hands were localized and mapped. After at least one of the fingers was amputated the sensory input from the remaining fingers shifted to the missing finger’s exclusive brain region."
+        },
+        {
+          "paragraph": "So then the sensory areas of the brain that map different body parts are not hardwired…but unexpectedly fluid."
+        },
+        {
+          "paragraph": "The myth that goldfish have a 3 second memory came from an advertisement that nobody remembers."
+        },
+        {
+          "paragraph": "“History must have a dustbin, or history will be a dustbin”"
+        }
+      ]
+    },
+    {
+      "order": 9,
+      "title": "II HISTORIES OF FAILURE AND FORGETTING",
+      "content": [
+        {
+          "paragraph": "I would like to guide you through a few histories of failure and forgetting."
+        },
+        {
+          "paragraph": "I question permanence as a measure of success in systems and methods. I am interested in how this idea permeates modes of knowledge acquisition and transfer, and ultimately; how it produces, shapes, and destroys cultural identities. For these reasons, I believe in contesting the idea of pre-established systems and methods remaining immutable merely because they are tried and true."
+        },
+        {
+          "paragraph": "So today I offer you narratives of failure, forgetting and impermanence."
+        },
+        {
+          "subtitle": "I. WHITE NOISE WHITE OUT"
+        },
+        {
+          "paragraph": "I would like to begin with the origins of sound recording, which over time has developed an increasingly clean and flawless aesthetic. Rhythms are quantized, voices pitch-corrected, mistakes overdubbed. This leaves no room for error. And yet, of course, the origins of sound recording are ridden with failures."
+        },
+        {
+          "paragraph": "Edison invented the phonograph in 1877, intending to capture and preserve speech for years to come. This fascination with immortalizing the voice developed to the point that he attempted to invent a device that would allow us to communicate with the dead. He was not alone in his endeavours. In fact, he took on this project after he heard about Marconi and Tesla’s experiences with what is known as EVP, electronic voice phenomenon. The two inventors were working with radio waves at the time, when they began to receive unexplainable voice transmissions. While Tesla believed he was speaking to beings from other planets, Marconi thought he was communicating with the spirit world."
+        },
+        {
+          "paragraph": "But let’s get back to Edison for a moment. At one point he became unsatisfied with the recording quality of ensembles and orchestras, so believing that the sounds got confused as they travelled through the horn of his phonograph, he decided to build bigger and longer horns so that sounds could be “untangled”. In 1923 he built a 125ft brass horn and made several experimental recordings. This was an utter failure and the project ended in 1924 due to mounting expenses. In 1942 the horn was melted down for scrap metal for the WWII effort."
+        },
+        {
+          "subtitle": "II. ERASURE"
+        },
+        {
+          "paragraph": "In 1951, Bette Nesmith Graham, a Texan typist who was terrible at her job invented MistakeOut, a white liquid that she use to cover her typing mistakes. This solution became so popular that she founded her company Liquid Paper Corp which she eventually sold to Gillette; a company that has a monopoly on hair removal."
+        },
+        {
+          "subtitle": "III. RADICAL FORGETTING"
+        },
+        {
+          "paragraph": "Kodwo Eshun wrote on Afrofuturism,  “it has been necessary to assemble countermemories that contest the colonial archive, thereby situating the collective trauma of slavery as the founding moment of modernity.”"
+        },
+        {
+          "paragraph": "And so Malcolm Little, Cassius Marcellus Clay Jr. and Herman Poole Blount forgot their names to become Malcolm X, Muhammed Ali and Sun Ra."
+        },
+        {
+          "paragraph": "In the 1968 Warsaw Pact Invasion of Czechoslovakia, citizens of Prague painted their street signs white in a nonviolent gesture of protest. The story goes that only the signs pointing back to Moscow remained. Upon arrival, half a million troops were lost.   "
+        },
+        {
+          "subtitle": "IV. DIGITAL FORGETTING"
+        },
+        {
+          "paragraph": "Offering anonymity and interconnectivity, the internet brought with it a promise of the protean self, the idea that our identities can be more fluid and multi-faceted. However, what it has become is the ultimate storage and surveillance technology. One that cannot forgive because it cannot forget. Then again, it’s not the perfect memory we believe it to be."
+        },
+        {
+          "paragraph": "We are all familiar with the 404 error code. Established around 1992, internet folklore has it that when scientists at CERN were developing the world wide web, they used a physical layout of their network so that different functions of the protocol would be designated to different offices within the CERN building."
+        },
+        {
+          "paragraph": "The central database happened to be located in Room 404. Any request for a file was routed to room 404 where a few people would manually locate the requested files and transfer them to whoever made the request."
+        },
+        {
+          "paragraph": "As the database began to grow, the number of file requests increased, as did the number of requests that could not be fulfilled, usually due to a typo in the request. Eventually these faulty requests were responded to with the standard message: “Room 404: file not found”. "
+        },
+        {
+          "paragraph": "In the official release of HTTP (hyper text transfer Protocol), room 404 was preserved as a “place on the Web”,  a monument to the beginning of the world wide web."
+        },
+        {
+          "paragraph": "The number 4 in Chinese means death, which is why some buildings in Chinese cities don’t have a 4th floor."
+        }
+      ]
+    },
+    {
+      "order": 10,
+      "title": "III LOSS, DUST, NOISE",
+      "content": [
+        {
+          "paragraph": "I was sitting in a room listening to a lecture. I don’t remember what was said because, to be honest, I couldn’t focus. I couldn’t focus because the room I was sitting in was so reverberant, it created an echo of about 2 seconds. So I could hear words coming from in front of me before it bounced off the walls, partially getting absorbed and losing energy before returning to my ears as a more washed up version of the original."
+        },
+        {
+          "paragraph": "[repeat x times with delay and echo]"
+        },
+        {
+          "paragraph": "[CLEAR]"
+        },
+        {
+          "paragraph": "[delay + echo off]"
+        },
+        {
+          "paragraph": "Earlier that day a friend presented a piece of hers that attempted to delete words coming from a speaker. She did this on two levels. The first occurred on a psychological level, involving speech jamming, which is when a speaker has their voice picked up by a microphone and has it played back to them with a delay of .3 -.5 seconds."
+        },
+        {
+          "paragraph": "[Headphones + speech jammer on] "
+        },
+        {
+          "paragraph": "This usually causes a glitch in the speaker’s brain, causing them to stutter, slur or even render them incapable of speaking."
+        },
+        {
+          "paragraph": "[headphones off]"
+        },
+        {
+          "paragraph": "The second level of deletion happened at the ears via masking. The speaker had white noise played through their headphones which cancelled out all the frequencies of their own voice, so that they could not hear their voice traveling through the air. Only through bones."
+        },
+        {
+          "paragraph": "The idea was to block feedback, to block a sense of self."
+        },
+        {
+          "paragraph": "In addition to simulating deafness, masking removes a layer of human consciousness that was gained when we learned how to listen to ourselves externally. I’m referring to the phonograph, which essentially freed the voice from the throat."
+        },
+        {
+          "content": [
+            {
+              "paragraph": "Kittler writes that the real time frequency shift capability of the phonograph allowed people to return simultaneously and in real time from their breaking voices"
+            },
+            {
+              "paragraph": "||: and “women can be men and men can be women again” :|| "
+            },
+            {
+              "paragraph": "[Repeat + gradual pitch shift down]"
+            },
+            {
+              "paragraph": "[Slide 5 down: vinyl noise off]"
+            }
+          ],
+          "paragraph": "The MP3 came into use in 1993. The lossy format used a compression algorithm based on a perceptual model of human hearing. This model was derived and refined by a listening test that was primarily designed by and for Western European men using music that they liked."
+        },
+        {
+          "paragraph": "[Slide 6 up: distort vocoder]"
+        },
+        {
+          "paragraph": "The test determined what sounds were perceptually important and which could be erased or altered. So the way that we listen to a lot of music now has been shaped by this test and musical data deemed unimportant by a small demographic is replaced with noise. Every time you retrieve an MP3 file, it degrades more. It gets noisier and noisier."
+        },
+        {
+          "paragraph": "[Noise volume up slow]"
+        },
+        {
+          "paragraph": "[Noise color up slow]"
+        },
+        {
+          "paragraph": "Every day humans shed 1 million skin cells which become dust. Dust that is not “about refuse or rubble so much as it is about a cyclical materiality.”"
+        },
+        {
+          "paragraph": "For the unbecoming of me and the unbecoming of you is a becoming of us."
+        },
+        {
+          "paragraph": "As of March 2015, 145 foreign genes were discovered to be part of the human genome."
+        },
+        {
+          "content": [
+            {
+              "paragraph": "Erase national borders on the surface of a globe and what you get is colorful dust."
+            },
+            {
+              "paragraph": "What you get is noise"
+            },
+            {
+              "paragraph": "What you get is you and I bleeding into each other"
+            }
+          ]
+        },
+        {
+          "paragraph": "Enfolded into your discrete quanta. I quantitatively become you. Say I am you."
+        },
+        {
+          "paragraph": "||: Now I in you without a body move. :||"
+        },
+        {
+          "paragraph": "[repeat]"
+        },
+        {
+          "paragraph": "[Master: hard cut]"
+        }
+      ]
+    },
+    {
+      "order": 11,
+      "title": "IV MONTH OF DIGITAL FORGETTING",
+      "content": [
+        {
+          "paragraph": "Recording history is about deciding what is worth preserving and what is not. Information deemed important is recorded, preserved and looped while information that is considered inferior, unnecessary or unimportant is deliberately forgotten - for power lies in the ability to select repeatable molds."
+        },
+        {
+          "paragraph": "This is most evident in propaganda and censorship. Censorship is an active erasure of collective memory. But sometimes it also gives rise to a surplus of meaning. During an investigation of Nixon’s watergate scandal in 1973, the Federal scientific corp found a tape with 18.5 minutes of silence. What was erased supposedly contained criminalizing information that could have been used against Nixon. His loyal secretary Rosemary Woods claimed that she accidentally recorded over the tape as she was transcribing it and was interrupted by a phone call. With one foot on the transcribing pedal and a hand on the phone behind her, the pose that she assumed to demonstrate the moment of accidental erasure has been dubbed the Rosemary stretch. "
+        },
+        {
+          "paragraph": "Rather than erasing information, Nixon’s silence has produced a rich mythology based on cover ups and speculation, creating multiple versions of history. Until the erased information can be recovered, these 18.5 minutes of silence remain preserved in the US national archives."
+        },
+        {
+          "paragraph": "The classical archive works to preserve a version of history that is desirable by present dominant political and aesthetic standards. It imposes measurements and definitions. It is a preservation of past regulations and functions as a document for the awareness of power."
+        },
+        {
+          "paragraph": "Two seemingly contradicting approaches that go hand in hand in the anarchive are: Perpetual erasure and an endless proliferation of information. This is perfectly embodied by the internet, which offers multiple realities and fantasies intermingling and shifting so at any given time, reality is constructed from infinite, superimposing hyperrealities. Simultaneously, each time we refresh our browsers, every time we retrieve a file, bits of data are altered or lost."
+        },
+        {
+          "paragraph": "In the Manifesto for the dada of the cyborgembrio, Hans Scheirl writes that  “Loss and becoming are part of one process: mutilation is loss and becoming at the same time: lose an arm > become a fountain; get blown to pieces > get a new shape.”"
+        },
+        {
+          "paragraph": "Loss, erasure and forgetting for me are generative methodologies. To reinvent histories, to mutate ideas and identities to the point that they are untraceable to their origins, to constantly refresh our relationships to the myths and semiotics that code our bodies, Through my research I have been advocating a forgetting of established methods and systems, a breaking away from the tyranny of an endless loop of absolute knowledge."
+        },
+        {
+          "paragraph": "However, on a personal level, I wasn’t actively exercising this kind of forgetting. I wanted to integrate forgetting into daily practice. So at one point, and with the encouragement of one of my coaches, I prepared myself for a month of abstaining from using memory storage technology. I wanted to do this to the fullest extent possible while being able to somewhat function in daily life."
+        },
+        {
+          "paragraph": "The first step I took was listing all the ways I record consciously, then subconsciously and automatically (software). I did not write, ask for reminders, or keep any texts or emails I received."
+        },
+        {
+          "paragraph": "The first week of forgetting was a mess. I missed a piano lesson I was supposed to teach, I had also completely forgotten an appointment I was very pushy about getting.  Despite the fact that I had recited a mnemonic for it: TL11: Tuesday Lex 11am. My usually over-organized life was starting to deteriorate and it scared me. I became nervous about scheduling new appointments and events."
+        },
+        {
+          "paragraph": "I began inventing new visual mnemonics, reciting oral acronyms, and using my fingers to temporarily record binary information (on one hand: yes yes no yes no, major major minor major minor)."
+        },
+        {
+          "paragraph": "I didn’t tell people about my experiment because I felt embarrassed about it in some cases (ie. with students and their parents). By my second week, I was experiencing a lot of frustration and anxiety about the limitations I was facing, so I met with a teacher of mine. She suggested that I come clean to everyone I was working with and everyone I met about my experiment, rather than keep it to myself and make up less embarrassing excuses about why I couldn’t do things like write my name or save a new phone number."
+        },
+        {
+          "paragraph": "It felt like coming out."
+        },
+        {
+          "paragraph": "The first person I had to come out to was a student’s mother. She asked to record myself playing a piece for her son so that they could work on it together. This was fine, except that it turned out she didn’t end up recording it. So she sent me a message asking me to record it again and send the video to her. I answered that I couldn’t, and explained that I was taking a month to not record things as part of my artistic research. She didn’t respond."
+        },
+        {
+          "paragraph": "The way our lives are structured now within hyper-speed, super-productive, over- consuming capitalism makes it very difficult to delete information and still function optimally in society."
+        },
+        {
+          "content": [
+            {
+              "paragraph": "A STEP BY STEP GUIDE TO DEACTIVATING FACEBOOK TEMPORARILY "
+            },
+            {
+              "paragraph": "1. Find the deactivating button at the bottom of your account settings"
+            },
+            {
+              "paragraph": "2. Go to a page that says “Are you sure you want to deactivate your account?      Your friends’ photos will be shown and above will be written “Taylor will miss you. Katarina will miss you. Denise will miss you” "
+            },
+            {
+              "paragraph": "3. Give a reason why you’re deactivating your account: Select 'This is temporary'. A message will pop up suggesting that you log out instead."
+            },
+            {
+              "paragraph": "4. Click close"
+            },
+            {
+              "paragraph": "5. Click deactivate at the bottom of the page. A message will pop up saying “Are you sure you want to deactivate your account?”"
+            },
+            {
+              "paragraph": "6. Click deactivate now. You will be linked to a page confirming that your account has been deactivated but that all you have to do to to reactivate it is sign back in."
+            },
+            {
+              "paragraph": "7. After one week you will start receiving emails from facebook updating you on what’s been going on since the last time you logged in. Ignore them."
+            },
+            {
+              "paragraph": "8. Your friends will start asking you why you haven not responded to any of their facebook messages."
+            },
+            {
+              "paragraph": "9. You realize that your account hasn’t really been deleted and that it will actually take at least two weeks of inactivity for it to be fully inactive."
+            }
+          ]
+        },
+        {
+          "paragraph": "In this month of digital forgetting, I was mostly curious to see how my work and thought process would be affected."
+        },
+        {
+          "paragraph": "Another restriction I placed on myself was that I didn’t allow myself to save any files unless I needed to send an assignment to a teacher or a project to someone who commissioned a piece. In which case I could only save it once when I finished it. I also closed my browser and deleted all files at the end of each day. This meant that I needed to work on things beginning to end as soon as I remembered to do them. This severely limited my multi-tasking ability."
+        },
+        {
+          "paragraph": "I also usually take notes and make sketches in a notebook before and while I work on a piece, so this was particularly difficult. I couldn’t organize my ideas clearly and was forced to work linearly."
+        },
+        {
+          "paragraph": "During this period of forgetting, I had an urgent deadline for a piece that was to be included on a record. This piece was the only thing I worked on that could not be completed in a single day. I would open Ableton Live and begin writing the piece. I wouldn’t be able to finish it in one day so I would have to close the unsaved file at the end of the day. The next day I would do the same thing; lay it out, develop, delete, and the next day; lay it out, develop delete, and the next day: lay it out, develop, delete. This went on for a while until I realized that my deadline had passed a week ago. Eventually I decided to circumvent my own rules by sending the piece to other people to get feedback. So that when they responded to me I would be able to get the piece back as it was so I could develop it further."
+        },
+        {
+          "paragraph": "The supposed danger in having a bad memory is the possibility of constantly repeating yourself. It’s considered regression or failure to learn. But this measurement of success is based on capitalist notions of progress. We learn and progress by accumulating and developing a certain knowledge base. But what this model doesn't take into consideration is that there is a gap between knowing and understanding. "
+        },
+        {
+          "paragraph": "I’m going to continue to try to learn to forget. I want to forget what I’ve learned to the point that I forget how I’ve learned. I want to shift preconceived models of thought, to create new neural pathways to different ways of thinking, doing and ultimately being."
+        }
+      ]
+    },
+    {
+      "order": 12,
+      "title": "V AFTERFOREWORD",
+      "content": [
+        {
+          "paragraph": "We can see how various erasures can function not as a mere reversal of accelerated states, but alternative processes that facilitate alternative methods for thinking, knowing and being."
+        },
+        {
+          "paragraph": "As we continue existing in increasingly decentered worlds that emerge, shift and dissipate from erasures, mutations and re-contextualizations; how do we navigate the dynamics and frictions of our realities? How do we situate ourselves in ever-present, shifting temporalities that expand and contract from incessant interactions between the past and present? How do we navigate the overload of information and proliferation of meaning so that we experience it less as an avalanche that we drown in, but more of a katamari that we use to collect and absorb everything to form our own katamari worlds?"
+        }
+      ]
+    },
+    {
+      "order": 13,
+      "title": "BIBLIOGRAPHY",
+      "content": [
+        {
+          "paragraph": "Attali, Jacques. Noise: The Political Economy of Music. University of Minnesota Press 1977. Print."
+        },
+        {
+          "paragraph": "Barthel, Michael et. al. “The Evolving Role of News on Twitter and Facebook.” Pew Research Center. Jul 14, 2015. Web. 9 May. 2015."
+        },
+        {
+          "paragraph": "Badani, Pat. The Aesthetics of Erasure. Journal of the New Media Caucus V.11 N.01 2015. Web. 16 May. 2015."
+        },
+        {
+          "paragraph": "Bijsterveld, Karin and Jose van Dijck. Sound Souvenirs: Audio Technologies, Memory and Cultural Practices. Amsterdam: Amsterdam UP, 2009. Print."
+        },
+        {
+          "paragraph": "Buckley, Brad and John Conomos. Erasure The Spectre of Cultural Memory. Libri 2015. Print."
+        },
+        {
+          "paragraph": "Butler, Judith. “Excitable Speech: A Politics of the Performative.” Psychology Press. 1997. Print."
+        },
+        {
+          "paragraph": "Wendy Hui Kyong Chun, “The Enduring Ephemeral, or the Future is a Memory,” Critical Inquiry 35 (Autumn 2008): 148-171. Print."
+        },
+        {
+          "paragraph": "DeMarinis, Paul. “Erased Dots and Rotten Dashes, or How to Wire Your Head for a Preservation”. Huhtamo and Parikka. 211-238. Print."
+        },
+        {
+          "paragraph": "Doran, John. “Time Becomes A Loop: William Basinski Interviewed”. The Quietus. Nov 15, 2012. Web. 16 April. 2016."
+        },
+        {
+          "paragraph": "Eshun, Kodwo. “Further Considerations On Afrofuturism.” The New Centennial Review, V.3 N.02. 2003. 287-302. Print."
+        },
+        {
+          "paragraph": "Groom, Amelia. “There’s Nothing to See Here: Erasing The Monochrome.” e-flux journal #37, Sep 2012. Web. 11 May. 2015."
+        },
+        {
+          "paragraph": "Grossman, Joan. “Utopias of Oblivion: Pixelated Memory in Digital Space.” Eds. Buckley and Conomos. Libri Publishing, 2015. pp 87-96. Print."
+        },
+        {
+          "paragraph": "Groys, Boris. “Becoming Revolutionary: On Kazimir Malevich.“ e-flux journal #47, Sep    2013.   Web. 10 May. 2015."
+        },
+        {
+          "paragraph": "Halberstam, Judith. The Queer Art of Failure. Durham: Duke UP, 2011. Print."
+        },
+        {
+          "paragraph": "Huhtamo, Erkki and Jussi Parikka. Media Archaeology. Berkeley and Los Angeles: University of California Press 2011. Print."
+        },
+        {
+          "paragraph": "Joseph, Branden W. “John Cage and the Architecture of Silence”. October Vol. 81 (Summer, 1997). 80-104. MIT Press. Print."
+        },
+        {
+          "paragraph": "Kittler, Friederich. Gramophone, Film, Typewriter. trans. Geoffrey Winthrop-Young and Michael Wutz.Stanford: Stanford UP, 1999. Print."
+        },
+        {
+          "paragraph": "La Belle, Brandon. Background Noise: Perspectives on Sound Art, New York: Continuum 2006. Print."
+        },
+        {
+          "paragraph": "Lerew, Todd. “Sound and The Confluence of Bodies.” Experimental Music Yearbook Issue 2015. Web. 21 January. 2016. "
+        },
+        {
+          "paragraph": "Lowry, Sean. “Ghosted Forms.” Eds. Buckley and Conomos. Libri Publishing, 2015. 199-218. Print."
+        },
+        {
+          "paragraph": "Mackay, Robin, and Armen Avanessian, eds. #ACCELERATE: The Accelerationist Reader. Falmouth: Urbanomic, 2014. Print."
+        },
+        {
+          "paragraph": "Matias, Nathan. “Uncovering Algorithms: Looking Inside The Facebook News Feed.” MIT Center for Civic Media. Jul 22, 2014. Web. Apr 23, 2016."
+        },
+        {
+          "paragraph": "Mayer-Schönberger, Viktor. Delete: The Virtue of Forgetting in the Digital Age. Princeton University Press. 2009. Print."
+        },
+        {
+          "paragraph": "RadioLab. “Memory and Forgetting.“ Discovery Dialogues. Radiolab, n.d. Web."
+        },
+        {
+          "paragraph": "Reynolds, Simon. “Retromania”. CalArts, Valencia. 20 Oct. 2011. Lecture."
+        },
+        {
+          "paragraph": "Scheirl, Hans. “The Dada Manifesto of the Cyborgembrio.” The eight technologies of otherness. Ed. Susan Golding. New York 2005. Print."
+        },
+        {
+          "paragraph": "Schilleman, Matthew. “The Refresh: Digital Destruction and Mystic Writing”. Badani"
+        },
+        {
+          "paragraph": "Schuppli, Susan. “Tape 342”. Forensics. Cabinet Issue 43. 2011. 86-89. Print."
+        },
+        {
+          "paragraph": "Sheldrake, Rupert. The Presence of the Past: Morphic Resonance and the Habits of Nature. 4th ed. South Paris: Park Street, 2012. Print."
+        },
+        {
+          "paragraph": "Sterne, Jonathan. The Audible Past. Durham and London: Duke UP, 2003. Print."
+        },
+        {
+          "paragraph": "Sterne, Jonathan. “The Preservation Paradox in Digital Audio”. Bijsterveld, Dijck. 55-65. Print."
+        },
+        {
+          "paragraph": "Steyerl, Hito. A Tank On a Pedestal: Museums in an age of planetary civil war. E-flux, 2016. Web. Mar 15 2016."
+        },
+        {
+          "paragraph": "Stevens, Michael. “Where Do Deleted Files Go?“ YouTube, 20 July 2013. Web. 27 January. 2016."
+        },
+        {
+          "paragraph": "Sturken, Marita, August 2004, “The Aesthetics of Absence”, American Ethnologist, Vol. 31 No. 3. Print."
+        },
+        {
+          "paragraph": "Tong, Ben. “The Parrot Lecture.“ CalArts, Valencia. 27 Apr. 2012. Lecture."
+        },
+        {
+          "paragraph": "Tufekci, Zeynep. “What Happens to #Ferguson Affects Ferguson: Net Neutrality, Algorithmic Filtering and Ferguson.” The Message. 14, August. 2014. Web. 14 August. 2014"
+        },
+        {
+          "paragraph": "US National Archives, “Out of the Dark: Bringing Films to Light at The National Archives”. YouTube, June 6 2012. Web."
+        },
+        {
+          "paragraph": "Williams, Alex, and Nick Srnicek. “#ACCELERATE MANIFESTO for an Accelerationist Politics.” Critical Legal Thinking. 14 May 2013. Web. 2 May. 2016."
+        },
+        {
+          "paragraph": "World Newsmedia Network, “Global Social Media Trends,” (UK: European Publishers Council, 2015), 4. May 9, 2016 "
+        },
+        {
+          "paragraph": "Zimmer, Niklas. “Percival Kirby’s Wax Cylinders- Elegy on archiving a deaf spot.” Social  Dynamics: A journal of African studies. 13 Feb 2015. Web."
+        }
+      ]
+    },
+    {
+      "order": 14,
+      "title": "FURTHER READING/VIEWING/LISTENING",
+      "content": [
+        {
+          "paragraph": "ERASING/CENSORING/FORGETTING"
+        },
+        {
+          "paragraph": "Basinski, William. Disintegration Loops. 2002. "
+        },
+        {
+          "paragraph": "Borsuk, Amaranth et. al. The Deletionist. http://thedeletionist.com/. 2013. Javascript bookmarklet."
+        },
+        {
+          "paragraph": "Broodthaers, Marcel. La Pluie. Centre Pompidou. 2010. Performance"
+        },
+        {
+          "paragraph": "Chung, Jay. Nothing Is More Practical Than Idealism. 2001. Film."
+        },
+        {
+          "paragraph": "Didkovsky, Nick. Zero Waste. 2012."
+        },
+        {
+          "paragraph": "Dong, Song. Waste Not. 2005. Installation."
+        },
+        {
+          "paragraph": "Dong, Song. Writing Diary With Water. 1995. Performance."
+        },
+        {
+          "paragraph": "Fludd, Robert. Et sic ad infinitum! 1619. Illustration."
+        },
+        {
+          "paragraph": "Foer, Jonathan Safran. Tree of Codes. London: Visual Editions 2010. Print."
+        },
+        {
+          "paragraph": "Kelley, Mike. Educational Complex. 1995."
+        },
+        {
+          "paragraph": "Kleon, Austin. Newspaper Blackout Poems. New York: Harper 2010. Print."
+        },
+        {
+          "paragraph": "Lamouroux, Vincent. Projection. Sunset Blvd. Los Angeles. 2016. Installation."
+        },
+        {
+          "paragraph": "Lee, Mingwei. Guernica in Sand. 2007. Sand installation."
+        },
+        {
+          "paragraph": "Li, Ji and Cory Forsyth. Wordless Web. 2012. Javascript bookmarklet."
+        },
+        {
+          "paragraph": "Lowry, Sean. Silent Republic. 2012. Wall painting."
+        },
+        {
+          "paragraph": "Lucier, Alvin. I Am Sitting In a Room. 1981. "
+        },
+        {
+          "paragraph": "Maguire, Ryan. Ghost in the mp3. 2014. "
+        },
+        {
+          "paragraph": "Malevich, Kazimir. Black Square. 1915. Painting."
+        },
+        {
+          "paragraph": "Marclay, Christian. Record Without a Cover. Recycled Records, 1985. Vinyl, LP."
+        },
+        {
+          "paragraph": "Neustein, Joshua. Erasures. 1971-1973. Film."
+        },
+        {
+          "paragraph": "Norris, TJ. No Sign. 2008-2013. Photography."
+        },
+        {
+          "paragraph": "Ono, Yoko. Play it By Trust. 1996. Painted chess pieces on chess board."
+        },
+        {
+          "paragraph": "Philips, Tom. A Humument. Thames and Hudson 1980. Print."
+        },
+        {
+          "paragraph": "Rauschenberg, Robert. Erased de Kooning Drawing. 1953."
+        },
+        {
+          "paragraph": "Smith, Rowan. The Official Restaurant of the South African Family. 2015. Light box."
+        },
+        {
+          "paragraph": "Solakov, Nedko. A Life (Black and White). 1998. Performance."
+        },
+        {
+          "paragraph": "Tone, Yasunao. Solo for Wounded CD. Tzadik, 1997. CD."
+        },
+        {
+          "paragraph": "Walsh, Dan. Garfield Minus Garfield. www.garfieldminusgarfield.net. 2008. Webcomic."
+        },
+        {
+          "paragraph": "Wolf, Uljana and Christian Hawkey. Sonne From Ort. Kookbooks 2013. Print."
+        },
+        {
+          "paragraph": "Woodgate, Augustina. The Times Atlas of The World (Dust Diptych). 2012. Collected dust from sanded World Atlas (515 pages), Walnut frame."
+        },
+        {
+          "paragraph": "TRANSLATING/MUTATING"
+        },
+        {
+          "paragraph": "Blas, Zach. Fag Face Mask. 2012."
+        },
+        {
+          "paragraph": "Calle, Sophie. Take Care of Yourself. 52nd Venice Biennale, French Pavillion. 2007."
+        },
+        {
+          "paragraph": "Davis, Brian J. Yesterduh. 2006. Music."
+        },
+        {
+          "paragraph": "Laric, Oliver. Versions. 2009, 2010, 2012. Video"
+        },
+        {
+          "paragraph": "Lee, Mingwei. The Stone Journey. 1964. Stone and bronze."
+        },
+        {
+          "paragraph": "Schorkhuber, Christine and Alfred Grubbauer. Stille Post. 2008."
+        },
+        {
+          "paragraph": "Smith, Rowan and Ingrid Lee. COME ON YOU FUCKERS. 2011. Performance, publication."
+        },
+        {
+          "paragraph": "Deacon, Destiny. Eva Johnson, writer. 1994"
+        },
+        {
+          "paragraph": "Hinkle, Kenyatta A.C. Kentrifrica. 2011-present"
+        },
+        {
+          "paragraph": "Hinkle, Kenyatta A.C. The Uninvited. 2012."
+        },
+        {
+          "paragraph": "Kelley, Mike. Educational Complex. 1995."
+        },
+        {
+          "paragraph": "Kelley, Mike. Kandor City. 2000-2011."
+        },
+        {
+          "paragraph": "De Middel, Cristina. Afronauts. 2014. Film."
+        },
+        {
+          "paragraph": "Lavar Munroe. BIG C: Goddess of Coke (Heavens’ Dust). 2012."
+        },
+        {
+          "paragraph": "Perret, Mai-Thu. The Crystal Frontier. 1999-present "
+        },
+        {
+          "paragraph": "Ruga, Athi-Patra. The Future White Women of Azania Saga. 2014."
+        },
+        {
+          "paragraph": "Satterwhite, Jacolby. Reifying Desire 6. 2013. Video."
+        },
+        {
+          "paragraph": "Sibande, Mary. The Purple Shall Govern. Iziko South African National Gallery. 2014 Williamson, Marisa. Hemings in Paris. 2015. Film."
+        },
+        {
+          "paragraph": "Williamson, Marisa. Hemings & Hawings: A Postmodern Talk Show. 2015. Video."
+        },
+        {
+          "paragraph": "Williamson, Marisa. What Would Sally Do?. 2013."
+        }
+      ]
+    }
+  ]
+}
                                                       
