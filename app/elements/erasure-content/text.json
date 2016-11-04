@@ -1,6 +1,4 @@
-{
-  "title": "THE POETICS AND POLITICS OF ERASURE",
-  "blocks": [
+{"blocks": [
     {
       "order": 1,
       "title": "INTRODUCTION",
@@ -86,7 +84,7 @@
     {
       "order": 6,
       "subtitle": "TRANSLATING/MUTATING",
-      "quote": "“What are the many versions if not diverse perspectives of a moveable event? If not a long experimental assortment of omissions and emphases?”  -Oliver Laric, Versions (2012)",
+      "blockquote": "“What are the many versions if not diverse perspectives of a moveable event? If not a long experimental assortment of omissions and emphases?”  -Oliver Laric, Versions (2012)",
       "content": [
         {
           "paragraph": "Collective memory depends on individual interpretations and representations, most simply demonstrated in the game telephone, where a sentence is passed down a line from person to person. As everyone knows, the fun part of the game is hearing the resulting sentence after being processed through human filters full of errors, omissions and substitutions. Christine Schorkhuber and Alfred Grubbauer’s Stille Post (2008) applies further translation to this approach, feeding one text down three lines of non-professional translators. The original German text was about color and was subsequently translated from one language to another by various multilingual speakers before being translated back to German again. One resulting text was about love, another about legal papers, and one about religion. Similarly, Sophie Calle’s Take Care of Yourself (2007), revolving around a break up email she received from a lover, which she subsequently sent to women of varying professional backgrounds to interpret and respond to in a manner informed by their professions. From a forensic psychologist, who concluded that the writer was a “twisted manipulator” to a copy editor who marked syntactical and grammatical errors, an etiquette consultant who scrutinized the lover’s manners, to a markswoman who shot at the letter, Calle commissioned 107 interpretations and renderings of the offending letter. Translation in both of these pieces are mutations of an original. Each iteration extends meaning in omnidirectional trajectories, collectively accumulating and transforming the original, so that it becomes its various permutations."
@@ -114,10 +112,10 @@
         },
         {
           "paragraph": "Williamson creates performances, images and videos as Sally Hemings, slave and mistress to US president Thomas Jefferson. The first work involving this character is a performance titled What Would Sally Do? (2013) which takes place on Jefferson’s plantation and Sally’s home, Monticello. Dressed in a servant’s outfit, Sally jogs, does push ups, eats KFC, and dances while singing karaoke outside the building. The superimposition of Heming’s biography, her dress, and the relatively mundane activities she takes part in, is jarringly anachronistic. Amongst the absurdity, one sobering moment stands out in which Sally reads the section of the Declaration of Independence written by her master:"
-        },
-        {
-          "quote": "“We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the Pursuit of Happiness. That to secure these rights, Governments are instituted among Men, deriving their just powers from the consent of the governed.”"
-        },
+        }]},
+        {"order": 7,
+          "blockquote": "“We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the Pursuit of Happiness. That to secure these rights, Governments are instituted among Men, deriving their just powers from the consent of the governed.”"
+        ,"content": [
         {
           "paragraph": "The effect is haunting and hits hard. By resurrecting Hemings in contemporary scenes on the physical site that her memory remains tethered to, Williamson blurs temporal lines, reminding us that history does not merely remain in the past. It informs and permeates our present, particularly for those of us who are regularly reminded of our minoritized identities. At the same time, this interaction between past and present flows in both directions, and one can see how Williamson is able to gradually pry Heming’s history and identity away from the site of her oppression in a way that is humanizing. For Williamson, retelling Hemings’ story is part of her “feminist and anti-colonial efforts to reclaim and self-narrativise that which feels, even now, to be appropriated by victors.”"
         },
@@ -196,7 +194,7 @@
           "paragraph": "So today I offer you narratives of failure, forgetting and impermanence."
         },
         {
-          "subtitle": "I. WHITE NOISE WHITE OUT"
+          "paragraph": "I. WHITE NOISE WHITE OUT"
         },
         {
           "paragraph": "I would like to begin with the origins of sound recording, which over time has developed an increasingly clean and flawless aesthetic. Rhythms are quantized, voices pitch-corrected, mistakes overdubbed. This leaves no room for error. And yet, of course, the origins of sound recording are ridden with failures."
@@ -208,13 +206,13 @@
           "paragraph": "But let’s get back to Edison for a moment. At one point he became unsatisfied with the recording quality of ensembles and orchestras, so believing that the sounds got confused as they travelled through the horn of his phonograph, he decided to build bigger and longer horns so that sounds could be “untangled”. In 1923 he built a 125ft brass horn and made several experimental recordings. This was an utter failure and the project ended in 1924 due to mounting expenses. In 1942 the horn was melted down for scrap metal for the WWII effort."
         },
         {
-          "subtitle": "II. ERASURE"
+          "paragraph": "II. ERASURE"
         },
         {
           "paragraph": "In 1951, Bette Nesmith Graham, a Texan typist who was terrible at her job invented MistakeOut, a white liquid that she use to cover her typing mistakes. This solution became so popular that she founded her company Liquid Paper Corp which she eventually sold to Gillette; a company that has a monopoly on hair removal."
         },
         {
-          "subtitle": "III. RADICAL FORGETTING"
+          "paragraph": "III. RADICAL FORGETTING"
         },
         {
           "paragraph": "Kodwo Eshun wrote on Afrofuturism,  “it has been necessary to assemble countermemories that contest the colonial archive, thereby situating the collective trauma of slavery as the founding moment of modernity.”"
@@ -226,7 +224,7 @@
           "paragraph": "In the 1968 Warsaw Pact Invasion of Czechoslovakia, citizens of Prague painted their street signs white in a nonviolent gesture of protest. The story goes that only the signs pointing back to Moscow remained. Upon arrival, half a million troops were lost.   "
         },
         {
-          "subtitle": "IV. DIGITAL FORGETTING"
+          "paragraph": "IV. DIGITAL FORGETTING"
         },
         {
           "paragraph": "Offering anonymity and interconnectivity, the internet brought with it a promise of the protean self, the idea that our identities can be more fluid and multi-faceted. However, what it has become is the ultimate storage and surveillance technology. One that cannot forgive because it cannot forget. Then again, it’s not the perfect memory we believe it to be."
@@ -285,8 +283,6 @@
         {
           "paragraph": "In addition to simulating deafness, masking removes a layer of human consciousness that was gained when we learned how to listen to ourselves externally. I’m referring to the phonograph, which essentially freed the voice from the throat."
         },
-        {
-          "content": [
             {
               "paragraph": "Kittler writes that the real time frequency shift capability of the phonograph allowed people to return simultaneously and in real time from their breaking voices"
             },
@@ -298,9 +294,8 @@
             },
             {
               "paragraph": "[Slide 5 down: vinyl noise off]"
-            }
-          ],
-          "paragraph": "The MP3 came into use in 1993. The lossy format used a compression algorithm based on a perceptual model of human hearing. This model was derived and refined by a listening test that was primarily designed by and for Western European men using music that they liked."
+            },
+          {"paragraph": "The MP3 came into use in 1993. The lossy format used a compression algorithm based on a perceptual model of human hearing. This model was derived and refined by a listening test that was primarily designed by and for Western European men using music that they liked."
         },
         {
           "paragraph": "[Slide 6 up: distort vocoder]"
@@ -323,8 +318,6 @@
         {
           "paragraph": "As of March 2015, 145 foreign genes were discovered to be part of the human genome."
         },
-        {
-          "content": [
             {
               "paragraph": "Erase national borders on the surface of a globe and what you get is colorful dust."
             },
@@ -333,9 +326,7 @@
             },
             {
               "paragraph": "What you get is you and I bleeding into each other"
-            }
-          ]
-        },
+            },
         {
           "paragraph": "Enfolded into your discrete quanta. I quantitatively become you. Say I am you."
         },
@@ -399,8 +390,6 @@
         {
           "paragraph": "The way our lives are structured now within hyper-speed, super-productive, over- consuming capitalism makes it very difficult to delete information and still function optimally in society."
         },
-        {
-          "content": [
             {
               "paragraph": "A STEP BY STEP GUIDE TO DEACTIVATING FACEBOOK TEMPORARILY "
             },
@@ -430,9 +419,7 @@
             },
             {
               "paragraph": "9. You realize that your account hasn’t really been deleted and that it will actually take at least two weeks of inactivity for it to be fully inactive."
-            }
-          ]
-        },
+            },
         {
           "paragraph": "In this month of digital forgetting, I was mostly curious to see how my work and thought process would be affected."
         },
@@ -685,10 +672,10 @@
         },
         {
           "paragraph": "Woodgate, Augustina. The Times Atlas of The World (Dust Diptych). 2012. Collected dust from sanded World Atlas (515 pages), Walnut frame."
-        },
-        {
-          "paragraph": "TRANSLATING/MUTATING"
-        },
+        }]},
+          {"order": 15,
+          "subtitle": "TRANSLATING/MUTATING",
+          "content": [
         {
           "paragraph": "Blas, Zach. Fag Face Mask. 2012."
         },
@@ -709,7 +696,10 @@
         },
         {
           "paragraph": "Smith, Rowan and Ingrid Lee. COME ON YOU FUCKERS. 2011. Performance, publication."
-        },
+        }]},
+        {"order": 16,
+        "subtitle":"RE-MYTHOLOGIZING ",
+        "content": [ 
         {
           "paragraph": "Deacon, Destiny. Eva Johnson, writer. 1994"
         },
@@ -749,8 +739,9 @@
         {
           "paragraph": "Williamson, Marisa. What Would Sally Do?. 2013."
         }
-      ]
-    }
+      ]}
+      
+    
   ]
 }
                                                       

@@ -26,6 +26,10 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
       <h3>{{sectionContent.subtitle}}</h3>
     </template>
 
+    <template is="dom-if" if="{{_hasTitle(sectionContent.blockquote)}}">
+      <blockquote>{{sectionContent.blockquote}}</blockquote>
+    </template>
+
     <template is="dom-repeat" items="{{sectionContent.content}}">
       <p inner-h-t-m-l="{{item.paragraph}}"></p>
     </template>
