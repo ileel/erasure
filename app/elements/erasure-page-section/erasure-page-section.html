@@ -55,6 +55,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
           return '' == !title;
         },
         _giveMeEntropy: function () {
+
           function randomArrayMax( numMax ) {
             var randomArray = [];
             var maxRes = ((numMax * 10) / 100);
@@ -82,17 +83,10 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
 
           this.debounce( '_giveMeEntropy', function () {
             var newContent = this.get( 'sectionContent.content' );
-
-            newContent.map( function ( node ) {
-              node.paragraph = curate( node.paragraph );
-            } );
-
-            console.log( JSON.stringify( newContent, null, 2 ) );
-
-            //forces the subpath for the mutation
-            this.set( 'sectionContent.content', [] );
-            this.set( 'sectionContent.content', newContent );
-
+            for (var i = 0, l = newContent.length; i < l; i++) {
+              //Forcing the deep array node to update
+              this.set( "sectionContent.content." + i + ".paragraph", curate( newContent[ i ].paragraph ) );
+            }
           }, 3000 );
         }
 
