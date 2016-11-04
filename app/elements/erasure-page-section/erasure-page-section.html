@@ -22,8 +22,8 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
       <h2>{{sectionContent.title}}</h2>
     </template>
 
-    <template is="dom-repeat" items="[[sectionContent.content]]">
-      <p inner-h-t-m-l="[[curate(item.paragraph)]]"></p>
+    <template is="dom-repeat" items="{{sectionContent.content}}">
+      <p inner-h-t-m-l="{{item.paragraph}}"></p>
     </template>
   </template>
   <script>
@@ -36,7 +36,8 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         properties: {
           sectionContent: {
             type: Object,
-            notify: true
+            notify: true,
+            observer: '_giveMeEntropy'
           }
         },
 
@@ -49,8 +50,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         _hasTitle: function hasTitle( title ) {
           return '' == !title;
         },
-
-        curate: function curate( paragraph ) {
+        _giveMeEntropy: function () {
           function randomArrayMax( numMax ) {
             var randomArray = [];
             var maxRes = ((numMax * 10) / 100);
@@ -61,18 +61,35 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
             return randomArray;
           }
 
-          var split = paragraph.split( ' ' );
-          var enrichedTagStart = '<span class="blanco">';
-          var enrichedTagEnd = '</span>';
-          //count the words and randomizes the injection of the tags
-          randomArrayMax( split.length )
-            .map( function ( order ) {
-              var orig = split[ order ];
-              split[ order ] = enrichedTagStart + orig + enrichedTagEnd;
+          function curate( paragraph ) {
+            var split = paragraph.split( ' ' );
+            var enrichedTagStart = '<span class="blanco">';
+            var enrichedTagEnd = '</span>';
+            //count the words and randomizes the injection of the tags
+            randomArrayMax( split.length )
+              .map( function ( order ) {
+                var orig = split[ order ];
+                split[ order ] = enrichedTagStart + orig + enrichedTagEnd;
+              } );
+
+            //return the enriched string
+            return split.join( ' ' );
+          }
+
+          this.debounce( '_giveMeEntropy', function () {
+            var newContent = this.get( 'sectionContent.content' );
+
+            newContent.map( function ( node ) {
+              node.paragraph = curate( node.paragraph );
             } );
 
-          //return the enriched string
-          return split.join( ' ' );
+            console.log( JSON.stringify( newContent, null, 2 ) );
+
+            //forces the subpath for the mutation
+            this.set( 'sectionContent.content', [] );
+            this.set( 'sectionContent.content', newContent );
+
+          }, 3000 );
         }
 
       } );
