@@ -75,7 +75,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
             //count the words and randomizes the injection of the tags
             randomArrayMax( wordParagraphList.length )
               .forEach( function ( randomizedPos ) {
-                wordParagraphList[ randomizedPos ] = wordParagraphList[ randomizedPos ].replace( /./g, '&#160;' );
+                wordParagraphList[ randomizedPos ] = '<span class="hideme">' + wordParagraphList[ randomizedPos ] + '</span>';
               } );
             return wordParagraphList.join( ' ' );
           }
@@ -95,8 +95,8 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         _giveMeEntropy: function () {
           this.debounce( '_giveMeEntropy', function () {
             this.doIt();
-          }, 10000 );
-        },
+          }, 1000 );
+        }
 
 //        ready: function () {
 //          this.doItAgain();
