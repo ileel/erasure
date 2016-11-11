@@ -71,18 +71,13 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
           }
 
           function curate( paragraph ) {
-            var split = paragraph.split( ' ' );
-            var enrichedTagStart = '<span class="blanco">';
-            var enrichedTagEnd = '</span>';
+            var wordParagraphList = paragraph.split( ' ' );
             //count the words and randomizes the injection of the tags
-            randomArrayMax( split.length )
-              .map( function ( order ) {
-                var orig = split[ order ];
-                split[ order ] = enrichedTagStart + orig + enrichedTagEnd;
+            randomArrayMax( wordParagraphList.length )
+              .forEach( function ( randomizedPos ) {
+                wordParagraphList[ randomizedPos ] = wordParagraphList[ randomizedPos ].replace( /./g, '&#160;' );
               } );
-
-            //return the enriched string
-            return split.join( ' ' );
+            return wordParagraphList.join( ' ' );
           }
 
           var newContent = this.get( 'sectionContent.content' );
