@@ -20507,7 +20507,7 @@ if (!window.Promise) {
           var randomArray = [];
           var maxRes = ((numMax * 10) / 100);
           for ( var i = 0; i < maxRes; i++ ) {
-            randomArray[ i ] = Math.floor(Math.random() * numMax) + 1;
+            randomArray[ i ] = Math.floor(Math.random() * numMax);
           }
           console.log('removing words at position ' + JSON.stringify(randomArray));
           return randomArray;
