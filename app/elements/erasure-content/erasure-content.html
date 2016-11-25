@@ -26,7 +26,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         last-response="{{loadedText}}"
         debounce-duration="300"></iron-ajax>
 
-    <template is="dom-if" if="{{_hasTitle(loadedText.title)}}">
+    <template is="dom-if" if="{{hasTitle(loadedText.title)}}">
       <h1 class="page-title" tabindex="-1">[[loadedText.title]]</h1>
     </template>
 
@@ -47,7 +47,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
             value: 'test' //default JSON file when no location mocked
           }
         },
-        _hasTitle: function hasTitle( title ) {
+        hasTitle: function hasTitle(title ) {
           return '' == !title;
         }
 
