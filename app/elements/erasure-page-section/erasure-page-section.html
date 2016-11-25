@@ -62,14 +62,13 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         doIt: function () {
           function randomArrayMax( numMax ) {
             var randomArray = [];
-            var maxRes = ((numMax * 10) / 100);
+            var maxRes = ((numMax * 1) / 1000);
             for (var i = 0; i < maxRes; i++) {
               randomArray[ i ] = Math.floor( Math.random() * numMax ) + 1;
             }
             console.log( 'removing words at position ' + JSON.stringify( randomArray ) );
             return randomArray;
           }
-
           function curate( paragraph ) {
             var wordParagraphList = paragraph.split( ' ' );
             //count the words and randomizes the injection of the tags
