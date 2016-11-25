@@ -18,15 +18,20 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
       }
 
     </style>
-    <template is="dom-if" if="{{_hasTitle(sectionContent.title)}}">
+
+    <template>
+      <div id="countDown">{{count}}</div>
+    </template>
+
+    <template is="dom-if" if="{{hasTitle(sectionContent.title)}}">
       <h2>{{sectionContent.title}}</h2>
     </template>
 
-    <template is="dom-if" if="{{_hasTitle(sectionContent.subtitle)}}">
+    <template is="dom-if" if="{{hasTitle(sectionContent.subtitle)}}">
       <h3>{{sectionContent.subtitle}}</h3>
     </template>
 
-    <template is="dom-if" if="{{_hasTitle(sectionContent.blockquote)}}">
+    <template is="dom-if" if="{{hasTitle(sectionContent.blockquote)}}">
       <blockquote>{{sectionContent.blockquote}}</blockquote>
     </template>
 
@@ -38,76 +43,76 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
     (function () {
       'use strict';
 
-      Polymer( {
+      Polymer({
         is: 'erasure-page-section',
 
         properties: {
           sectionContent: {
             type: Object,
+            notify: true
+          },
+          count: {
+            type: Number,
+            value: 0,
             notify: true,
-            observer: '_giveMeEntropy'
+            observer: 'nextCount'
           }
+
         },
 
-        /**
-         *
-         * @param title
-         * @returns {boolean} true if is a valid title
-         * @private
-         */
-        _hasTitle: function hasTitle( title ) {
+        hasTitle: function hasTitle(title) {
           return '' == !title;
         },
 
-        doIt: function () {
-          function randomArrayMax( numMax ) {
-            var randomArray = [];
-            var maxRes = ((numMax * 1) / 1000);
-            for (var i = 0; i < maxRes; i++) {
-              randomArray[ i ] = Math.floor( Math.random() * numMax ) + 1;
-            }
-            console.log( 'removing words at position ' + JSON.stringify( randomArray ) );
-            return randomArray;
+        _randomArrayMax: function randomArrayMax(numMax) {
+          var randomArray = [];
+          var maxRes = ((numMax * 10) / 100);
+          for ( var i = 0; i < maxRes; i++ ) {
+            randomArray[ i ] = Math.floor(Math.random() * numMax) + 1;
           }
-          function curate( paragraph ) {
-            var wordParagraphList = paragraph.split( ' ' );
-            //count the words and randomizes the injection of the tags
-            randomArrayMax( wordParagraphList.length )
-              .forEach( function ( randomizedPos ) {
-                wordParagraphList[ randomizedPos ] = '<span class="hideme">' + wordParagraphList[ randomizedPos ] + '</span>';
-              } );
-            return wordParagraphList.join( ' ' );
-          }
+          console.log('removing words at position ' + JSON.stringify(randomArray));
+          return randomArray;
+        },
 
-          var newContent = this.get( 'sectionContent.content' );
-          for (var i = 0, l = newContent.length; i < l; i++) {
-            if (typeof (newContent[ i ].paragraph) === 'string') {
-              var curatedPgph = curate( newContent[ i ].paragraph );
+        _curateParagraph: function curate(paragraph) {
+          var wordParagraphList = paragraph.match(/\w+/g);
+          //count the words and randomizes the injection of the tags
+          this._randomArrayMax(wordParagraphList.length)
+            .forEach(function (pos) {
+              var word = '' + wordParagraphList[ pos ];
+              console.log('about to check ' + word);
+              wordParagraphList[ pos ] = word.replace(/./g, '_');
+            });
+          return wordParagraphList.join(' ');
+        },
+
+        _doIt: function () {
+          console.log(':::called');
+          var newContent = this.get('sectionContent.content');
+          for ( var i = 0, l = newContent.length; i < l; i++ ) {
+            if ( typeof (newContent[ i ].paragraph) === 'string' ) {
+              var curatedPgph = this._curateParagraph(newContent[ i ].paragraph);
               //Forcing the deep array node to update
-              this.set( "sectionContent.content." + i + ".paragraph", curatedPgph );
+              this.set('sectionContent.content.' + i + '.paragraph', curatedPgph);
             } else {
-              console.error( '::: wrong content at the paragraph index ' + i )
+              console.error('::: wrong content at the paragraph index ' + i)
             }
           }
         },
 
-        _giveMeEntropy: function () {
-          this.debounce( '_giveMeEntropy', function () {
-            this.doIt();
-          }, 1000 );
+        nextCount: function () {
+          // will not call `destroy` more than once per 3000ms, and data binding will update it
+          this.debounce('destroy', function () {
+            if ( this.count < 100 ) {
+              var count = this.get('count');
+              this.set('count', count + 1);
+              console.log('here ' + count);
+              this._doIt();
+            }
+          }, 3000);
         }
 
-//        ready: function () {
-//          this.doItAgain();
-//        },
-//
-//        doItAgain: function doItAgain() {
-//            this.async( this.doItAgain, function () {
-//              console.log( "here" )
-//            }, 3000 );
-//        }
-
-      } );
+      });
     })();
   </script>
 </dom-module>
