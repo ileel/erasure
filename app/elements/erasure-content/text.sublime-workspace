@@ -1,0 +1,237 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"haystack",
+				"haystackText"
+			],
+			[
+				"hayst",
+				"haystackText"
+			],
+			[
+				"main",
+				"mainTextElement"
+			],
+			[
+				"mainte",
+				"mainTextElement"
+			],
+			[
+				"random",
+				"randomWord"
+			],
+			[
+				"CREA",
+				"createElement"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"mainText",
+				"mainTextElement"
+			],
+			[
+				"mainT",
+				"mainTextArray"
+			],
+			[
+				"maint",
+				"mainTextArray"
+			],
+			[
+				"tex",
+				"textOutput"
+			],
+			[
+				"text",
+				"textContent"
+			],
+			[
+				"a",
+				"audioplayer"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ingridlee/Documents/Docs/THESIS/erasure/app/elements/my-greeting/text.json",
+		"/Users/ingridlee/Documents/Docs/THESIS/erasure/app/elements/my-greeting/my-greeting.html",
+		"/Users/ingridlee/Documents/Docs/Timebank/Newsletter_Jul/Newsletter_2016-07-v1.html",
+		"/Users/ingridlee/Documents/Docs/THESIS/Text erasure test.html",
+		"/Users/ingridlee/Documents/Docs/THESIS/erasure final text.html",
+		"/Users/ingridlee/Desktop/TimebankNewsletter_May /Newsletter_2016-05-v1.html",
+		"/Users/ingridlee/Documents/Docs/THESIS/erasure/app/elements/erasure-content/erasure-content.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/index1.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/<html>",
+		"/Users/ingridlee/Documents/KABK/iOT/iotraspberry.py",
+		"/Users/ingridlee/Documents/Sensor_Kit_V2.0_for_B/SunFounder_SensorKit_for_RPi2/README.md",
+		"/Users/ingridlee/Documents/Docs/THESIS/cookies.html",
+		"/Users/ingridlee/Documents/KABK/NetArt/2ndthingy.html",
+		"/Users/ingridlee/Documents/KABK/NetArt/soundtest.html",
+		"/Applications/MAMP/htdocs/API thingy.html",
+		"/Users/ingridlee/Documents/KABK/NetArt/Random text.html",
+		"/Users/ingridlee/Documents/KABK/NetArt/extensions"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"list",
+			"pizza time",
+			"event",
+			"refresh"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "text.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
