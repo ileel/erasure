@@ -23,6 +23,11 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
       <div id="countDown">{{count}}</div>
     </template>
 
+<!-- if this doesn't work, change back to 
+ <template is="dom-if" items="{{hasTitle(sectionContent.title)}}">
+      <h2>{{sectionContent.title}}</h2>
+    </template> -->
+
     <template is="dom-if" if="{{hasTitle(sectionContent.title)}}">
       <h2>{{sectionContent.title}}</h2>
     </template>
@@ -84,14 +89,16 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
               wordParagraphList[ pos ] = word.replace(/./g, '_');
             });
           return wordParagraphList.join(' ');
-        },
-
+        }
+        ,
+      
         _doIt: function () {
           console.log(':::called');
           var newContent = this.get('sectionContent.content');
           for ( var i = 0, l = newContent.length; i < l; i++ ) {
             if ( typeof (newContent[ i ].paragraph) === 'string' ) {
               var curatedPgph = this._curateParagraph(newContent[ i ].paragraph);
+
               //Forcing the deep array node to update
               this.set('sectionContent.content.' + i + '.paragraph', curatedPgph);
             } else {
@@ -109,7 +116,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
               console.log('here ' + count);
               this._doIt();
             }
-          }, 3000);
+          }, 1000);
         }
 
       });
