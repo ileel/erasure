@@ -79,16 +79,9 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
           //count the words and randomizes the injection of the tags
           this._randomArrayMax(wordParagraphList.length)
             .forEach(function (pos) {
-              //wordParagraphList[ pos ] = undefined === wordParagraphList[ pos ] ? '' : wordParagraphList[ pos ].replace(/\./gi, '_');
-              //wordParagraphList[ pos ] = (''+wordParagraphList[ pos ]).replace(/\./gi, '_');
               var word = '' + wordParagraphList[ pos ];
               console.log('about to check ' + word);
-              wordParagraphList[ pos ] = word.replace(/./g,'_');
-//                ((Math.random() < 0.5) && /^[a-zA-Z0-9]{6,}/.test(word)) ?
-//                //'<erasure-synonym foo=' + word + '></erasure-synonym>' :
-//              '<b>' + word + '</b>' :
-//              '<span class="hideme">' + word + '</span>';
-
+              wordParagraphList[ pos ] = word.replace(/./g, '_');
             });
           return wordParagraphList.join(' ');
         },
@@ -106,28 +99,18 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
             }
           }
         },
-//
-//        ready: function () {
-//          this.nextCount();
-//        },
 
         nextCount: function () {
-          // will not call `destroy` more than once per 100ms
-          this.debounce('destroy', function() {
+          // will not call `destroy` more than once per 3000ms, and data binding will update it
+          this.debounce('destroy', function () {
             if ( this.count < 100 ) {
               var count = this.get('count');
               this.set('count', count + 1);
-              console.log('here '+ count);
+              console.log('here ' + count);
               this._doIt();
             }
           }, 3000);
-
         }
-
-//        ready: function () {
-//          this.async(this._doIt, 5000);
-//        },
-
 
       });
     })();
