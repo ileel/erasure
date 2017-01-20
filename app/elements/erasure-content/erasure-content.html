@@ -19,6 +19,12 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         display: block;
       }
     </style>
+    <!--<iron-ajax-->
+        <!--auto-->
+        <!--url="https://raw.githubusercontent.com/ileel/erasure/master/app/elements/erasure-content/synonyms.json"-->
+        <!--handle-as="json"-->
+        <!--last-response="{{loadedSynonyms}}"-->
+        <!--debounce-duration="200"></iron-ajax>-->
     <iron-ajax
         auto
         url="https://raw.githubusercontent.com/ileel/erasure/master/app/elements/erasure-content/text.json"
@@ -31,7 +37,8 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
     </template>
 
     <template is="dom-repeat" items="[[loadedText.blocks]]">
-      <erasure-page-section section-content="[[item]]"></erasure-page-section>
+      <!--<erasure-page-section section-content="[[item]]" synonyms="[[loadedSynonyms]]"></erasure-page-section>-->
+      <erasure-page-section section-content="[[item]]" ></erasure-page-section>
     </template>
   </template>
   <script>
@@ -48,7 +55,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
           }
         },
         hasTitle: function hasTitle(title ) {
-          return '' == !title;
+          return '' === !title;
         }
 
       } );
