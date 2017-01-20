@@ -33,7 +33,7 @@
     (function () {
       'use strict';
 
-      Polymer({
+      Polymer( {
         is: 'erasure-page-section',
 
         properties: {
@@ -50,80 +50,72 @@
 
         },
 
-        hasContent: function hasContent(content) {
-          return typeof content === 'string' && '' !== content;
-        },
-
-        _randomArrayMax: function randomArrayMax(numMax) {
-          var randomArray = [];
-          var maxRes = ((numMax * 10) / 100);
+        _randomArrayMax: function randomArrayMax( max ) {
+          var randomArrayFromWordsSize = [];
+          var maxRes = ((max * 10) / 100);
           for ( var i = 0; i < maxRes; i++ ) {
-            randomArray[ i ] = Math.floor(Math.random() * numMax);
+            randomArrayFromWordsSize[ i ] = Math.floor( Math.random() * max );
           }
-          console.log('removing words at position ' + JSON.stringify(randomArray));
-          return randomArray;
+          return randomArrayFromWordsSize;
         },
 
-        _curateLongString: function curate(paragraph) {
-          var wordParagraphList = paragraph.split(' ');
+        _curateLongString: function curate( paragraph ) {
+          var wordParagraphList = paragraph.split( ' ' );
           //count the words and randomizes the injection of the tags
-          this._randomArrayMax(wordParagraphList.length)
-            .forEach(function (pos) {
+          this._randomArrayMax( wordParagraphList.length )
+            .forEach( function ( pos ) {
               var word = '' + wordParagraphList[ pos ];
-              console.log('about to check ' + word);
-              wordParagraphList[ pos ] = word.replace(/./g, '_');
-            });
-          return wordParagraphList.join(' ');
+              wordParagraphList[ pos ] = word.replace( /./g, '_' );
+            } );
+          return wordParagraphList.join( ' ' );
         }
         ,
 
-        _doIt: function () {
+        _operatedContent: function ( originalContent, target ) {
+          if ( this.hasContent( originalContent ) ) {
+            var curatedString = this._curateLongString( originalContent );
+            this.set( target, curatedString );
+            return true
+          } else {
+            console.error( '::: wrong content at ' + target );
+            return false;
+          }
+        },
 
-          [ 'title',
-            'blockquote',
-            'subtitle',
-            'content' ]
-            .forEach((section) => {
-              var sectionContent = this.get('sectionContent');
-              if ( sectionContent.hasOwnProperty(section) ) {
+        _doIt: function () {
+          [ 'title', 'blockquote', 'subtitle', 'content' ] //Type of content defined inside erasure's json
+            .forEach( ( section ) => {
+              var sectionContent = this.get( 'sectionContent' );
+              if ( sectionContent.hasOwnProperty( section ) ) {
                 var target = 'sectionContent.' + section;
-                var originalContent = this.get(target);
-                if ( typeof (originalContent) === 'string' ) {
-                  var curatedString = this._curateLongString(originalContent);
-                  this.set(target, curatedString);
-                } else if ( typeof (originalContent) === 'object' ) {
-                  for ( var i = 0, l = originalContent.length; i < l; i++ ) {
-                    if ( typeof (originalContent[ i ].paragraph) === 'string' ) {
-                      var curatedPgph = this._curateLongString(originalContent[ i ].paragraph);
-                      //Forcing the deep array node to update
-                      this.set('sectionContent.content.' + i + '.paragraph', curatedPgph);
-                    } else {
-                      console.error('::: wrong content at the paragraph index ' + i)
-                    }
-                  }
-                }
-                else {
-                  console.error('::: wrong content at ' + 'sectionContent.' + section)
+                var originalContent = this.get( target );
+                if ( !this._operatedContent( originalContent, target ) && typeof (originalContent) === 'object' && originalContent.length > 0 ) {
+                  originalContent.forEach( ( element, index ) => {
+                    this._operatedContent( element.paragraph, target + '.' + index + '.paragraph' )
+                  } )
                 }
               }
+            } )
+        },
 
-            })
-
+        hasContent: function hasContent( content ) {
+          return typeof content === 'string' && '' !== content;
         },
 
         nextCount: function () {
           // will not call `destroy` more than once per 3000ms, and data binding will update it
-          this.debounce('destroy', function () {
+          this.debounce( 'destroy', function () {
             if ( this.count < 100 ) {
-              var count = this.get('count');
-              this.set('count', count + 1);
-              console.log('here ' + count);
+              var count = this.get( 'count' );
+              this.set( 'count', count + 1 );
               this._doIt();
             }
-          }, 1000);
+          }, 3000 );
         }
 
-      });
-    })();
+      } )
+      ;
+    })
+    ();
   </script>
 </dom-module>
