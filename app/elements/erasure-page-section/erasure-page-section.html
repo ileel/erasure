@@ -660,7 +660,7 @@
           this._randomArrayMax( wordParagraphList.length )
             .forEach( function ( pos ) {
               var word = '' + wordParagraphList[ pos ];
-              if ( 0 === pos % 2 && synonyms.hasOwnProperty( word.toLowerCase() ) ) {
+              if ( Math.random() >= 0.5 && synonyms.hasOwnProperty( word.toLowerCase() ) ) {
                 var options = synonyms[ word.toLowerCase() ];
                 var randomSynonym = options[ Math.floor( Math.random() * options.length ) ];
                 console.log( ':: Synonym: ' + word + ' to ' + randomSynonym )
