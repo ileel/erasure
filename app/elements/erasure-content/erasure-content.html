@@ -19,18 +19,20 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         display: block;
       }
     </style>
-    <!--<iron-ajax-->
-        <!--auto-->
-        <!--url="https://raw.githubusercontent.com/ileel/erasure/master/app/elements/erasure-content/synonyms.json"-->
-        <!--handle-as="json"-->
-        <!--last-response="{{loadedSynonyms}}"-->
-        <!--debounce-duration="200"></iron-ajax>-->
+    <!--prod-->
     <iron-ajax
         auto
-        url="https://raw.githubusercontent.com/ileel/erasure/master/app/elements/erasure-content/text.json"
+        url="https://4a5a3w0bp7.execute-api.us-west-2.amazonaws.com/beta"
         handle-as="json"
         last-response="{{loadedText}}"
         debounce-duration="300"></iron-ajax>
+    <!--dev-->
+    <!--<iron-ajax-->
+    <!--auto-->
+    <!--url="https://raw.githubusercontent.com/ileel/erasure/master/app/elements/erasure-content/text.json"-->
+    <!--handle-as="json"-->
+    <!--last-response="{{loadedText}}"-->
+    <!--debounce-duration="300"></iron-ajax>-->
 
     <template is="dom-if" if="{{hasTitle(loadedText.title)}}">
       <h1 class="page-title" tabindex="-1">[[loadedText.title]]</h1>
@@ -38,7 +40,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
 
     <template is="dom-repeat" items="[[loadedText.blocks]]">
       <!--<erasure-page-section section-content="[[item]]" synonyms="[[loadedSynonyms]]"></erasure-page-section>-->
-      <erasure-page-section section-content="[[item]]" ></erasure-page-section>
+      <erasure-page-section section-content="[[item]]"></erasure-page-section>
     </template>
   </template>
   <script>
@@ -54,7 +56,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
             value: 'test' //default JSON file when no location mocked
           }
         },
-        hasTitle: function hasTitle(title ) {
+        hasTitle: function hasTitle( title ) {
           return '' === !title;
         }
 
