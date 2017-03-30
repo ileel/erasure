@@ -8,6 +8,8 @@ if ( typeof Promise === 'undefined' ) {
 }
 const S3 = new AWS.S3( { apiVersion: '2006-03-01' } )
 
+const process = require( './process' )
+
 exports.handler = ( event, context, callback ) => {
   const done = ( err, res ) => callback( null, {
     statusCode: err ? '400' : '200',
@@ -38,7 +40,7 @@ exports.handler = ( event, context, callback ) => {
           const DATA = data.Body.toString( 'utf-8' )
           theBody = JSON.parse( DATA )
           console.info( 'Content parsed' )
-          done( null, theBody )
+          done( null, process.obtainChunck( 2, theBody ) )
         } catch ( ex ) {
           done( new Error( 'Failed to parse json structure ' + ex ) )
         }

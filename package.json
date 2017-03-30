@@ -27,11 +27,16 @@
     "require-dir": "^0.3.0",
     "run-sequence": "^1.0.2",
     "vulcanize": ">= 1.4.2",
-    "web-component-tester": "^4.0.0"
+    "web-component-tester": "^4.0.0",
+    "chai": "*",
+    "chai-as-promised": "*",
+    "eslint": "^3.17.1",
+    "mocha": "*",
+    "should": ">= 0.0.1"
   },
   "scripts": {
-    "test": "gulp test:local",
-    "start": "gulp serve"
+    "start": "node_modules/.bin/supervisor app",
+    "test": "node_modules/.bin/mocha 'test/**/*.js'"
   },
   "engines": {
     "node": ">=0.10.0"
