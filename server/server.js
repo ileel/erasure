@@ -40,7 +40,14 @@ exports.handler = ( event, context, callback ) => {
           const DATA = data.Body.toString( 'utf-8' )
           theBody = JSON.parse( DATA )
           console.info( 'Content parsed' )
-          done( null, process.obtainChunck( 2, theBody ) )
+          const storedChuncks = ( process.obtainChunck( 2, theBody ))
+          const changedChunck = { "content": "something" }
+          if ( process.isValid( storedChuncks, changedChunck ) ) {
+            //process.addId changes
+            done( null, changedChunck )
+          } else {
+            done( new Error( 'Invalid request for chunk ', storedChuncks ) )
+          }
         } catch ( ex ) {
           done( new Error( 'Failed to parse json structure ' + ex ) )
         }
