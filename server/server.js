@@ -1,4 +1,4 @@
-"use strict"
+'use strict'
 console.log( '::: Loading function' )
 
 const AWS = require( 'aws-sdk' )
@@ -19,6 +19,19 @@ exports.handler = ( event, context, callback ) => {
 
   switch ( event.httpMethod ) {
     case 'GET':
+      S3.getObject( { Bucket: 'oferasure', Key: 'text.json' } ).promise().then( ( data ) => {
+        let theBody
+        try {
+          const DATA = data.Body.toString( 'utf-8' )
+          theBody = JSON.parse( DATA )
+          console.info( 'Content parsed' )
+          done( null, theBody )
+        } catch ( ex ) {
+          done( new Error( 'Failed to parse json structure ' + ex ) )
+        }
+      } )
+      break
+    case 'POST':
       S3.getObject( { Bucket: 'oferasure', Key: 'text.json' } ).promise().then( ( data ) => {
         let theBody
         try {
